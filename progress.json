@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-05T22:10:37.095132+00:00",
+  "updatedAt": "2026-09-05T22:19:36.849060+00:00",
   "timezone": "Europe/Berlin",
   "overallPercent": 69,
   "orgRepo": "Pierreg99/progress",
@@ -41,9 +41,9 @@
     {
       "id": "cryaipulse",
       "name": "CryAIPulse public viz",
-      "percent": 88,
+      "percent": 92,
       "status": "live",
-      "notes": "Lounge 6 avatars + dialogue + live.json + comfort mode"
+      "notes": "Pulse+Playground landscapes L0-S8; live.json; avatar lounge"
     },
     {
       "id": "agent-memory",
