@@ -1,0 +1,22 @@
+name: Validate progress board
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Sync board artifacts
+        run: python3 scripts/sync_board.py
+      - name: Policy + freshness check
+        run: python3 scripts/sync_board.py --check
+      - name: Fail if sync produced uncommitted drift
+        run: |
+          git add -N .
+          git diff --exit-code || (echo 'Run scripts/sync_board.py and commit' && exit 1)
