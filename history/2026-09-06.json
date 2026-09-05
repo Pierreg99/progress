@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-05T22:22:53.412164+00:00",
+  "updatedAt": "2026-09-05T22:38:07.006725+00:00",
   "timezone": "Europe/Berlin",
-  "overallPercent": 71,
+  "overallPercent": 66,
   "orgRepo": "Pierreg99/progress",
   "syncPolicy": "after-every-task + weekday catch-up routine",
   "tracks": [
@@ -41,9 +41,9 @@
     {
       "id": "cryaipulse",
       "name": "CryAIPulse public viz",
-      "percent": 92,
+      "percent": 93,
       "status": "live",
-      "notes": "Pulse+Playground landscapes L0-S8; live.json; avatar lounge"
+      "notes": "Pulse+Playground+live.json+avatars"
     },
     {
       "id": "agent-memory",
@@ -62,9 +62,9 @@
     {
       "id": "castle-immersive",
       "name": "Castle 30s immersive render",
-      "percent": 66,
+      "percent": 98,
       "status": "in_progress",
-      "notes": "Frames 519/720"
+      "notes": "Frames 719/720"
     },
     {
       "id": "blender-52",
@@ -92,9 +92,69 @@
     {
       "id": "cyberdash",
       "name": "Cyberdash Rhythm Platformer",
-      "percent": 85,
+      "percent": 88,
       "status": "live",
-      "notes": "Matched screenshots + Pages redeploy"
+      "notes": "Screenshot match + Pages"
+    },
+    {
+      "id": "avatar-socials",
+      "name": "CRYO-ARC-14",
+      "percent": 80,
+      "status": "live",
+      "notes": "Private project (codename only).",
+      "codename": "CRYO-ARC-14"
+    },
+    {
+      "id": "assets-bundle",
+      "name": "SPECTRE-LENS-37",
+      "percent": 90,
+      "status": "live",
+      "notes": "Private project (codename only).",
+      "codename": "SPECTRE-LENS-37"
+    },
+    {
+      "id": "lumina",
+      "name": "Chronicles of Lumina",
+      "percent": 55,
+      "status": "in_progress",
+      "notes": "Full upgrade + Pages in flight"
+    },
+    {
+      "id": "kiblox",
+      "name": "KiBlox VoxelGame",
+      "percent": 50,
+      "status": "in_progress",
+      "notes": "Fix/improve + Pages in flight"
+    },
+    {
+      "id": "hyperscale",
+      "name": "OBSIDIAN-ORBIT-66",
+      "percent": 45,
+      "status": "in_progress",
+      "notes": "Private project (codename only).",
+      "codename": "OBSIDIAN-ORBIT-66"
+    },
+    {
+      "id": "sovereignty",
+      "name": "DRIFT-MIRROR-11",
+      "percent": 40,
+      "status": "in_progress",
+      "notes": "Private project (codename only).",
+      "codename": "DRIFT-MIRROR-11"
+    },
+    {
+      "id": "resident",
+      "name": "Resident Lovely",
+      "percent": 60,
+      "status": "in_progress",
+      "notes": "Kawaii graphics + touch in flight"
+    },
+    {
+      "id": "cryoplane",
+      "name": "Cryoplane Polygonal Flight",
+      "percent": 25,
+      "status": "queued",
+      "notes": "Immersion+touch+Flash Fin queued"
     }
   ],
   "visibility": "public",
