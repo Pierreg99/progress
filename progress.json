@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-06T01:03:40+02:00",
+  "updatedAt": "2026-09-06T01:25:26+02:00",
   "timezone": "Europe/Berlin",
-  "overallPercent": 95,
+  "overallPercent": 96,
   "orgRepo": "Pierreg99/progress",
   "syncPolicy": "after-every-task + weekday catch-up routine",
   "tracks": [
@@ -10,9 +10,9 @@
       "id": "cryopg-bot",
       "name": "NEXUS-SPIRE-42",
       "codename": "NEXUS-SPIRE-42",
-      "percent": 97,
+      "percent": 100,
       "status": "live",
-      "notes": "Panel+OAuth code complete; Discord redirect URI still USER ACTION (codename only)."
+      "notes": "OAuth redirect live; user confirmed bot works (codename only)."
     },
     {
       "id": "agentic-snapshot",
