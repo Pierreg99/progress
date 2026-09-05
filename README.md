@@ -1,8 +1,8 @@
-# Cryo Progress (72%)
+# Cryo Progress (76%)
 
 Public automatic progress + quality audits.
 
-**Overall: 72%** · Updated: 2026-09-05T22:43:19.234597+00:00
+**Overall: 76%** · Updated: 2026-09-05T22:43:37.456145+00:00
 
 Synced after tasks. Private tracks = **codename only**.
 
@@ -18,6 +18,7 @@ Synced after tasks. Private tracks = **codename only**.
 | 90% | `POLAR-BLADE-62` | active |
 | 90% | `SPECTRE-LENS-37` | live |
 | 90% | `Chronicles of Lumina` | live |
+| 90% | `Cryoplane Polygonal Flight` | live |
 | 88% | `IRON-SEAL-38` | active |
 | 88% | `Cyberdash Rhythm Platformer` | live |
 | 88% | `DRIFT-MIRROR-11` | live |
@@ -28,7 +29,6 @@ Synced after tasks. Private tracks = **codename only**.
 | 50% | `KiBlox VoxelGame` | in_progress |
 | 45% | `OBSIDIAN-ORBIT-66` | in_progress |
 | 25% | `Blender 5.2 LTS install` | blocked |
-| 25% | `Cryoplane Polygonal Flight` | queued |
 | 10% | `CIPHER-ARC-15` | user_action |
 
 ## Quality

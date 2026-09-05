@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-05T22:43:19.234597+00:00",
+  "updatedAt": "2026-09-05T22:43:37.456145+00:00",
   "timezone": "Europe/Berlin",
-  "overallPercent": 72,
+  "overallPercent": 76,
   "orgRepo": "Pierreg99/progress",
   "syncPolicy": "after-every-task + weekday catch-up routine",
   "tracks": [
@@ -152,9 +152,9 @@
     {
       "id": "cryoplane",
       "name": "Cryoplane Polygonal Flight",
-      "percent": 25,
-      "status": "queued",
-      "notes": "Immersion+touch+Flash Fin queued"
+      "percent": 90,
+      "status": "live",
+      "notes": "0.7 immersive+touch; Pages live; Flash Fin"
     }
   ],
   "visibility": "public",
