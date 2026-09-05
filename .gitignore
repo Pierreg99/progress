@@ -1,0 +1,5 @@
+
+# never publish private codename maps
+**/*codenames.private*
+**/repo-codenames.private.json
+.env

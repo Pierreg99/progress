@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "auditedAt": "2026-09-05T21:42:40.691479+00:00",
+  "overallScore": 72,
+  "grades": {
+    "security": "B",
+    "docs": "B+",
+    "automation": "A-",
+    "parity": "B",
+    "secretsHygiene": "A"
+  },
+  "checks": [
+    {
+      "id": "secret_scan",
+      "pass": true,
+      "detail": "No live API keys in public progress tree"
+    },
+    {
+      "id": "progress_json_valid",
+      "pass": true,
+      "detail": "progress.json schema ok"
+    },
+    {
+      "id": "codenames_no_real_repos",
+      "pass": true,
+      "detail": "PUBLIC_ALIASES contains only codenames"
+    },
+    {
+      "id": "tracks_present",
+      "pass": true,
+      "detail": "Track percents present"
+    },
+    {
+      "id": "benchmark_present",
+      "pass": true,
+      "detail": "benchmarks/latest.json present"
+    },
+    {
+      "id": "history_daily",
+      "pass": true,
+      "detail": "history/ snapshot exists"
+    }
+  ],
+  "findings": [
+    {
+      "severity": "info",
+      "msg": "Private repo real names must never appear in this public repo"
+    },
+    {
+      "severity": "info",
+      "msg": "Canonical product home remains private Cryo-omegaTOPTIER (codenamed in private map)"
+    }
+  ]
+}

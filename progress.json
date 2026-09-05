@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05T21:38:55.792229+00:00",
+  "updatedAt": "2026-09-05T21:42:40.691479+00:00",
   "timezone": "Europe/Berlin",
   "overallPercent": 55,
   "canonicalHome": "Pierreg99/Cryo-omegaTOPTIER",
@@ -11,28 +11,32 @@
       "name": "Cryopg.it Discord bot + panel",
       "percent": 92,
       "status": "live",
-      "notes": "VPS live; OAuth/panel/code; auto-deploy routine pending first run"
+      "notes": "VPS live; OAuth/panel/code; auto-deploy routine pending first run",
+      "codename": "NEXUS-SPIRE-42"
     },
     {
       "id": "agentic-snapshot",
       "name": "AGI-3 / Grok Bot agentic snapshot",
       "percent": 85,
       "status": "active",
-      "notes": "103 profiles + routines; TOPTIER push in flight"
+      "notes": "103 profiles + routines; TOPTIER push in flight",
+      "codename": "POLAR-BLADE-62"
     },
     {
       "id": "openrouter-pipeline",
       "name": "OpenRouter / cryo-llm / OpenCode / Cline",
       "percent": 70,
       "status": "active",
-      "notes": "cryo-llm + Flash Fin; OpenCode/Cline wiring"
+      "notes": "cryo-llm + Flash Fin; OpenCode/Cline wiring",
+      "codename": "IRON-SEAL-38"
     },
     {
       "id": "routines-mesh",
       "name": "Standing routines + mesh ops",
       "percent": 80,
       "status": "active",
-      "notes": "Autosync, VPS update, SHA proof, docs, quality, etc."
+      "notes": "Autosync, VPS update, SHA proof, docs, quality, etc.",
+      "codename": "POLAR-BLADE-62"
     },
     {
       "id": "castle-immersive",
@@ -53,14 +57,18 @@
       "name": "Recursive brain META loop",
       "percent": 35,
       "status": "active",
-      "notes": "Structure + learning hooks"
+      "notes": "Structure + learning hooks",
+      "codename": "POLAR-BLADE-62"
     },
     {
       "id": "vps-security",
       "name": "Secret rotation after chat pastes",
       "percent": 10,
       "status": "user_action",
-      "notes": "Rotate Discord/VPS/OpenRouter if pasted"
+      "notes": "Rotate Discord/VPS/OpenRouter if pasted",
+      "codename": "CIPHER-ARC-15"
     }
-  ]
+  ],
+  "visibility": "public",
+  "codenamePolicy": "Private projects referenced by codename only in this repo"
 }
