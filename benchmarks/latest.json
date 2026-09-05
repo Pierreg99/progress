@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "benchmark": "cryoomega_mesh_vs_grok_bot_solo",
+  "yardstick": "YS-AGI3-003",
+  "updatedAt": "2026-09-05T21:39:39.527901+00:00",
+  "mode": "structural_bootstrap",
+  "note": "Bootstrap structural scorecard; routine replaces with live probe+LLM yardstick runs.",
+  "arms": {
+    "cryoomega_mesh": {
+      "label": "Cryoomega + Grok Bot (mesh)",
+      "scores": {
+        "F": 78,
+        "C": 82,
+        "O": 70,
+        "ops": 85,
+        "overall": 79
+      },
+      "probes": {
+        "profiles_103": true,
+        "live_mesh_agents": true,
+        "routines_enabled": true,
+        "cryo_llm_flash_fin": true,
+        "vps_bot_live": true
+      }
+    },
+    "grok_bot_solo": {
+      "label": "Grok Bot alone (no mesh)",
+      "scores": {
+        "F": 65,
+        "C": 70,
+        "O": 60,
+        "ops": 55,
+        "overall": 63
+      },
+      "probes": {
+        "profiles_103": false,
+        "live_mesh_agents": false,
+        "routines_enabled": false,
+        "cryo_llm_flash_fin": true,
+        "vps_bot_live": false
+      }
+    }
+  },
+  "deltaOverall": 16,
+  "winner": "cryoomega_mesh"
+}
