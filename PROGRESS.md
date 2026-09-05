@@ -1,29 +1,28 @@
-# Cryo Progress (55%)
+# Cryo Progress (68%)
 
 Public automatic progress + quality audits.
 
-**Overall: 55%** · Updated: 2026-09-05T21:44:55.415501+00:00
+**Overall: 68%** · Updated: 2026-09-05T22:07:19.961791+00:00
 
-If a track is a **private** repository, its display name is **only** the secret codename.
+Synced after tasks (and weekday catch-up). Private tracks = **codename only**.
 
 ## Tracks
 
 | % | Name | Status |
 |---|------|--------|
-| 92% | `NEXUS-SPIRE-42` | live |
-| 85% | `POLAR-BLADE-62` | active |
-| 70% | `IRON-SEAL-38` | active |
-| 80% | `POLAR-BLADE-62` | active |
-| 40% | `Castle 30s immersive render` | in_progress |
+| 93% | `NEXUS-SPIRE-42` | live |
+| 90% | `POLAR-BLADE-62` | active |
+| 88% | `IRON-SEAL-38` | active |
+| 89% | `POLAR-BLADE-62` | active |
+| 82% | `CryAIPulse public viz` | live |
+| 78% | `agent-memory library` | live |
+| 75% | `Master prompts fan bundle` | live |
+| 66% | `Castle 30s immersive render` | in_progress |
 | 25% | `Blender 5.2 LTS install` | blocked |
-| 35% | `POLAR-BLADE-62` | active |
+| 55% | `POLAR-BLADE-62` | active |
 | 10% | `CIPHER-ARC-15` | user_action |
 
 ## Quality
 
 See [`quality/QUALITY.md`](./quality/QUALITY.md).
-
-## Codenames
-
-Public list of codenames (no mapping): [`codenames/PUBLIC_ALIASES.json`](./codenames/PUBLIC_ALIASES.json).
 
