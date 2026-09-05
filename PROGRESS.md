@@ -11,13 +11,13 @@ Updated: 2026-09-06T01:00:34+02:00 (Europe/Berlin)
 | POLAR-BLADE-62 | 100 | live |
 | NEXUS-SPIRE-42 | 97 | live |
 | POLAR-BLADE-62 | 95 | active |
-| CryAIPulse public viz | 93 | live |
-| Resident Lovely | 92 | live |
-| KiBlox VoxelGame | 91 | live |
-| Chronicles of Lumina | 90 | live |
-| Cryoplane Polygonal Flight | 90 | live |
+| CryAIPulse public viz | 100 | live |
+| Resident Lovely | 100 | live |
+| KiBlox VoxelGame | 100 | live |
+| Chronicles of Lumina | 100 | live |
+| Cryoplane Polygonal Flight | 100 | live |
 | SPECTRE-LENS-37 | 90 | live |
-| Cyberdash Rhythm Platformer | 88 | live |
+| Cyberdash Rhythm Platformer | 100 | live |
 | DRIFT-MIRROR-11 | 88 | live |
 | CRYO-ARC-14 | 80 | live |
 | agent-memory library | 78 | live |

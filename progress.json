@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-06T01:00:34+02:00",
+  "updatedAt": "2026-09-06T01:02:43+02:00",
   "timezone": "Europe/Berlin",
-  "overallPercent": 86,
+  "overallPercent": 89,
   "orgRepo": "Pierreg99/progress",
   "syncPolicy": "after-every-task + weekday catch-up routine",
   "tracks": [
@@ -41,9 +41,9 @@
     {
       "id": "cryaipulse",
       "name": "CryAIPulse public viz",
-      "percent": 93,
+      "percent": 100,
       "status": "live",
-      "notes": "Pulse+Playground+live.json+avatars"
+      "notes": "v1.1.0 Playground+live.json documented; CHANGELOG/VERSION"
     },
     {
       "id": "agent-memory",
@@ -92,9 +92,9 @@
     {
       "id": "cyberdash",
       "name": "Cyberdash Rhythm Platformer",
-      "percent": 88,
+      "percent": 100,
       "status": "live",
-      "notes": "Screenshot match + Pages"
+      "notes": "v2.0.2 VERSION sync + UI align; Pages on master"
     },
     {
       "id": "avatar-socials",
@@ -115,16 +115,16 @@
     {
       "id": "lumina",
       "name": "Chronicles of Lumina",
-      "percent": 90,
+      "percent": 100,
       "status": "live",
-      "notes": "v0.13 Pages + mobile lookpad; 401 tests"
+      "notes": "v0.13.2 root redirect + nested Pages; era export OK; SW lumina-v0.13.2"
     },
     {
       "id": "kiblox",
       "name": "KiBlox VoxelGame",
-      "percent": 91,
+      "percent": 100,
       "status": "live",
-      "notes": "0.8.1 Pages live; loader+mobile Enemy safe-spawn radius 36."
+      "notes": "v0.8.2 spawn safety R=36 documented; Pages build on push"
     },
     {
       "id": "hyperscale",
@@ -145,16 +145,16 @@
     {
       "id": "resident",
       "name": "Resident Lovely",
-      "percent": 92,
+      "percent": 100,
       "status": "live",
-      "notes": "v7.4 kawaii + touch; Pages live"
+      "notes": "v7.4.1 ship patch; 256 tests green; SW v7.4.1-cache"
     },
     {
       "id": "cryoplane",
       "name": "Cryoplane Polygonal Flight",
-      "percent": 90,
+      "percent": 100,
       "status": "live",
-      "notes": "0.7 immersive+touch; Pages live; Flash Fin"
+      "notes": "v0.7.1 ship-complete; immersive+touch Pages live"
     }
   ],
   "visibility": "public",
