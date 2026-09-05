@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-05T22:19:36.849060+00:00",
+  "updatedAt": "2026-09-05T22:22:53.412164+00:00",
   "timezone": "Europe/Berlin",
-  "overallPercent": 69,
+  "overallPercent": 71,
   "orgRepo": "Pierreg99/progress",
   "syncPolicy": "after-every-task + weekday catch-up routine",
   "tracks": [
@@ -88,6 +88,13 @@
       "percent": 10,
       "status": "user_action",
       "notes": "Private project (codename only)."
+    },
+    {
+      "id": "cyberdash",
+      "name": "Cyberdash Rhythm Platformer",
+      "percent": 85,
+      "status": "live",
+      "notes": "Matched screenshots + Pages redeploy"
     }
   ],
   "visibility": "public",

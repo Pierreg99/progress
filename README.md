@@ -1,8 +1,8 @@
-# Cryo Progress (69%)
+# Cryo Progress (71%)
 
 Public automatic progress + quality audits.
 
-**Overall: 69%** · Updated: 2026-09-05T22:19:36.849060+00:00
+**Overall: 71%** · Updated: 2026-09-05T22:22:53.412164+00:00
 
 Synced after tasks. Private tracks = **codename only**.
 
@@ -21,6 +21,7 @@ Synced after tasks. Private tracks = **codename only**.
 | 25% | `Blender 5.2 LTS install` | blocked |
 | 55% | `POLAR-BLADE-62` | active |
 | 10% | `CIPHER-ARC-15` | user_action |
+| 85% | `Cyberdash Rhythm Platformer` | live |
 
 ## Quality
 
