@@ -2,9 +2,9 @@
 
 Public automatic progress + quality audits.
 
-**Overall: 68%** · Updated: 2026-09-05T22:07:19.961791+00:00
+**Overall: 68%** · Updated: 2026-09-05T22:09:31.623271+00:00
 
-Synced after tasks (and weekday catch-up). Private tracks = **codename only**.
+Synced after tasks. Private tracks = **codename only**.
 
 ## Tracks
 
@@ -13,7 +13,7 @@ Synced after tasks (and weekday catch-up). Private tracks = **codename only**.
 | 93% | `NEXUS-SPIRE-42` | live |
 | 90% | `POLAR-BLADE-62` | active |
 | 88% | `IRON-SEAL-38` | active |
-| 89% | `POLAR-BLADE-62` | active |
+| 90% | `POLAR-BLADE-62` | active |
 | 82% | `CryAIPulse public viz` | live |
 | 78% | `agent-memory library` | live |
 | 75% | `Master prompts fan bundle` | live |
