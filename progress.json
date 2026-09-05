@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-05T22:41:04.282746+00:00",
+  "updatedAt": "2026-09-05T22:42:00.271203+00:00",
   "timezone": "Europe/Berlin",
-  "overallPercent": 69,
+  "overallPercent": 71,
   "orgRepo": "Pierreg99/progress",
   "syncPolicy": "after-every-task + weekday catch-up routine",
   "tracks": [
@@ -115,9 +115,9 @@
     {
       "id": "lumina",
       "name": "Chronicles of Lumina",
-      "percent": 55,
-      "status": "in_progress",
-      "notes": "Full upgrade + Pages in flight"
+      "percent": 90,
+      "status": "live",
+      "notes": "v0.13 Pages + mobile lookpad; 401 tests"
     },
     {
       "id": "kiblox",
