@@ -1,41 +1,41 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05T21:42:40.691479+00:00",
+  "updatedAt": "2026-09-05T21:44:55.415501+00:00",
   "timezone": "Europe/Berlin",
   "overallPercent": 55,
-  "canonicalHome": "Pierreg99/Cryo-omegaTOPTIER",
+  "canonicalHome": "POLAR-BLADE-62",
   "orgRepo": "Pierreg99/progress",
   "tracks": [
     {
       "id": "cryopg-bot",
-      "name": "Cryopg.it Discord bot + panel",
+      "name": "NEXUS-SPIRE-42",
       "percent": 92,
       "status": "live",
-      "notes": "VPS live; OAuth/panel/code; auto-deploy routine pending first run",
+      "notes": "Private project (codename only).",
       "codename": "NEXUS-SPIRE-42"
     },
     {
       "id": "agentic-snapshot",
-      "name": "AGI-3 / Grok Bot agentic snapshot",
+      "name": "POLAR-BLADE-62",
       "percent": 85,
       "status": "active",
-      "notes": "103 profiles + routines; TOPTIER push in flight",
+      "notes": "Private project (codename only).",
       "codename": "POLAR-BLADE-62"
     },
     {
       "id": "openrouter-pipeline",
-      "name": "OpenRouter / cryo-llm / OpenCode / Cline",
+      "name": "IRON-SEAL-38",
       "percent": 70,
       "status": "active",
-      "notes": "cryo-llm + Flash Fin; OpenCode/Cline wiring",
+      "notes": "Private project (codename only).",
       "codename": "IRON-SEAL-38"
     },
     {
       "id": "routines-mesh",
-      "name": "Standing routines + mesh ops",
+      "name": "POLAR-BLADE-62",
       "percent": 80,
       "status": "active",
-      "notes": "Autosync, VPS update, SHA proof, docs, quality, etc.",
+      "notes": "Private project (codename only).",
       "codename": "POLAR-BLADE-62"
     },
     {
@@ -54,21 +54,21 @@
     },
     {
       "id": "recursive-brain",
-      "name": "Recursive brain META loop",
+      "name": "POLAR-BLADE-62",
       "percent": 35,
       "status": "active",
-      "notes": "Structure + learning hooks",
+      "notes": "Private project (codename only).",
       "codename": "POLAR-BLADE-62"
     },
     {
       "id": "vps-security",
-      "name": "Secret rotation after chat pastes",
+      "name": "CIPHER-ARC-15",
       "percent": 10,
       "status": "user_action",
-      "notes": "Rotate Discord/VPS/OpenRouter if pasted",
+      "notes": "Private project (codename only).",
       "codename": "CIPHER-ARC-15"
     }
   ],
   "visibility": "public",
-  "codenamePolicy": "Private projects referenced by codename only in this repo"
+  "codenamePolicy": "Private repos: display name IS the secret codename only. No real private repo names in this public repository."
 }

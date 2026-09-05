@@ -3,12 +3,12 @@
   "updatedAt": "2026-09-05T21:38:55.792229+00:00",
   "timezone": "Europe/Berlin",
   "overallPercent": 55,
-  "canonicalHome": "Pierreg99/Cryo-omegaTOPTIER",
+  "canonicalHome": "POLAR-BLADE-62",
   "orgRepo": "Pierreg99/progress",
   "tracks": [
     {
       "id": "cryopg-bot",
-      "name": "Cryopg.it Discord bot + panel",
+      "name": "NEXUS-SPIRE-42 Discord bot + panel",
       "percent": 92,
       "status": "live",
       "notes": "VPS live; OAuth/panel/code; auto-deploy routine pending first run"
