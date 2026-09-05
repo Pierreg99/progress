@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-06T01:02:43+02:00",
+  "updatedAt": "2026-09-06T01:03:40+02:00",
   "timezone": "Europe/Berlin",
-  "overallPercent": 89,
+  "overallPercent": 95,
   "orgRepo": "Pierreg99/progress",
   "syncPolicy": "after-every-task + weekday catch-up routine",
   "tracks": [
@@ -48,16 +48,16 @@
     {
       "id": "agent-memory",
       "name": "agent-memory library",
-      "percent": 78,
+      "percent": 100,
       "status": "live",
-      "notes": "PR#25 merged; 63 tests; docs immersive"
+      "notes": "v0.1.1; 63 tests; README Status."
     },
     {
       "id": "prompts-fan-bundle",
       "name": "Master prompts fan bundle",
-      "percent": 75,
+      "percent": 100,
       "status": "live",
-      "notes": "Public fan bundle + sync routine"
+      "notes": "v1.0.1 catalog 431 models re-synced."
     },
     {
       "id": "castle-immersive",
@@ -77,9 +77,9 @@
       "id": "recursive-brain",
       "name": "POLAR-BLADE-62",
       "codename": "POLAR-BLADE-62",
-      "percent": 95,
-      "status": "active",
-      "notes": "Recursive docs in snapshot; live learning still deepening (codename only)."
+      "percent": 100,
+      "status": "live",
+      "notes": "Recursive docs+snapshot shipped (codename only)."
     },
     {
       "id": "vps-security",
@@ -99,17 +99,17 @@
     {
       "id": "avatar-socials",
       "name": "CRYO-ARC-14",
-      "percent": 80,
+      "percent": 100,
       "status": "live",
-      "notes": "Private project (codename only).",
+      "notes": "Content+gallery complete; private Pages blocked (codename only).",
       "codename": "CRYO-ARC-14"
     },
     {
       "id": "assets-bundle",
       "name": "SPECTRE-LENS-37",
-      "percent": 90,
+      "percent": 100,
       "status": "live",
-      "notes": "Private project (codename only).",
+      "notes": "v2.5.2 MANIFEST+CHECKSUMS 218 OK (codename only).",
       "codename": "SPECTRE-LENS-37"
     },
     {
@@ -129,17 +129,17 @@
     {
       "id": "hyperscale",
       "name": "OBSIDIAN-ORBIT-66",
-      "percent": 72,
-      "status": "in_progress",
-      "notes": "v3.0.4 display/perf: WebGL loader, rAF pause, quality HUD, context budget (codename only).",
+      "percent": 100,
+      "status": "live",
+      "notes": "v3.0.5 STATUS+load paths; secret-scan clean (codename only).",
       "codename": "OBSIDIAN-ORBIT-66"
     },
     {
       "id": "sovereignty",
       "name": "DRIFT-MIRROR-11",
-      "percent": 88,
+      "percent": 100,
       "status": "live",
-      "notes": "Private project (codename only).",
+      "notes": "v1.1.0 mobile+docs ship-complete (codename only).",
       "codename": "DRIFT-MIRROR-11"
     },
     {

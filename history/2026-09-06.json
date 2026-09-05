@@ -1,33 +1,10 @@
 {
   "date": "2026-09-06",
-  "overallPercent": 89,
-  "updatedAt": "2026-09-06T01:02:43+02:00",
+  "overallPercent": 95,
+  "updatedAt": "2026-09-06T01:03:40+02:00",
   "highlights": [
-    "Blender 5.2.0 LTS installed",
-    "Agentic/OpenRouter/cryopg docs push"
-  ],
-  "cryaipulse": {
-    "percent": 100,
-    "notes": "v1.1.0 Playground+live.json documented; CHANGELOG/VERSION"
-  },
-  "cyberdash": {
-    "percent": 100,
-    "notes": "v2.0.2 VERSION sync + UI align; Pages on master"
-  },
-  "lumina": {
-    "percent": 100,
-    "notes": "v0.13.2 root redirect + nested Pages; era export OK; SW lumina-v0.13.2"
-  },
-  "kiblox": {
-    "percent": 100,
-    "notes": "v0.8.2 spawn safety R=36 documented; Pages build on push"
-  },
-  "resident": {
-    "percent": 100,
-    "notes": "v7.4.1 ship patch; 256 tests green; SW v7.4.1-cache"
-  },
-  "cryoplane": {
-    "percent": 100,
-    "notes": "v0.7.1 ship-complete; immersive+touch Pages live"
-  }
+    "Private product tracks to 100%",
+    "Blender 5.2",
+    "Agentic docs"
+  ]
 }
