@@ -1,8 +1,8 @@
-# Cryo Progress (68%)
+# Cryo Progress (69%)
 
 Public automatic progress + quality audits.
 
-**Overall: 68%** · Updated: 2026-09-05T22:09:31.623271+00:00
+**Overall: 69%** · Updated: 2026-09-05T22:10:37.095132+00:00
 
 Synced after tasks. Private tracks = **codename only**.
 
@@ -14,7 +14,7 @@ Synced after tasks. Private tracks = **codename only**.
 | 90% | `POLAR-BLADE-62` | active |
 | 88% | `IRON-SEAL-38` | active |
 | 90% | `POLAR-BLADE-62` | active |
-| 82% | `CryAIPulse public viz` | live |
+| 88% | `CryAIPulse public viz` | live |
 | 78% | `agent-memory library` | live |
 | 75% | `Master prompts fan bundle` | live |
 | 66% | `Castle 30s immersive render` | in_progress |

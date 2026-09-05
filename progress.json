@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-05T22:09:31.623271+00:00",
+  "updatedAt": "2026-09-05T22:10:37.095132+00:00",
   "timezone": "Europe/Berlin",
-  "overallPercent": 68,
+  "overallPercent": 69,
   "orgRepo": "Pierreg99/progress",
   "syncPolicy": "after-every-task + weekday catch-up routine",
   "tracks": [
@@ -41,9 +41,9 @@
     {
       "id": "cryaipulse",
       "name": "CryAIPulse public viz",
-      "percent": 82,
+      "percent": 88,
       "status": "live",
-      "notes": "Live.json poll, multi-prep avatar, token pulse; lounge upgrade in flight"
+      "notes": "Lounge 6 avatars + dialogue + live.json + comfort mode"
     },
     {
       "id": "agent-memory",
