@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-05T22:43:37.456145+00:00",
+  "updatedAt": "2026-09-05T22:44:08.990173+00:00",
   "timezone": "Europe/Berlin",
-  "overallPercent": 76,
+  "overallPercent": 78,
   "orgRepo": "Pierreg99/progress",
   "syncPolicy": "after-every-task + weekday catch-up routine",
   "tracks": [
@@ -122,9 +122,9 @@
     {
       "id": "kiblox",
       "name": "KiBlox VoxelGame",
-      "percent": 50,
-      "status": "in_progress",
-      "notes": "Fix/improve + Pages in flight"
+      "percent": 90,
+      "status": "live",
+      "notes": "0.8.1 Pages live; loader+mobile"
     },
     {
       "id": "hyperscale",
