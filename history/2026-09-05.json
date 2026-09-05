@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-05T21:38:55.792229+00:00",
+  "timezone": "Europe/Berlin",
+  "overallPercent": 55,
+  "canonicalHome": "Pierreg99/Cryo-omegaTOPTIER",
+  "orgRepo": "Pierreg99/progress",
+  "tracks": [
+    {
+      "id": "cryopg-bot",
+      "name": "Cryopg.it Discord bot + panel",
+      "percent": 92,
+      "status": "live",
+      "notes": "VPS live; OAuth/panel/code; auto-deploy routine pending first run"
+    },
+    {
+      "id": "agentic-snapshot",
+      "name": "AGI-3 / Grok Bot agentic snapshot",
+      "percent": 85,
+      "status": "active",
+      "notes": "103 profiles + routines; TOPTIER push in flight"
+    },
+    {
+      "id": "openrouter-pipeline",
+      "name": "OpenRouter / cryo-llm / OpenCode / Cline",
+      "percent": 70,
+      "status": "active",
+      "notes": "cryo-llm + Flash Fin; OpenCode/Cline wiring"
+    },
+    {
+      "id": "routines-mesh",
+      "name": "Standing routines + mesh ops",
+      "percent": 80,
+      "status": "active",
+      "notes": "Autosync, VPS update, SHA proof, docs, quality, etc."
+    },
+    {
+      "id": "castle-immersive",
+      "name": "Castle 30s immersive render",
+      "percent": 40,
+      "status": "in_progress",
+      "notes": "Frames toward 720; encode/push pending"
+    },
+    {
+      "id": "blender-52",
+      "name": "Blender 5.2 LTS install",
+      "percent": 25,
+      "status": "blocked",
+      "notes": "tarball present; extract/apt issues earlier"
+    },
+    {
+      "id": "recursive-brain",
+      "name": "Recursive brain META loop",
+      "percent": 35,
+      "status": "active",
+      "notes": "Structure + learning hooks"
+    },
+    {
+      "id": "vps-security",
+      "name": "Secret rotation after chat pastes",
+      "percent": 10,
+      "status": "user_action",
+      "notes": "Rotate Discord/VPS/OpenRouter if pasted"
+    }
+  ]
+}
