@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-05T22:38:07.006725+00:00",
+  "updatedAt": "2026-09-05T22:40:33.001892+00:00",
   "timezone": "Europe/Berlin",
-  "overallPercent": 66,
+  "overallPercent": 69,
   "orgRepo": "Pierreg99/progress",
   "syncPolicy": "after-every-task + weekday catch-up routine",
   "tracks": [
@@ -137,8 +137,8 @@
     {
       "id": "sovereignty",
       "name": "DRIFT-MIRROR-11",
-      "percent": 40,
-      "status": "in_progress",
+      "percent": 88,
+      "status": "live",
       "notes": "Private project (codename only).",
       "codename": "DRIFT-MIRROR-11"
     },
