@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-05T22:44:08.990173+00:00",
+  "updatedAt": "2026-09-06T00:50:34+02:00",
   "timezone": "Europe/Berlin",
-  "overallPercent": 78,
+  "overallPercent": 79,
   "orgRepo": "Pierreg99/progress",
   "syncPolicy": "after-every-task + weekday catch-up routine",
   "tracks": [
@@ -122,16 +122,16 @@
     {
       "id": "kiblox",
       "name": "KiBlox VoxelGame",
-      "percent": 90,
+      "percent": 91,
       "status": "live",
-      "notes": "0.8.1 Pages live; loader+mobile"
+      "notes": "0.8.1 Pages live; loader+mobile Enemy safe-spawn radius 36."
     },
     {
       "id": "hyperscale",
       "name": "OBSIDIAN-ORBIT-66",
-      "percent": 45,
+      "percent": 72,
       "status": "in_progress",
-      "notes": "Private project (codename only).",
+      "notes": "v3.0.4 display/perf: WebGL loader, rAF pause, quality HUD, context budget (codename only).",
       "codename": "OBSIDIAN-ORBIT-66"
     },
     {
