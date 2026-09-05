@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-06T00:50:34+02:00",
+  "updatedAt": "2026-09-06T01:00:34+02:00",
   "timezone": "Europe/Berlin",
-  "overallPercent": 79,
+  "overallPercent": 86,
   "orgRepo": "Pierreg99/progress",
   "syncPolicy": "after-every-task + weekday catch-up routine",
   "tracks": [
@@ -10,33 +10,33 @@
       "id": "cryopg-bot",
       "name": "NEXUS-SPIRE-42",
       "codename": "NEXUS-SPIRE-42",
-      "percent": 93,
+      "percent": 97,
       "status": "live",
-      "notes": "Private project (codename only)."
+      "notes": "Panel+OAuth code complete; Discord redirect URI still USER ACTION (codename only)."
     },
     {
       "id": "agentic-snapshot",
       "name": "POLAR-BLADE-62",
       "codename": "POLAR-BLADE-62",
-      "percent": 90,
-      "status": "active",
-      "notes": "Private project (codename only)."
+      "percent": 100,
+      "status": "live",
+      "notes": "Snapshot/routines/docs SHIP_STATUS + QUALITY pushed (codename only)."
     },
     {
       "id": "openrouter-pipeline",
       "name": "IRON-SEAL-38",
       "codename": "IRON-SEAL-38",
-      "percent": 88,
-      "status": "active",
-      "notes": "Private project (codename only)."
+      "percent": 100,
+      "status": "live",
+      "notes": "docs/OPENROUTER.md Flash Fin defaults shipped (codename only)."
     },
     {
       "id": "routines-mesh",
       "name": "POLAR-BLADE-62",
       "codename": "POLAR-BLADE-62",
-      "percent": 90,
-      "status": "active",
-      "notes": "Private project (codename only)."
+      "percent": 100,
+      "status": "live",
+      "notes": "Routines mesh documented in snapshot push (codename only)."
     },
     {
       "id": "cryaipulse",
@@ -69,17 +69,17 @@
     {
       "id": "blender-52",
       "name": "Blender 5.2 LTS install",
-      "percent": 25,
-      "status": "blocked",
-      "notes": "Extract/apt issues earlier"
+      "percent": 100,
+      "status": "live",
+      "notes": "Blender 5.2.0 LTS at /opt/blender-5.2; blender-5.2 symlink; 4.3.2 kept"
     },
     {
       "id": "recursive-brain",
       "name": "POLAR-BLADE-62",
       "codename": "POLAR-BLADE-62",
-      "percent": 55,
+      "percent": 95,
       "status": "active",
-      "notes": "Private project (codename only)."
+      "notes": "Recursive docs in snapshot; live learning still deepening (codename only)."
     },
     {
       "id": "vps-security",
