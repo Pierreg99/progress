@@ -1,8 +1,8 @@
-# Cryo Progress (71%)
+# Cryo Progress (72%)
 
 Public automatic progress + quality audits.
 
-**Overall: 71%** · Updated: 2026-09-05T22:42:00.271203+00:00
+**Overall: 72%** · Updated: 2026-09-05T22:43:19.234597+00:00
 
 Synced after tasks. Private tracks = **codename only**.
 
@@ -13,6 +13,7 @@ Synced after tasks. Private tracks = **codename only**.
 | 100% | `Castle 30s immersive render` | live |
 | 93% | `NEXUS-SPIRE-42` | live |
 | 93% | `CryAIPulse public viz` | live |
+| 92% | `Resident Lovely` | live |
 | 90% | `POLAR-BLADE-62` | active |
 | 90% | `POLAR-BLADE-62` | active |
 | 90% | `SPECTRE-LENS-37` | live |
@@ -23,7 +24,6 @@ Synced after tasks. Private tracks = **codename only**.
 | 80% | `CRYO-ARC-14` | live |
 | 78% | `agent-memory library` | live |
 | 75% | `Master prompts fan bundle` | live |
-| 60% | `Resident Lovely` | in_progress |
 | 55% | `POLAR-BLADE-62` | active |
 | 50% | `KiBlox VoxelGame` | in_progress |
 | 45% | `OBSIDIAN-ORBIT-66` | in_progress |

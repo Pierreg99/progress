@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-05T22:42:00.271203+00:00",
+  "updatedAt": "2026-09-05T22:43:19.234597+00:00",
   "timezone": "Europe/Berlin",
-  "overallPercent": 71,
+  "overallPercent": 72,
   "orgRepo": "Pierreg99/progress",
   "syncPolicy": "after-every-task + weekday catch-up routine",
   "tracks": [
@@ -145,9 +145,9 @@
     {
       "id": "resident",
       "name": "Resident Lovely",
-      "percent": 60,
-      "status": "in_progress",
-      "notes": "Kawaii graphics + touch in flight"
+      "percent": 92,
+      "status": "live",
+      "notes": "v7.4 kawaii + touch; Pages live"
     },
     {
       "id": "cryoplane",
