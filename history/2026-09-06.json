@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-05T22:40:33.001892+00:00",
+  "updatedAt": "2026-09-05T22:41:04.282746+00:00",
   "timezone": "Europe/Berlin",
   "overallPercent": 69,
   "orgRepo": "Pierreg99/progress",
@@ -62,9 +62,9 @@
     {
       "id": "castle-immersive",
       "name": "Castle 30s immersive render",
-      "percent": 98,
-      "status": "in_progress",
-      "notes": "Frames 719/720"
+      "percent": 100,
+      "status": "live",
+      "notes": "30s v4 EEVEE 1080p on blender-experimental immersive-30s/"
     },
     {
       "id": "blender-52",

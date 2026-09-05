@@ -2,7 +2,7 @@
 
 Public automatic progress + quality audits.
 
-**Overall: 69%** · Updated: 2026-09-05T22:40:33.001892+00:00
+**Overall: 69%** · Updated: 2026-09-05T22:41:04.282746+00:00
 
 Synced after tasks. Private tracks = **codename only**.
 
@@ -10,7 +10,7 @@ Synced after tasks. Private tracks = **codename only**.
 
 | % | Name | Status |
 |---|------|--------|
-| 98% | `Castle 30s immersive render` | in_progress |
+| 100% | `Castle 30s immersive render` | live |
 | 93% | `NEXUS-SPIRE-42` | live |
 | 93% | `CryAIPulse public viz` | live |
 | 90% | `POLAR-BLADE-62` | active |
