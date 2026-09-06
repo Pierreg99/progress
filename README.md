@@ -2,7 +2,7 @@
 
 Public automatic progress + quality audits for Cryofreee / Cryo Omega.
 
-**Overall: 96%** · Updated: `2026-09-06T01:37:25+02:00` · Timezone: Europe/Berlin
+**Overall: 96%** · Updated: `2026-09-06T04:56:11+02:00` · Timezone: Europe/Berlin
 
 Synced after every material task (`sync-progress-after-task` skill) plus weekday catch-up routine **Progress percent auto** (18:00 Berlin, Mon–Fri). Private tracks = **codename only**.
 
@@ -10,6 +10,7 @@ Synced after every material task (`sync-progress-after-task` skill) plus weekday
 
 | % | Name | Status |
 |---|------|--------|
+| 100% | `AURORA-PANEL-27` | live |
 | 100% | `Blender 5.2 LTS install` | live |
 | 100% | `CRYO-ARC-14` | live |
 | 100% | `Castle 30s immersive render` | live |
