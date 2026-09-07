@@ -1,31 +1,35 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Cryo Progress — 96%</title>
-  <style>
-    :root { color-scheme: dark; font-family: ui-sans-serif, system-ui, sans-serif; }
-    body { margin: 2rem auto; max-width: 52rem; padding: 0 1rem; background: #0b1020; color: #e8eefc; }
-    h1 { font-size: 1.6rem; }
-    .bar { height: 10px; background: #1c2744; border-radius: 999px; overflow: hidden; margin: 1rem 0 1.5rem; }
-    .bar > span { display: block; height: 100%; width: 96%; background: linear-gradient(90deg,#5aa9ff,#7c4dff); }
-    table { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
-    th, td { text-align: left; padding: 0.45rem 0.35rem; border-bottom: 1px solid #243056; }
-    th { color: #9fb3d9; font-weight: 600; }
-    td:first-child { width: 4rem; font-variant-numeric: tabular-nums; }
-    a { color: #8ec5ff; }
-    .meta { color: #9fb3d9; font-size: 0.9rem; }
-  </style>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta name="theme-color" content="#08111f" />
+<meta name="description" content="Cryo Progress — engineering portfolio, verified project landscape, and documentation hub." />
+<title>Cryo Progress — Portfolio</title>
+<style>
+:root{color-scheme:dark;--bg:#06101d;--panel:#0b1728;--panel2:#0e1d31;--text:#eaf3ff;--muted:#91a7c2;--line:#1b3048;--accent:#67e8f9;--accent2:#a78bfa;--ok:#8ef0bb;--warn:#f6d365;--shadow:0 18px 55px rgba(0,0,0,.28);font:15px/1.6 Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:radial-gradient(circle at 15% 0%,rgba(103,232,249,.1),transparent 30%),radial-gradient(circle at 90% 15%,rgba(167,139,250,.1),transparent 32%),var(--bg);color:var(--text)}a{color:inherit;text-decoration:none}.wrap{width:min(1160px,calc(100% - 32px));margin:auto}.nav{position:sticky;top:0;z-index:10;background:rgba(6,16,29,.78);backdrop-filter:blur(16px);border-bottom:1px solid rgba(255,255,255,.05)}.navin{min-height:68px;display:flex;align-items:center;justify-content:space-between;gap:18px}.brand{font-weight:800;letter-spacing:.08em;text-transform:uppercase}.navlinks{display:flex;gap:16px;color:var(--muted);font-size:13px}.navlinks a:hover{color:var(--text)}
+.hero{padding:82px 0 48px}.eyebrow{color:var(--accent);font-size:12px;text-transform:uppercase;letter-spacing:.18em;font-weight:800}.hero h1{font-size:clamp(42px,7vw,82px);line-height:.95;margin:14px 0 20px;max-width:880px;letter-spacing:-.045em}.hero p{max-width:760px;color:var(--muted);font-size:18px}.actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:26px}.btn{display:inline-flex;align-items:center;gap:8px;padding:11px 15px;border:1px solid var(--line);border-radius:12px;background:var(--panel);font-weight:700}.btn.primary{background:linear-gradient(135deg,rgba(103,232,249,.16),rgba(167,139,250,.14));border-color:rgba(103,232,249,.34)}
+.grid{display:grid;gap:16px}.metrics{grid-template-columns:repeat(4,1fr);margin:20px 0 58px}.card{background:linear-gradient(180deg,rgba(255,255,255,.025),transparent),var(--panel);border:1px solid var(--line);border-radius:18px;padding:20px;box-shadow:var(--shadow)}.metric strong{display:block;font-size:34px;letter-spacing:-.04em}.metric span{color:var(--muted);font-size:13px}.section{padding:30px 0 70px}.section h2{font-size:30px;margin:0 0 8px;letter-spacing:-.025em}.section>p{color:var(--muted);margin-top:0}.projects{grid-template-columns:repeat(3,1fr)}.project{min-height:220px;display:flex;flex-direction:column;justify-content:space-between}.tag{display:inline-flex;padding:4px 8px;border:1px solid var(--line);border-radius:999px;font-size:11px;color:var(--accent)}.project h3{font-size:21px;margin:14px 0 8px}.project p{color:var(--muted);margin:0}.project .foot{margin-top:18px;color:#b9c8da;font-size:12px}.status{color:var(--ok)}
+.timeline{border-left:1px solid var(--line);margin-left:8px;padding-left:22px}.event{position:relative;padding:0 0 24px}.event:before{content:"";position:absolute;left:-29px;top:7px;width:10px;height:10px;border-radius:50%;background:var(--accent);box-shadow:0 0 0 5px var(--bg)}.event h3{margin:0 0 4px}.event time{color:var(--muted);font-size:12px}.note{color:var(--muted);font-size:13px}.footer{border-top:1px solid var(--line);padding:24px 0 40px;color:var(--muted);font-size:13px}.langs{display:flex;gap:8px;flex-wrap:wrap}.lang{padding:6px 9px;border-radius:999px;background:var(--panel2);border:1px solid var(--line);font-size:12px}
+@media(max-width:900px){.metrics{grid-template-columns:repeat(2,1fr)}.projects{grid-template-columns:1fr 1fr}}@media(max-width:640px){.navlinks{display:none}.hero{padding-top:60px}.metrics,.projects{grid-template-columns:1fr}.wrap{width:min(100% - 22px,1160px)}.hero p{font-size:16px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+</style>
 </head>
 <body>
-  <h1>Cryo Progress — 96%</h1>
-  <p class="meta">Updated 2026-09-06T04:56:11+02:00 · Europe/Berlin · <a href="https://github.com/Pierreg99/progress">source</a></p>
-  <div class="bar" aria-label="Overall 96%"><span></span></div>
-  <table>
-    <thead><tr><th>%</th><th>Track</th><th>Status</th></tr></thead>
-    <tbody><tr><td>100</td><td>AURORA-PANEL-27</td><td>live</td></tr><tr><td>100</td><td>Blender 5.2 LTS install</td><td>live</td></tr><tr><td>100</td><td>CRYO-ARC-14</td><td>live</td></tr><tr><td>100</td><td>Castle 30s immersive render</td><td>live</td></tr><tr><td>100</td><td>Chronicles of Lumina</td><td>live</td></tr><tr><td>100</td><td>CryAIPulse public viz</td><td>live</td></tr><tr><td>100</td><td>Cryoplane Polygonal Flight</td><td>live</td></tr><tr><td>100</td><td>Cyberdash Rhythm Platformer</td><td>live</td></tr><tr><td>100</td><td>DRIFT-MIRROR-11</td><td>live</td></tr><tr><td>100</td><td>IRON-SEAL-38</td><td>live</td></tr><tr><td>100</td><td>KiBlox VoxelGame</td><td>live</td></tr><tr><td>100</td><td>Master prompts fan bundle</td><td>live</td></tr><tr><td>100</td><td>NEXUS-SPIRE-42</td><td>live</td></tr><tr><td>100</td><td>OBSIDIAN-ORBIT-66</td><td>live</td></tr><tr><td>100</td><td>POLAR-BLADE-62</td><td>live</td></tr><tr><td>100</td><td>POLAR-BLADE-62</td><td>live</td></tr><tr><td>100</td><td>POLAR-BLADE-62</td><td>live</td></tr><tr><td>100</td><td>Resident Lovely</td><td>live</td></tr><tr><td>100</td><td>SPECTRE-LENS-37</td><td>live</td></tr><tr><td>100</td><td>agent-memory library</td><td>live</td></tr><tr><td>10</td><td>CIPHER-ARC-15</td><td>user_action</td></tr></tbody>
-  </table>
-  <p class="meta">Private tracks shown by codename only.</p>
-</body>
-</html>
+<nav class="nav"><div class="wrap navin"><a class="brand" href="#top">Cryo Progress</a><div class="navlinks"><a href="#portfolio">Portfolio</a><a href="#status">Status</a><a href="#history">History</a><a href="index.de.html">DE</a><a href="index.en.html">EN</a></div></div></nav>
+<main id="top">
+<section class="hero"><div class="wrap"><div class="eyebrow">Verified engineering portfolio · 2026-09-07</div><h1>Build. Document. Verify.</h1><p>A unified view across games, AI systems, web applications, creative technology, learning platforms, and infrastructure. Project claims are grounded in repository evidence.</p><div class="actions"><a class="btn primary" href="#portfolio">Explore portfolio</a><a class="btn" href="https://github.com/Pierreg99/progress">Open GitHub</a><a class="btn" href="README.en.md">Read documentation</a></div></div></section>
+<section class="wrap grid metrics" id="status"><div class="card metric"><strong>96%</strong><span>Current verified board</span></div><div class="card metric"><strong>55</strong><span>Repositories in current inventory</span></div><div class="card metric"><strong>DE / EN</strong><span>Bilingual documentation layer</span></div><div class="card metric"><strong class="status">Evidence</strong><span>Status claims are not fabricated</span></div></section>
+<section class="section" id="portfolio"><div class="wrap"><h2>Portfolio</h2><p>Selected projects verified in the current GitHub landscape. Private work is represented conservatively.</p><div class="grid projects">
+<article class="card project"><div><span class="tag">AI / Agents</span><h3>Cryo Omega</h3><p>Agent orchestration, skills, quality gates, SafeMode, routing, memory and documentation tooling.</p></div><div class="foot">Cryo-omegaTOPTIER · private</div></article>
+<article class="card project"><div><span class="tag">Game</span><h3>Chronicles of Lumina</h3><p>Modular RPG/game workspace with web application, assets, bot integration, documentation and release notes.</p></div><div class="foot">Chronicles-of-Lumina-GameRPGwork · public</div></article>
+<article class="card project"><div><span class="tag">Learning</span><h3>CRYO IQ</h3><p>Interactive learning and reflex-training suite with quiz flows, statistics, themes and export paths.</p></div><div class="foot">CryoIQ-Machala-Suite-Reflex-Trainer</div></article>
+<article class="card project"><div><span class="tag">Web</span><h3>AGI-3 Website</h3><p>Research-style frontend presenting compositional multi-agent architecture, routing metrics and system evidence.</p></div><div class="foot">Agi3-Website</div></article>
+<article class="card project"><div><span class="tag">Creative</span><h3>Cryo Media Pro</h3><p>Media suite with themed UI, CryoBridge, observability, media pipeline and WASM DSP components.</p></div><div class="foot">CryoMediaPro-MediaSuite</div></article>
+<article class="card project"><div><span class="tag">Games</span><h3>Voxel / Rhythm / Flight</h3><p>Interactive game experiments spanning voxel gameplay, rhythm platforming and polygonal flight.</p></div><div class="foot">KiBlox · Cyberdash · Cryoplane</div></article>
+</div></div></section>
+<section class="section"><div class="wrap"><h2>Engineering surface</h2><p>The portfolio is intentionally documentation-first.</p><div class="card"><div class="langs"><span class="lang">JavaScript / TypeScript</span><span class="lang">Python</span><span class="lang">React</span><span class="lang">Vite</span><span class="lang">Node.js</span><span class="lang">Three.js</span><span class="lang">Blender</span><span class="lang">Docker</span><span class="lang">MySQL / Drizzle</span><span class="lang">HTML / CSS</span></div></div></div></section>
+<section class="section" id="history"><div class="wrap"><h2>Documentation history</h2><p>Recent documentation modernization in this portfolio repository.</p><div class="timeline"><div class="event"><time>2026-09-07</time><h3>Bilingual portfolio layer</h3><div class="note">Added German and English README navigation plus dedicated portfolio pages.</div></div><div class="event"><time>2026-09-07</time><h3>Repository documentation audit</h3><div class="note">Verified inventory and recorded README, changelog, progress and verification gaps.</div></div><div class="event"><time>2026-09-07</time><h3>Missing documentation repaired</h3><div class="note">Expanded documentation for Card V2, MediaSuite and PC Builder while preserving historical files.</div></div></div></div></section>
+</main><footer class="footer"><div class="wrap">Cryo Progress · Pierreg99 · Europe/Berlin · <a href="https://github.com/Pierreg99/progress">GitHub</a></div></footer>
+</body></html>
