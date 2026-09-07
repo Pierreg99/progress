@@ -1,56 +1,39 @@
-# Cryo Progress (96%)
+# Cryo Progress & Portfolio
 
-Public automatic progress + quality audits for Cryofreee / Cryo Omega.
+Public progress board, repository documentation audit, and bilingual engineering portfolio for the Pierreg99 project landscape.
 
-**Overall: 96%** · Updated: `2026-09-06T04:56:11+02:00` · Timezone: Europe/Berlin
+**Current verified board:** 96% · Europe/Berlin · evidence-based status tracking
 
-Synced after every material task (`sync-progress-after-task` skill) plus weekday catch-up routine **Progress percent auto** (18:00 Berlin, Mon–Fri). Private tracks = **codename only**.
+## Start here
 
-## Tracks
+- [Deutsch](./README.de.md)
+- [English](./README.en.md)
+- [Live portfolio](./site/index.html)
+- [German portfolio](./site/index.de.html)
+- [English portfolio](./site/index.en.html)
+- [Repository audit](./docs/repository-documentation-audit-2026-09-07.md)
+- [Deep-audit index](./docs/deep-audit-index-2026-09-07.md)
+- [DE/EN documentation standard](./docs/de-en-documentation-standard.md)
+- [Current progress](./PROGRESS.md)
 
-| % | Name | Status |
-|---|------|--------|
-| 100% | `AURORA-PANEL-27` | live |
-| 100% | `Blender 5.2 LTS install` | live |
-| 100% | `CRYO-ARC-14` | live |
-| 100% | `Castle 30s immersive render` | live |
-| 100% | `Chronicles of Lumina` | live |
-| 100% | `CryAIPulse public viz` | live |
-| 100% | `Cryoplane Polygonal Flight` | live |
-| 100% | `Cyberdash Rhythm Platformer` | live |
-| 100% | `DRIFT-MIRROR-11` | live |
-| 100% | `IRON-SEAL-38` | live |
-| 100% | `KiBlox VoxelGame` | live |
-| 100% | `Master prompts fan bundle` | live |
-| 100% | `NEXUS-SPIRE-42` | live |
-| 100% | `OBSIDIAN-ORBIT-66` | live |
-| 100% | `POLAR-BLADE-62` | live |
-| 100% | `POLAR-BLADE-62` | live |
-| 100% | `POLAR-BLADE-62` | live |
-| 100% | `Resident Lovely` | live |
-| 100% | `SPECTRE-LENS-37` | live |
-| 100% | `agent-memory library` | live |
-| 10% | `CIPHER-ARC-15` | user_action |
+## Portfolio scope
 
+The portfolio presents the verified project landscape without replacing project-specific documentation. It groups work into games, AI/agent systems, web applications, creative tooling, documentation/learning, and infrastructure/assets.
 
-## Open
+## Documentation policy
 
-- **CIPHER-ARC-15** — 10% (user_action) — Private project (codename only).
+- Existing READMEs and historical changelogs are preserved.
+- Progress percentages are only published when supported by repository evidence.
+- Private projects remain represented only where disclosure is already appropriate; private progress tracks use codenames where required.
+- Repository-local `AGENTS.md` and project-specific operating guidance remain authoritative.
 
-## Quality
-
-See [`quality/QUALITY.md`](./quality/QUALITY.md).
-
-## Sync
+## Automatic progress
 
 ```bash
-python3 scripts/sync_board.py          # regenerate PROGRESS.md + README.md + site/
-python3 scripts/sync_board.py --check  # CI / pre-push policy check
+python3 scripts/sync_board.py
+python3 scripts/sync_board.py --check
 ```
 
-## Policy
+## Repository
 
-- Never commit private codename maps or real private repo names into content files.
-- Public aliases live in [`codenames/PUBLIC_ALIASES.json`](./codenames/PUBLIC_ALIASES.json).
-- History snapshots: [`history/`](./history/).
-- Live board (GitHub Pages): `site/index.html`
+GitHub: https://github.com/Pierreg99/progress
