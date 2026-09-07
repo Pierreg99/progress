@@ -10,13 +10,13 @@
 - **Priorität A** = als Showcase/Qualitätssignal priorisieren
 - **Priorität B** = gezielt weiterentwickeln und dokumentieren
 - **Priorität C** = spezialisieren, zusammenführen, archivieren oder bewusst als Experiment kennzeichnen
-- `verifiziert` bedeutet: konkrete Repository-Inhalte oder Dokumentation wurden bereits geprüft. `oberflächenbasiert` bedeutet: Bewertung überwiegend aus Name, Metadaten, Repository-Größe und sichtbaren Strukturen abgeleitet und daher mit geringerer Evidenz.
+- `verifiziert` = konkrete Repository-Inhalte oder Dokumentation wurden bereits geprüft. Bewertungen ohne solche Nachweise sind konservative Oberflächenbewertungen.
 
 ## Gesamtbild
 
-Der aktuelle verbundene Bestand umfasst **58 Repositories**: öffentliche und private Projekte. Der Bestand spannt AI/Agenten, Web, Games, 3D/Creative Tech, Dokumentation, Assets und Infrastruktur auf. Die Hauptaufgabe für die nächste Reifestufe ist nicht mehr maximale Projektzahl, sondern **Beweisstärke, Konsolidierung und klare Präsentation**.
+Der aktuelle verbundene Bestand umfasst **57 Repositories**: öffentliche und private Projekte. Der Bestand spannt AI/Agenten, Web, Games, 3D/Creative Tech, Dokumentation, Assets und Infrastruktur auf. Die Hauptaufgabe für die nächste Reifestufe ist nicht mehr maximale Projektzahl, sondern **Beweisstärke, Konsolidierung und klare Präsentation**.
 
-## 58er-Audit-Matrix
+## 57er-Audit-Matrix
 
 | # | Repository | Sichtbarkeit | Profilrolle | E | D | P | Priorität | Evidenz / Hauptaktion |
 |---:|---|---|---|---:|---:|---:|:---:|---|
@@ -61,7 +61,7 @@ Der aktuelle verbundene Bestand umfasst **58 Repositories**: öffentliche und pr
 | 39 | cryopg.it | private | Personal Platform | 3 | 3 | 4 | A | Zentrale persönliche Web-/Brand-Oberfläche; Portfolio-Navigation und Verweise konsolidieren. |
 | 40 | cryopg-vps | private | Infrastructure | 4 | 2 | 2 | B | Betriebsrepo; Security/Secrets/Runbooks und reproduzierbares Provisioning priorisieren. |
 | 41 | grok-bot | private | AI Bot | 3 | 3 | 2 | C | Kleines Bot-Projekt; gegenüber Nexo/Unified-Agent klar abgrenzen. |
-| 42 | progress | public | Portfolio / Governance | 5 | 5 | 5 | A | Zentrale Evidenz-, Audit- und Portfolio-Schicht; 58er-Matrix und DE/EN-Portfolios hier verankern. |
+| 42 | progress | public | Portfolio / Governance | 5 | 5 | 5 | A | Zentrale Evidenz-, Audit- und Portfolio-Schicht; 57er-Matrix und DE/EN-Portfolios hier verankern. |
 | 43 | cryo-omega-master-prompts-fan-bundle | public | Prompt Archive | 2 | 3 | 3 | C | Als Community/Prompt-Archiv markieren; technische Produktclaims vermeiden. |
 | 44 | CryAIPulse | public | AI / Web Concept | 3 | 2 | 3 | B | Öffentliche Marke/Concept; Demo und klare technische Grenze ergänzen. |
 | 45 | cryo-avatar-socials | private | Visual / Social Assets | 2 | 3 | 2 | C | Asset-/Brand-Hub; Katalog und Nutzungszuordnung pflegen. |
@@ -72,16 +72,13 @@ Der aktuelle verbundene Bestand umfasst **58 Repositories**: öffentliche und pr
 | 50 | docs-interesting-omega | private | Documentation Lab | 3 | 4 | 3 | B | Dokumentationssammlung; Informationen in kanonische Quellen überführen und Duplikate reduzieren. |
 | 51 | call-of-chattY | public | Browser Game / AI | 2 | 2 | 3 | C | Kleiner öffentlicher Prototyp; mit anderen Browser-Games entweder konsolidieren oder differenzieren. |
 | 52 | Pierreg99-Pierreg99-Profile-Page | public | Public Portfolio | 5 | 5 | 5 | A | Verifiziert: DE/EN Profile, SVG/GIF-System, Dashboard, Audits; als zentrale öffentliche Präsentationsfläche ausbauen. |
-| 53 | Cryo-Motion-Studio-Concept-Websuite | public | Creative Web Showcase | 4 | 3 | 5 | A | Öffentlicher Design-/Web-Showcase; Live-Demo, case studies und responsive evidence priorisieren. |
+| 53 | Cryo-Motion-Studio-Concept-Websuite | public | Creative Web Showcase | 4 | 3 | 5 | A | Öffentlicher Design-/Web-Showcase; Live-Demo, Case Studies und responsive evidence priorisieren. |
 | 54 | motionexample-web | private | Design Prototype | 3 | 2 | 3 | B | Konzept-/Vorläufer; gegenüber Cryo-Motion klare historische Rolle dokumentieren. |
 | 55 | inoffical-cryogamehelp-repo | public | Game Help / Knowledge Hub | 3 | 4 | 4 | B | Große Wissensbreite; Quellen, Lizenz, Aktualität und interaktive Navigation weiter stärken. |
 | 56 | cryoconcepts | private | Concept / R&D Archive | 2 | 2 | 2 | C | Konzeptarchiv; verbindliche Struktur nach Ideen, Prototypen und verworfenen Ansätzen. |
 | 57 | CryoArcadeInteractive | private | Arcade Prototype | 2 | 2 | 3 | B | Kleines interaktives Konzept; Produktkern und spielbare Demo definieren. |
-| 58 | — | — | — | — | — | — | — | **Hinweis:** Der 08.09.2026-Accountabzug enthält 57 benannte Zeilen aus der Connector-Ausgabe plus das aktuelle Portfolio-System-Repository; die verbindliche Zahl ergibt sich aus der vollständigen GitHub-Inventarliste. |
 
 ## Flagship-Prioritäten
-
-### A — zuerst zeigen und beweisen
 
 1. `agent-memory` — klassisches Software-Engineering, Library/API, Tests, Packaging und CI.
 2. `cryo-unified-agent` — Architektur-/Governance-Tiefe und Systemdesign.
@@ -94,14 +91,14 @@ Der aktuelle verbundene Bestand umfasst **58 Repositories**: öffentliche und pr
 9. `progress` — Governance/Audit/Portfolio-Beweisführung.
 10. `call-of-groky` — Browser-FPS/3D-Experiment als zusätzlicher visueller Nachweis.
 
-## Wesentliche Lücken
+## Wichtigste strukturelle Aufgaben
 
 - Einheitliche reproduzierbare Build-/Run-Anweisungen für jedes aktive Flagship.
 - Einheitliche CI- und Test-Nachweise für Projekte, die aktuell primär visuell dokumentiert sind.
 - Klare Trennung von **Produkt**, **Prototype**, **Experiment**, **Asset Repository** und **Archive**.
-- Doppelte oder eng verwandte AI-, OS-, Asset- und Browser-Game-Repositories müssen über Cross-links und Rollenbeschreibungen entwirrt werden.
-- Mehr öffentliche Live-Demos und kurze technische Case Studies würden die Portfolio-Wirkung stärker erhöhen als zusätzliche neue Repositories.
+- Doppelte oder eng verwandte AI-, OS-, Asset- und Browser-Game-Repositories über Cross-links und Rollenbeschreibungen entwirren.
+- Mehr öffentliche Live-Demos und kurze technische Case Studies priorisieren statt weiterer Repository-Vermehrung.
 
 ## Zielzustand
 
-Das Portfolio sollte langfristig nicht wie 58 gleichgewichtete Projekte aussehen. Die öffentliche Navigation sollte eine kleine Gruppe von Flagships als Beweise zeigen und den restlichen Bestand als **Research / Experiments / Assets / Archive** strukturieren.
+Das Portfolio sollte langfristig nicht wie 57 gleichgewichtete Projekte aussehen. Die öffentliche Navigation sollte eine kleine Gruppe von Flagships als Beweise zeigen und den restlichen Bestand als **Research / Experiments / Assets / Archive** strukturieren.
