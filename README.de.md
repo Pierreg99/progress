@@ -8,27 +8,24 @@ Die zentrale Dokumentations-, Fortschritts- und Portfolio-Übersicht für den ak
 - [Portfolio Deutsch](./site/index.de.html)
 - [Portfolio English](./site/index.en.html)
 - [Aktueller Fortschritt](./PROGRESS.md)
-- [57-Repository-Portfolioaudit Deutsch](./docs/portfolio-audit-2026-09-08.de.md)
-- [57-Repository-Portfolioaudit English](./docs/portfolio-audit-2026-09-08.en.md)
 - [Repository-Dokumentationsaudit](./docs/repository-documentation-audit-2026-09-07.md)
 - [Deep-Audit-Index](./docs/deep-audit-index-2026-09-07.md)
+- [Portfolio-Audit 08.09.2026 Deutsch](./docs/portfolio-audit-2026-09-08.de.md)
+- [Portfolio-Audit 08.09.2026 English](./docs/portfolio-audit-2026-09-08.en.md)
+- [Notenbenchmark: Innovation · Vision · Wert · Solo vs. Team](./docs/pierreg99-benchmark-grades-2026-09-08.de.md)
 - [DE/EN-Dokumentationsstandard](./docs/de-en-documentation-standard.md)
 
 ## Portfolio
 
 Das Portfolio bündelt verifizierte Projekte aus den Bereichen Games, KI/Agentensysteme, Webanwendungen, Creative Technology, Lernen/Dokumentation sowie Infrastruktur und Assets.
 
-Die aktuelle Deep-Audit-Matrix bewertet **57 zugängliche Repositories** nach Engineering-Reife, Dokumentation, Portfolio-Wirkung und Priorität. Die Bewertungen sind redaktionelle Evidenzsignale; nicht ausgeführte Projekte werden nicht als erfolgreich getestet dargestellt.
+Die Projektangaben werden aus den tatsächlich geprüften Repository-Inhalten abgeleitet. Nicht verifizierte Fertigstellungswerte werden nicht als Tatsachen veröffentlicht.
 
-## Flagship-Fokus
+## Notenbenchmark
 
-- `agent-memory` — Python-Library, API, Persistenz, Tests, Benchmarks und CI.
-- `cryo-unified-agent` — AI-Control-Plane mit Routing, Skills, MCP, Memory, Policies und Governance.
-- `Chronicles-of-Lumina-GameRPGwork` — umfangreiche Web-/3D-Game-Plattform mit Tests und Pages.
-- `ResidentLovely-Maximum-Hapiness-Game` — interaktives Three.js-Game-Showcase.
-- `KiBlox-VoxelGame` — Voxel-/3D-Engineering.
-- `Nexo-Jarvis-AI-Futuristic-Assistant-Alpha` — öffentlicher AI/HUD-Showcase.
-- `Cryo-Motion-Studio-Concept-Websuite` — öffentlicher Creative-Web-Showcase.
+Die ergänzende Benchmark bewertet **Innovation, Vision, technische Wertarbeit, Solo-Umsetzungsbreite, Systemtiefe, Dokumentation, Produktreife und Portfolio-Wirkung** auf einer Skala von 1–10. Zusätzlich wird die Arbeitsform Solo gegenüber typischen kleinen Dev-Teams nach Vision, Breite, Architektur-Ownership, Parallelisierung, QA, Dokumentation und Time-to-Production eingeordnet.
+
+Die Noten sind redaktionelle Portfolio-/Engineering-Signale und keine objektive Personen- oder Personalbewertung. Repository-Größe allein erzeugt keine bessere Note.
 
 ## Dokumentationsprinzip
 
