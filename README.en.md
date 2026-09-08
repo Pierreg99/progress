@@ -8,27 +8,24 @@ Central documentation, progress, and portfolio overview for the current Pierreg9
 - [Portfolio German](./site/index.de.html)
 - [Portfolio English](./site/index.en.html)
 - [Current progress](./PROGRESS.md)
-- [57-repository portfolio audit — German](./docs/portfolio-audit-2026-09-08.de.md)
-- [57-repository portfolio audit — English](./docs/portfolio-audit-2026-09-08.en.md)
 - [Repository documentation audit](./docs/repository-documentation-audit-2026-09-07.md)
 - [Deep-audit index](./docs/deep-audit-index-2026-09-07.md)
+- [Portfolio Audit 2026-09-08 — German](./docs/portfolio-audit-2026-09-08.de.md)
+- [Portfolio Audit 2026-09-08 — English](./docs/portfolio-audit-2026-09-08.en.md)
+- [Grade Benchmark: Innovation · Vision · Value · Solo vs. Team](./docs/pierreg99-benchmark-grades-2026-09-08.en.md)
 - [DE/EN documentation standard](./docs/de-en-documentation-standard.md)
 
 ## Portfolio
 
-The portfolio groups verified projects across games, AI/agent systems, web applications, creative technology, learning/documentation, infrastructure, and assets.
+The portfolio groups verified projects across games, AI/agent systems, web applications, creative technology, learning/documentation, and infrastructure/assets.
 
-The current deep-audit matrix evaluates **57 accessible repositories** by engineering maturity, documentation, portfolio impact, and priority. Ratings are editorial evidence signals; projects that have not been executed are not presented as successfully tested.
+Project statements are derived from verified repository content. Unsupported completion percentages are not presented as facts.
 
-## Flagship focus
+## Grade benchmark
 
-- `agent-memory` — Python library, API, persistence, tests, benchmarks and CI.
-- `cryo-unified-agent` — AI control plane with routing, skills, MCP, memory, policies and governance.
-- `Chronicles-of-Lumina-GameRPGwork` — large web/3D game platform with tests and Pages deployment.
-- `ResidentLovely-Maximum-Hapiness-Game` — interactive Three.js game showcase.
-- `KiBlox-VoxelGame` — voxel / 3D engineering.
-- `Nexo-Jarvis-AI-Futuristic-Assistant-Alpha` — public AI/HUD showcase.
-- `Cryo-Motion-Studio-Concept-Websuite` — public creative web showcase.
+The complementary benchmark rates **innovation, vision, technical value/workmanship, solo implementation breadth, systems depth, documentation, product maturity, and portfolio impact** on a 1–10 scale. It also compares solo work with typical small development teams across vision, breadth, architecture ownership, parallelization, QA, documentation, and time-to-production.
+
+The grades are editorial portfolio/engineering signals, not objective personnel or personality evaluations. Repository size alone does not increase a grade.
 
 ## Documentation policy
 
