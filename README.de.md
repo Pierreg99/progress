@@ -10,10 +10,17 @@ Die zentrale Dokumentations-, Fortschritts- und Portfolio-Übersicht für den ak
 - [Aktueller Fortschritt](./PROGRESS.md)
 - [Repository-Dokumentationsaudit](./docs/repository-documentation-audit-2026-09-07.md)
 - [Deep-Audit-Index](./docs/deep-audit-index-2026-09-07.md)
+- [Account-weites GitHub-Sync-Snapshot 12.09.2026](./docs/account-sync-2026-09-12.md)
 - [Portfolio-Audit 08.09.2026 Deutsch](./docs/portfolio-audit-2026-09-08.de.md)
 - [Portfolio-Audit 08.09.2026 English](./docs/portfolio-audit-2026-09-08.en.md)
 - [Notenbenchmark: Innovation · Vision · Wert · Solo vs. Team](./docs/pierreg99-benchmark-grades-2026-09-08.de.md)
 - [DE/EN-Dokumentationsstandard](./docs/de-en-documentation-standard.md)
+
+## Account-weite Synchronisierung
+
+`progress` dient als öffentliche Aggregations- und Navigationsschicht für den authentifizierten `Pierreg99`-GitHub-Bestand. Snapshot **12.09.2026**: **99 Repositories insgesamt**, davon **40 öffentlich** und **59 privat**. Private Repository-Namen werden in dieser öffentlichen Oberfläche nicht wiederholt und bleiben der bestehenden Codename-/Redaktionsrichtlinie unterworfen.
+
+Der Account-Sync erfasst Repository-Präsenz und Navigation. Repository-lokale READMEs, Changelogs, Roadmaps, Tests und Agent-Regeln bleiben die maßgeblichen Quellen für Implementierungsstatus.
 
 ## Portfolio
 
