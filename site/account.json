@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "owner": "Pierreg99",
-  "updatedAt": "2026-09-12T15:31:54+00:00",
+  "updatedAt": "2026-09-12T18:23:26+00:00",
   "timezone": "Europe/Berlin",
   "source": "GitHub public user API + preserved private count",
   "completeAccountSync": false,
-  "total": 101,
-  "public": 42,
+  "total": 105,
+  "public": 46,
   "private": 59,
   "privateNamesPublished": false,
   "repositories": [
@@ -16,6 +16,14 @@
       "htmlUrl": "https://github.com/Pierreg99/agent-memory",
       "defaultBranch": "main",
       "updatedAt": "2026-09-07T17:46:43Z",
+      "archived": false
+    },
+    {
+      "name": "awesome-ai-video-generation-list-OMEGA-FORK",
+      "fullName": "Pierreg99/awesome-ai-video-generation-list-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/awesome-ai-video-generation-list-OMEGA-FORK",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-12T16:13:04Z",
       "archived": false
     },
     {
@@ -191,7 +199,7 @@
       "fullName": "Pierreg99/Pierreg99-Pierreg99-Profile-Page",
       "htmlUrl": "https://github.com/Pierreg99/Pierreg99-Pierreg99-Profile-Page",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-12T14:19:56Z",
+      "updatedAt": "2026-09-12T17:24:39Z",
       "archived": false
     },
     {
@@ -199,7 +207,7 @@
       "fullName": "Pierreg99/progress",
       "htmlUrl": "https://github.com/Pierreg99/progress",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-12T11:31:36Z",
+      "updatedAt": "2026-09-12T15:31:58Z",
       "archived": false
     },
     {
@@ -272,6 +280,30 @@
       "htmlUrl": "https://github.com/Pierreg99/SpotiFLAC-OMEGA-FORK",
       "defaultBranch": "main",
       "updatedAt": "2026-09-12T11:06:12Z",
+      "archived": false
+    },
+    {
+      "name": "termux-ai-app-OMEGA-FORK",
+      "fullName": "Pierreg99/termux-ai-app-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/termux-ai-app-OMEGA-FORK",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-12T16:15:53Z",
+      "archived": false
+    },
+    {
+      "name": "Termux-Ai-OMEGA-FORK",
+      "fullName": "Pierreg99/Termux-Ai-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/Termux-Ai-OMEGA-FORK",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-12T16:14:17Z",
+      "archived": false
+    },
+    {
+      "name": "termux-ai-suite-OMEGA-FORK",
+      "fullName": "Pierreg99/termux-ai-suite-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/termux-ai-suite-OMEGA-FORK",
+      "defaultBranch": "master",
+      "updatedAt": "2026-09-12T16:14:38Z",
       "archived": false
     },
     {
