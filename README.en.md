@@ -10,10 +10,17 @@ Central documentation, progress, and portfolio overview for the current Pierreg9
 - [Current progress](./PROGRESS.md)
 - [Repository documentation audit](./docs/repository-documentation-audit-2026-09-07.md)
 - [Deep-audit index](./docs/deep-audit-index-2026-09-07.md)
+- [Account-wide GitHub sync — 2026-09-12](./docs/account-sync-2026-09-12.md)
 - [Portfolio Audit 2026-09-08 — German](./docs/portfolio-audit-2026-09-08.de.md)
 - [Portfolio Audit 2026-09-08 — English](./docs/portfolio-audit-2026-09-08.en.md)
 - [Grade Benchmark: Innovation · Vision · Value · Solo vs. Team](./docs/pierreg99-benchmark-grades-2026-09-08.en.md)
 - [DE/EN documentation standard](./docs/de-en-documentation-standard.md)
+
+## Account-wide synchronization
+
+`progress` is synchronized against the authenticated `Pierreg99` GitHub repository inventory. Snapshot **2026-09-12**: **99 repositories total**, including **40 public** and **59 private**. Private repository names are intentionally redacted here and remain governed by the existing codename policy.
+
+The account-wide sync is an inventory and navigation layer. Repository-local READMEs, changelogs, roadmaps, tests, and agent instructions remain authoritative for implementation status.
 
 ## Portfolio
 
