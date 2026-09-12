@@ -13,8 +13,15 @@ Public progress board, repository documentation audit, and bilingual engineering
 - [English portfolio](./site/index.en.html)
 - [Repository audit](./docs/repository-documentation-audit-2026-09-07.md)
 - [Deep-audit index](./docs/deep-audit-index-2026-09-07.md)
+- [Account-wide GitHub sync — 2026-09-12](./docs/account-sync-2026-09-12.md)
 - [DE/EN documentation standard](./docs/de-en-documentation-standard.md)
 - [Current progress](./PROGRESS.md)
+
+## Account-wide synchronization
+
+The `progress` repository is synchronized against the authenticated `Pierreg99` GitHub repository inventory. Snapshot **2026-09-12**: **99 repositories total**, including **40 public** and **59 private**. Private repository names remain redacted here and continue to follow the existing codename policy.
+
+The account-wide sync is an inventory/navigation layer. Repository-local READMEs, changelogs, roadmaps, tests, and agent instructions remain authoritative for implementation status.
 
 ## Portfolio scope
 
