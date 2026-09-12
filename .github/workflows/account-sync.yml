@@ -1,0 +1,59 @@
+name: Account Sync
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
+  push:
+    branches: [main]
+    paths:
+      - "scripts/sync_account_inventory.py"
+      - ".github/workflows/account-sync.yml"
+      - "site/**"
+      - "data/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: account-sync
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync GitHub account inventory
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          ACCOUNT_SYNC_TOKEN: ${{ secrets.ACCOUNT_SYNC_TOKEN }}
+          GITHUB_OWNER: Pierreg99
+        run: python3 scripts/sync_account_inventory.py
+
+      - name: Refresh timestamped dashboard metadata
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('site/account.html')
+          if p.exists():
+              text = p.read_text(encoding='utf-8')
+              text = text.replace('data-build="AUTO"', 'data-build="AUTO"')
+              p.write_text(text, encoding='utf-8')
+          PY
+
+      - name: Commit synchronized inventory
+        run: |
+          if git diff --quiet; then
+            echo "No inventory changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/account-inventory.json site/account.json site/account.html
+          git commit -m "chore: sync GitHub account inventory"
+          git push
