@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-14",
+  "overallPercent": 95,
+  "tracks": [
+    {
+      "id": "cryopg-bot",
+      "name": "NEXUS-SPIRE-42",
+      "codename": "NEXUS-SPIRE-42",
+      "percent": 100,
+      "status": "live"
+    },
+    {
+      "id": "agentic-snapshot",
+      "name": "POLAR-BLADE-62",
+      "codename": "POLAR-BLADE-62",
+      "percent": 100,
+      "status": "live"
+    },
+    {
+      "id": "openrouter-pipeline",
+      "name": "IRON-SEAL-38",
+      "codename": "IRON-SEAL-38",
+      "percent": 100,
+      "status": "live"
+    },
+    {
+      "id": "routines-mesh",
+      "name": "POLAR-BLADE-62",
+      "codename": "POLAR-BLADE-62",
+      "percent": 100,
+      "status": "live"
+    },
+    {
+      "id": "cryaipulse",
+      "name": "CryAIPulse public viz",
+      "codename": null,
+      "percent": 100,
+      "status": "live"
+    },
+    {
+      "id": "agent-memory",
+      "name": "agent-memory library",
+      "codename": null,
+      "percent": 100,
+      "status": "live"
+    },
+    {
+      "id": "prompts-fan-bundle",
+      "name": "Master prompts fan bundle",
+      "codename": null,
+      "percent": 100,
+      "status": "live"
+    },
+    {
+      "id": "castle-immersive",
+      "name": "Castle 30s immersive render",
+      "codename": null,
+      "percent": 100,
+      "status": "live"
+    },
+    {
+      "id": "blender-52",
+      "name": "Blender 5.2 LTS install",
+      "codename": null,
+      "percent": 100,
+      "status": "live"
+    },
+    {
+      "id": "recursive-brain",
+      "name": "POLAR-BLADE-62",
+      "codename": "POLAR-BLADE-62",
+      "percent": 100,
+      "status": "live"
+    },
+    {
+      "id": "vps-security",
+      "name": "CIPHER-ARC-15",
+      "codename": "CIPHER-ARC-15",
+      "percent": 10,
+      "status": "user_action"
+    },
+    {
+      "id": "cyberdash",
+      "name": "Cyberdash Rhythm Platformer",
+      "codename": null,
+      "percent": 100,
+      "status": "live"
+    },
+    {
+      "id": "avatar-socials",
+      "name": "CRYO-ARC-14",
+      "codename": "CRYO-ARC-14",
+      "percent": 100,
+      "status": "live"
+    },
+    {
+      "id": "assets-bundle",
+      "name": "SPECTRE-LENS-37",
+      "codename": "SPECTRE-LENS-37",
+      "percent": 100,
+      "status": "live"
+    },
+    {
+      "id": "lumina",
+      "name": "Chronicles of Lumina",
+      "codename": null,
+      "percent": 100,
+      "status": "live"
+    },
+    {
+      "id": "kiblox",
+      "name": "KiBlox VoxelGame",
+      "codename": null,
+      "percent": 100,
+      "status": "live"
+    },
+    {
+      "id": "hyperscale",
+      "name": "OBSIDIAN-ORBIT-66",
+      "codename": "OBSIDIAN-ORBIT-66",
+      "percent": 100,
+      "status": "live"
+    },
+    {
+      "id": "sovereignty",
+      "name": "DRIFT-MIRROR-11",
+      "codename": "DRIFT-MIRROR-11",
+      "percent": 100,
+      "status": "live"
+    },
+    {
+      "id": "resident",
+      "name": "Resident Lovely",
+      "codename": null,
+      "percent": 100,
+      "status": "live"
+    },
+    {
+      "id": "cryoplane",
+      "name": "Cryoplane Polygonal Flight",
+      "codename": null,
+      "percent": 100,
+      "status": "live"
+    },
+    {
+      "id": "fluent-learn",
+      "name": "AURORA-PANEL-27",
+      "codename": "AURORA-PANEL-27",
+      "percent": 100,
+      "status": "live"
+    },
+    {
+      "id": "nexus-core-81",
+      "name": "NEXUS-CORE-81",
+      "codename": "NEXUS-CORE-81",
+      "percent": 78,
+      "status": "active"
+    }
+  ]
+}

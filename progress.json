@@ -1,8 +1,8 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-06T04:56:11+02:00",
+  "updatedAt": "2026-09-14T02:45:51+02:00",
   "timezone": "Europe/Berlin",
-  "overallPercent": 96,
+  "overallPercent": 95,
   "orgRepo": "Pierreg99/progress",
   "syncPolicy": "after-every-task (sync-progress-after-task) + weekday catch-up (progress-percent-auto @ 18:00 Europe/Berlin) + validate CI",
   "tracks": [
@@ -163,6 +163,14 @@
       "percent": 100,
       "status": "live",
       "notes": "v1.0.0 offline-first Fluent/Win11 learn PWA; SW+IDB; 14 tasks/9 exam (codename only)."
+    },
+    {
+      "id": "nexus-core-81",
+      "name": "NEXUS-CORE-81",
+      "codename": "NEXUS-CORE-81",
+      "percent": 78,
+      "status": "active",
+      "notes": "0.4.1 lexical RAG + plugin sandbox merged (codename only)."
     }
   ],
   "visibility": "public",
