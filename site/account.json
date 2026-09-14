@@ -1,15 +1,31 @@
 {
   "schemaVersion": 1,
   "owner": "Pierreg99",
-  "updatedAt": "2026-09-13T23:10:37+00:00",
+  "updatedAt": "2026-09-14T01:04:58+00:00",
   "timezone": "Europe/Berlin",
   "source": "GitHub public user API + preserved private count",
   "completeAccountSync": false,
-  "total": 105,
-  "public": 46,
+  "total": 110,
+  "public": 51,
   "private": 59,
   "privateNamesPublished": false,
   "repositories": [
+    {
+      "name": "Ab-download-Manager-OMEGA-FORK",
+      "fullName": "Pierreg99/Ab-download-Manager-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/Ab-download-Manager-OMEGA-FORK",
+      "defaultBranch": "master",
+      "updatedAt": "2026-09-14T00:34:25Z",
+      "archived": false
+    },
+    {
+      "name": "AdrenoToolsDrivers-OMEGA-FORK",
+      "fullName": "Pierreg99/AdrenoToolsDrivers-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/AdrenoToolsDrivers-OMEGA-FORK",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-14T00:39:05Z",
+      "archived": false
+    },
     {
       "name": "awesome-ai-video-generation-list-OMEGA-FORK",
       "fullName": "Pierreg99/awesome-ai-video-generation-list-OMEGA-FORK",
@@ -107,13 +123,20 @@
       "archived": false
     },
     {
-      "name": "NEXUS-CORE-81",
-      "fullName": "private/NEXUS-CORE-81",
-      "htmlUrl": "",
+      "name": "cryo-omega-ultra",
+      "fullName": "Pierreg99/cryo-omega-ultra",
+      "htmlUrl": "https://github.com/Pierreg99/cryo-omega-ultra",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-13T22:51:14Z",
-      "archived": false,
-      "description": ""
+      "updatedAt": "2026-09-14T00:45:08Z",
+      "archived": false
+    },
+    {
+      "name": "CRYOPATRAE-OMEGA-",
+      "fullName": "Pierreg99/CRYOPATRAE-OMEGA-",
+      "htmlUrl": "https://github.com/Pierreg99/CRYOPATRAE-OMEGA-",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-14T00:44:17Z",
+      "archived": false
     },
     {
       "name": "Cryoplane-Polygonal-Flight",
@@ -156,6 +179,14 @@
       "archived": false
     },
     {
+      "name": "gopeedDLoadManager-OMEGA-FORK",
+      "fullName": "Pierreg99/gopeedDLoadManager-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/gopeedDLoadManager-OMEGA-FORK",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-14T00:35:27Z",
+      "archived": false
+    },
+    {
       "name": "inoffical-cryogamehelp-repo",
       "fullName": "Pierreg99/inoffical-cryogamehelp-repo",
       "htmlUrl": "https://github.com/Pierreg99/inoffical-cryogamehelp-repo",
@@ -188,6 +219,14 @@
       "archived": false
     },
     {
+      "name": "Motrix-OMEGA-FORK",
+      "fullName": "Pierreg99/Motrix-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/Motrix-OMEGA-FORK",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-14T00:34:50Z",
+      "archived": false
+    },
+    {
       "name": "Nexo-Jarvis-AI-Futuristic-Assistant-Alpha",
       "fullName": "Pierreg99/Nexo-Jarvis-AI-Futuristic-Assistant-Alpha",
       "htmlUrl": "https://github.com/Pierreg99/Nexo-Jarvis-AI-Futuristic-Assistant-Alpha",
@@ -200,7 +239,7 @@
       "fullName": "Pierreg99/Pierreg99-Pierreg99-Profile-Page",
       "htmlUrl": "https://github.com/Pierreg99/Pierreg99-Pierreg99-Profile-Page",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-13T22:34:03Z",
+      "updatedAt": "2026-09-14T00:22:36Z",
       "archived": false
     },
     {
@@ -208,7 +247,7 @@
       "fullName": "Pierreg99/progress",
       "htmlUrl": "https://github.com/Pierreg99/progress",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-13T20:50:29Z",
+      "updatedAt": "2026-09-14T00:46:37Z",
       "archived": false
     },
     {
