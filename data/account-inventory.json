@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "owner": "Pierreg99",
-  "updatedAt": "2026-09-14T14:02:43+00:00",
+  "updatedAt": "2026-09-14T19:21:40+00:00",
   "timezone": "Europe/Berlin",
   "source": "GitHub public user API + preserved private count",
   "completeAccountSync": false,
-  "total": 115,
-  "public": 56,
+  "total": 134,
+  "public": 75,
   "private": 59,
   "privateNamesPublished": false,
   "repositories": [
@@ -40,6 +40,22 @@
       "htmlUrl": "https://github.com/Pierreg99/AdrenoToolsDrivers-OMEGA-FORK",
       "defaultBranch": "main",
       "updatedAt": "2026-09-14T00:39:05Z",
+      "archived": false
+    },
+    {
+      "name": "AnymeX-OMEGA-FORK",
+      "fullName": "Pierreg99/AnymeX-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/AnymeX-OMEGA-FORK",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-14T16:35:17Z",
+      "archived": false
+    },
+    {
+      "name": "AnymeXExtensionRuntimeBridge-OMEGA-FORK",
+      "fullName": "Pierreg99/AnymeXExtensionRuntimeBridge-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/AnymeXExtensionRuntimeBridge-OMEGA-FORK",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-14T16:34:40Z",
       "archived": false
     },
     {
@@ -104,6 +120,14 @@
       "htmlUrl": "https://github.com/Pierreg99/Chronicles-of-Lumina-GameRPGwork",
       "defaultBranch": "main",
       "updatedAt": "2026-09-07T17:43:11Z",
+      "archived": false
+    },
+    {
+      "name": "cloudstream-OMEGA-FORK",
+      "fullName": "Pierreg99/cloudstream-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/cloudstream-OMEGA-FORK",
+      "defaultBranch": "master",
+      "updatedAt": "2026-09-14T16:28:10Z",
       "archived": false
     },
     {
@@ -179,6 +203,46 @@
       "archived": false
     },
     {
+      "name": "Dartotsu-Downloader-OMEGA-FORK",
+      "fullName": "Pierreg99/Dartotsu-Downloader-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/Dartotsu-Downloader-OMEGA-FORK",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-14T16:33:12Z",
+      "archived": false
+    },
+    {
+      "name": "Dartotsu-OMEGA-FORK",
+      "fullName": "Pierreg99/Dartotsu-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/Dartotsu-OMEGA-FORK",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-14T16:33:28Z",
+      "archived": false
+    },
+    {
+      "name": "DartotsuExtensionBridge-OMEGA-FORK",
+      "fullName": "Pierreg99/DartotsuExtensionBridge-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/DartotsuExtensionBridge-OMEGA-FORK",
+      "defaultBranch": "master",
+      "updatedAt": "2026-09-14T16:32:40Z",
+      "archived": false
+    },
+    {
+      "name": "Emulator-wtf-Actions-OMEGA-FORK",
+      "fullName": "Pierreg99/Emulator-wtf-Actions-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/Emulator-wtf-Actions-OMEGA-FORK",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-14T16:39:33Z",
+      "archived": false
+    },
+    {
+      "name": "emupedia.github.io-OMEGA-FORK",
+      "fullName": "Pierreg99/emupedia.github.io-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/emupedia.github.io-OMEGA-FORK",
+      "defaultBranch": "master",
+      "updatedAt": "2026-09-14T16:37:07Z",
+      "archived": false
+    },
+    {
       "name": "Freedify-OMEGA-FORK",
       "fullName": "Pierreg99/Freedify-OMEGA-FORK",
       "htmlUrl": "https://github.com/Pierreg99/Freedify-OMEGA-FORK",
@@ -208,6 +272,22 @@
       "htmlUrl": "https://github.com/Pierreg99/inoffical-cryogamehelp-repo",
       "defaultBranch": "main",
       "updatedAt": "2026-09-07T21:36:58Z",
+      "archived": false
+    },
+    {
+      "name": "Kai-Release-Stream-OMEGA-FORK",
+      "fullName": "Pierreg99/Kai-Release-Stream-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/Kai-Release-Stream-OMEGA-FORK",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-14T16:27:10Z",
+      "archived": false
+    },
+    {
+      "name": "KAIOVER9000-OMEGA-FORK",
+      "fullName": "Pierreg99/KAIOVER9000-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/KAIOVER9000-OMEGA-FORK",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-14T16:27:47Z",
       "archived": false
     },
     {
@@ -243,6 +323,22 @@
       "archived": false
     },
     {
+      "name": "mangayomi-anime-extensions-OMEGA-FORK",
+      "fullName": "Pierreg99/mangayomi-anime-extensions-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/mangayomi-anime-extensions-OMEGA-FORK",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-14T16:35:00Z",
+      "archived": false
+    },
+    {
+      "name": "mixplorer-releases-OMEGA-FORK",
+      "fullName": "Pierreg99/mixplorer-releases-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/mixplorer-releases-OMEGA-FORK",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-14T16:35:52Z",
+      "archived": false
+    },
+    {
       "name": "Motrix-OMEGA-FORK",
       "fullName": "Pierreg99/Motrix-OMEGA-FORK",
       "htmlUrl": "https://github.com/Pierreg99/Motrix-OMEGA-FORK",
@@ -259,11 +355,27 @@
       "archived": false
     },
     {
+      "name": "ObtaniumAndroid-OMEGA-FORK",
+      "fullName": "Pierreg99/ObtaniumAndroid-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/ObtaniumAndroid-OMEGA-FORK",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-14T16:36:33Z",
+      "archived": false
+    },
+    {
       "name": "Pierreg99-Pierreg99-Profile-Page",
       "fullName": "Pierreg99/Pierreg99-Pierreg99-Profile-Page",
       "htmlUrl": "https://github.com/Pierreg99/Pierreg99-Pierreg99-Profile-Page",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-14T10:56:15Z",
+      "updatedAt": "2026-09-14T17:02:01Z",
+      "archived": false
+    },
+    {
+      "name": "Playnite-OMEGA-FORK",
+      "fullName": "Pierreg99/Playnite-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/Playnite-OMEGA-FORK",
+      "defaultBranch": "master",
+      "updatedAt": "2026-09-14T16:34:05Z",
       "archived": false
     },
     {
@@ -271,7 +383,7 @@
       "fullName": "Pierreg99/progress",
       "htmlUrl": "https://github.com/Pierreg99/progress",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-14T12:41:12Z",
+      "updatedAt": "2026-09-14T14:02:55Z",
       "archived": false
     },
     {
@@ -280,6 +392,30 @@
       "htmlUrl": "https://github.com/Pierreg99/ResidentLovely-Maximum-Hapiness-Game",
       "defaultBranch": "main",
       "updatedAt": "2026-09-07T17:44:17Z",
+      "archived": false
+    },
+    {
+      "name": "RetroArchJS-OMEGA-FORK",
+      "fullName": "Pierreg99/RetroArchJS-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/RetroArchJS-OMEGA-FORK",
+      "defaultBranch": "v1.22.2",
+      "updatedAt": "2026-09-14T16:38:08Z",
+      "archived": false
+    },
+    {
+      "name": "Rhythm-OMEGA-FORK",
+      "fullName": "Pierreg99/Rhythm-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/Rhythm-OMEGA-FORK",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-14T16:36:16Z",
+      "archived": false
+    },
+    {
+      "name": "SharpEmuPSV-OMEGA-FORK",
+      "fullName": "Pierreg99/SharpEmuPSV-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/SharpEmuPSV-OMEGA-FORK",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-14T16:38:50Z",
       "archived": false
     },
     {
@@ -344,6 +480,22 @@
       "htmlUrl": "https://github.com/Pierreg99/SpotiFLAC-OMEGA-FORK",
       "defaultBranch": "main",
       "updatedAt": "2026-09-12T11:06:12Z",
+      "archived": false
+    },
+    {
+      "name": "Streamflix-OMEGA-FORK",
+      "fullName": "Pierreg99/Streamflix-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/Streamflix-OMEGA-FORK",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-14T16:28:56Z",
+      "archived": false
+    },
+    {
+      "name": "Streamflixrouge-OMEGA-FORK",
+      "fullName": "Pierreg99/Streamflixrouge-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/Streamflixrouge-OMEGA-FORK",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-14T16:29:49Z",
       "archived": false
     },
     {
