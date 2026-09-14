@@ -1,0 +1,217 @@
+{
+  "version": 1,
+  "timezone": "Europe/Berlin",
+  "stepPercent": 5,
+  "overall": 95,
+  "overallBucket": 95,
+  "tracks": {
+    "nexus-core-81": {
+      "percent": 78,
+      "bucket": 75
+    },
+    "cyberdash": {
+      "percent": 100,
+      "bucket": 100
+    },
+    "fluent-learn": {
+      "percent": 100,
+      "bucket": 100
+    },
+    "cryopg-bot": {
+      "percent": 100,
+      "bucket": 100
+    },
+    "vps-security": {
+      "percent": 10,
+      "bucket": 10
+    },
+    "routines-mesh": {
+      "percent": 100,
+      "bucket": 100
+    },
+    "agentic-snapshot": {
+      "percent": 100,
+      "bucket": 100
+    },
+    "agent-memory": {
+      "percent": 100,
+      "bucket": 100
+    },
+    "recursive-brain": {
+      "percent": 100,
+      "bucket": 100
+    },
+    "openrouter-pipeline": {
+      "percent": 100,
+      "bucket": 100
+    },
+    "prompts-fan-bundle": {
+      "percent": 100,
+      "bucket": 100
+    },
+    "assets-bundle": {
+      "percent": 100,
+      "bucket": 100
+    },
+    "avatar-socials": {
+      "percent": 100,
+      "bucket": 100
+    },
+    "castle-immersive": {
+      "percent": 100,
+      "bucket": 100
+    }
+  },
+  "agents": {
+    "CryoCoder": {
+      "id": "07aef9d1-9d37-45df-877a-9d08d6d5b708",
+      "avgPercent": 94.5,
+      "bucket": 90,
+      "tracks": [
+        "nexus-core-81",
+        "cyberdash",
+        "fluent-learn",
+        "cryopg-bot"
+      ]
+    },
+    "CryoEthicist": {
+      "id": "0aff2b56-e170-4ae3-b975-fe2a5c92dbb2",
+      "avgPercent": 70.0,
+      "bucket": 70,
+      "tracks": [
+        "vps-security",
+        "routines-mesh",
+        "agentic-snapshot"
+      ]
+    },
+    "CryoDomainExpert": {
+      "id": "20a1891f-db09-4e36-bad2-30c7c3e365d3",
+      "avgPercent": 100.0,
+      "bucket": 100,
+      "tracks": [
+        "agent-memory",
+        "recursive-brain",
+        "fluent-learn"
+      ]
+    },
+    "CryoResearcher": {
+      "id": "210d2a1a-f4ab-45c9-900c-b15d66c81c60",
+      "avgPercent": 100.0,
+      "bucket": 100,
+      "tracks": [
+        "openrouter-pipeline",
+        "recursive-brain",
+        "prompts-fan-bundle"
+      ]
+    },
+    "CryoCritic": {
+      "id": "3b0a8fe7-d2c4-4445-857b-a92924c84747",
+      "avgPercent": 70.0,
+      "bucket": 70,
+      "tracks": [
+        "agentic-snapshot",
+        "routines-mesh",
+        "vps-security"
+      ]
+    },
+    "CryoForge": {
+      "id": "4b42f5cb-6616-4344-b12a-630c2a48cb2d",
+      "avgPercent": 100.0,
+      "bucket": 100,
+      "tracks": [
+        "assets-bundle",
+        "avatar-socials",
+        "castle-immersive"
+      ]
+    },
+    "CryoWriter": {
+      "id": "70c9c177-cb8c-4653-9665-7ae20c75f83b",
+      "avgPercent": 100.0,
+      "bucket": 100,
+      "tracks": [
+        "prompts-fan-bundle",
+        "avatar-socials",
+        "assets-bundle"
+      ]
+    },
+    "Omega LEARNER": {
+      "id": "a5c589fe-14c2-4c21-ba34-2c9f8c71f521",
+      "avgPercent": 100.0,
+      "bucket": 100,
+      "tracks": [
+        "agentic-snapshot",
+        "prompts-fan-bundle",
+        "routines-mesh"
+      ]
+    },
+    "AGI-3 \u00b7 Sense": {
+      "id": "a6056720-b042-40e0-a33b-e1e299f1036a",
+      "avgPercent": 100.0,
+      "bucket": 100,
+      "tracks": [
+        "agentic-snapshot",
+        "recursive-brain",
+        "openrouter-pipeline"
+      ]
+    },
+    "AGI-3 \u00b7 Build": {
+      "id": "a619a685-3f37-43c9-8c11-3b21e4022ccd",
+      "avgPercent": 92.7,
+      "bucket": 90,
+      "tracks": [
+        "nexus-core-81",
+        "cyberdash",
+        "cryopg-bot"
+      ]
+    },
+    "CryoStrategist": {
+      "id": "aeb595f6-1e7f-485f-880f-e17e73096bec",
+      "avgPercent": 100.0,
+      "bucket": 100,
+      "tracks": [
+        "agentic-snapshot",
+        "routines-mesh",
+        "recursive-brain"
+      ]
+    },
+    "Learner": {
+      "id": "b692c590-0ea1-4b3c-8046-8d507deb8198",
+      "avgPercent": 100.0,
+      "bucket": 100,
+      "tracks": [
+        "agentic-snapshot",
+        "prompts-fan-bundle"
+      ]
+    },
+    "Cryoomega": {
+      "id": "c23c8a96-1981-4dd4-936b-afc814e0fe0b",
+      "avgPercent": 94.5,
+      "bucket": 90,
+      "tracks": [
+        "agentic-snapshot",
+        "routines-mesh",
+        "openrouter-pipeline",
+        "nexus-core-81"
+      ]
+    },
+    "Asa": {
+      "id": "c9300be0-7d8d-45d2-bd19-43d59e211575",
+      "avgPercent": 100.0,
+      "bucket": 100,
+      "tracks": [
+        "cyberdash"
+      ]
+    },
+    "CryoArchitect": {
+      "id": "efde43dc-4828-4f24-8966-ad36cdae2f23",
+      "avgPercent": 92.7,
+      "bucket": 90,
+      "tracks": [
+        "nexus-core-81",
+        "agent-memory",
+        "openrouter-pipeline"
+      ]
+    }
+  },
+  "updatedAt": "2026-09-14T07:58:50.780516+02:00"
+}
