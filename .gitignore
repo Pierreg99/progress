@@ -3,3 +3,4 @@
 **/*codenames.private*
 **/repo-codenames.private.json
 .env
+__pycache__/
