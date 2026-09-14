@@ -107,12 +107,13 @@
       "archived": false
     },
     {
-      "name": "cryo-omega-ultra",
-      "fullName": "Pierreg99/cryo-omega-ultra",
-      "htmlUrl": "https://github.com/Pierreg99/cryo-omega-ultra",
+      "name": "NEXUS-CORE-81",
+      "fullName": "private/NEXUS-CORE-81",
+      "htmlUrl": "",
       "defaultBranch": "main",
       "updatedAt": "2026-09-13T22:51:14Z",
-      "archived": false
+      "archived": false,
+      "description": ""
     },
     {
       "name": "Cryoplane-Polygonal-Flight",

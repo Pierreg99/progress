@@ -1,46 +1,58 @@
-# Cryo Progress & Portfolio
+# Cryo Progress (95%)
 
-Public progress board, repository documentation audit, and bilingual engineering portfolio for the Pierreg99 project landscape.
+Public automatic progress + quality audits for Cryofreee / Cryo Omega.
 
-**Current verified board:** 96% · Europe/Berlin · evidence-based status tracking
+**Overall: 95%** · Updated: `2026-09-14T02:45:51+02:00` · Timezone: Europe/Berlin
 
-## Start here
+Synced after every material task (`sync-progress-after-task` skill) plus weekday catch-up routine **Progress percent auto** (18:00 Berlin, Mon–Fri). Private tracks = **codename only**.
 
-- [Deutsch](./README.de.md)
-- [English](./README.en.md)
-- [Live portfolio](./site/index.html)
-- [German portfolio](./site/index.de.html)
-- [English portfolio](./site/index.en.html)
-- [Repository audit](./docs/repository-documentation-audit-2026-09-07.md)
-- [Deep-audit index](./docs/deep-audit-index-2026-09-07.md)
-- [Account-wide GitHub sync — 2026-09-12](./docs/account-sync-2026-09-12.md)
-- [DE/EN documentation standard](./docs/de-en-documentation-standard.md)
-- [Current progress](./PROGRESS.md)
+## Tracks
 
-## Account-wide synchronization
+| % | Name | Status |
+|---|------|--------|
+| 100% | `AURORA-PANEL-27` | live |
+| 100% | `Blender 5.2 LTS install` | live |
+| 100% | `CRYO-ARC-14` | live |
+| 100% | `Castle 30s immersive render` | live |
+| 100% | `Chronicles of Lumina` | live |
+| 100% | `CryAIPulse public viz` | live |
+| 100% | `Cryoplane Polygonal Flight` | live |
+| 100% | `Cyberdash Rhythm Platformer` | live |
+| 100% | `DRIFT-MIRROR-11` | live |
+| 100% | `IRON-SEAL-38` | live |
+| 100% | `KiBlox VoxelGame` | live |
+| 100% | `Master prompts fan bundle` | live |
+| 100% | `NEXUS-SPIRE-42` | live |
+| 100% | `OBSIDIAN-ORBIT-66` | live |
+| 100% | `POLAR-BLADE-62` | live |
+| 100% | `POLAR-BLADE-62` | live |
+| 100% | `POLAR-BLADE-62` | live |
+| 100% | `Resident Lovely` | live |
+| 100% | `SPECTRE-LENS-37` | live |
+| 100% | `agent-memory library` | live |
+| 78% | `NEXUS-CORE-81` | active |
+| 10% | `CIPHER-ARC-15` | user_action |
 
-The `progress` repository is synchronized against the authenticated `Pierreg99` GitHub repository inventory. Snapshot **2026-09-12**: **99 repositories total**, including **40 public** and **59 private**. Private repository names remain redacted here and continue to follow the existing codename policy.
 
-The account-wide sync is an inventory/navigation layer. Repository-local READMEs, changelogs, roadmaps, tests, and agent instructions remain authoritative for implementation status.
+## Open
 
-## Portfolio scope
+- **CIPHER-ARC-15** — 10% (user_action) — Private project (codename only).
+- **NEXUS-CORE-81** — 78% (active) — 0.4.1 lexical RAG + plugin sandbox merged (codename only).
 
-The portfolio presents the verified project landscape without replacing project-specific documentation. It groups work into games, AI/agent systems, web applications, creative tooling, documentation/learning, and infrastructure/assets.
+## Quality
 
-## Documentation policy
+See [`quality/QUALITY.md`](./quality/QUALITY.md).
 
-- Existing READMEs and historical changelogs are preserved.
-- Progress percentages are only published when supported by repository evidence.
-- Private projects remain represented only where disclosure is already appropriate; private progress tracks use codenames where required.
-- Repository-local `AGENTS.md` and project-specific operating guidance remain authoritative.
-
-## Automatic progress
+## Sync
 
 ```bash
-python3 scripts/sync_board.py
-python3 scripts/sync_board.py --check
+python3 scripts/sync_board.py          # regenerate PROGRESS.md + README.md + site/
+python3 scripts/sync_board.py --check  # CI / pre-push policy check
 ```
 
-## Repository
+## Policy
 
-GitHub: https://github.com/Pierreg99/progress
+- Never commit private codename maps or real private repo names into content files.
+- Public aliases live in [`codenames/PUBLIC_ALIASES.json`](./codenames/PUBLIC_ALIASES.json).
+- History snapshots: [`history/`](./history/).
+- Live board (GitHub Pages): `site/index.html`
