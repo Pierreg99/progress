@@ -1,21 +1,37 @@
 {
   "schemaVersion": 1,
   "owner": "Pierreg99",
-  "updatedAt": "2026-09-14T01:04:58+00:00",
+  "updatedAt": "2026-09-14T06:17:29+00:00",
   "timezone": "Europe/Berlin",
   "source": "GitHub public user API + preserved private count",
   "completeAccountSync": false,
-  "total": 110,
-  "public": 51,
+  "total": 114,
+  "public": 55,
   "private": 59,
   "privateNamesPublished": false,
   "repositories": [
+    {
+      "name": "7xx-Drivers",
+      "fullName": "Pierreg99/7xx-Drivers",
+      "htmlUrl": "https://github.com/Pierreg99/7xx-Drivers",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-14T03:05:56Z",
+      "archived": false
+    },
     {
       "name": "Ab-download-Manager-OMEGA-FORK",
       "fullName": "Pierreg99/Ab-download-Manager-OMEGA-FORK",
       "htmlUrl": "https://github.com/Pierreg99/Ab-download-Manager-OMEGA-FORK",
       "defaultBranch": "master",
       "updatedAt": "2026-09-14T00:34:25Z",
+      "archived": false
+    },
+    {
+      "name": "AdrenoGpuDriver-Omega-Fork",
+      "fullName": "Pierreg99/AdrenoGpuDriver-Omega-Fork",
+      "htmlUrl": "https://github.com/Pierreg99/AdrenoGpuDriver-Omega-Fork",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-14T03:19:34Z",
       "archived": false
     },
     {
@@ -127,7 +143,7 @@
       "fullName": "Pierreg99/cryo-omega-ultra",
       "htmlUrl": "https://github.com/Pierreg99/cryo-omega-ultra",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-14T00:45:08Z",
+      "updatedAt": "2026-09-14T05:46:53Z",
       "archived": false
     },
     {
@@ -211,6 +227,14 @@
       "archived": false
     },
     {
+      "name": "LSFG-Android-OMEGA-FORK",
+      "fullName": "Pierreg99/LSFG-Android-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/LSFG-Android-OMEGA-FORK",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-14T03:46:11Z",
+      "archived": false
+    },
+    {
       "name": "Mandarine-NEO-OMEGA-FORK",
       "fullName": "Pierreg99/Mandarine-NEO-OMEGA-FORK",
       "htmlUrl": "https://github.com/Pierreg99/Mandarine-NEO-OMEGA-FORK",
@@ -239,7 +263,7 @@
       "fullName": "Pierreg99/Pierreg99-Pierreg99-Profile-Page",
       "htmlUrl": "https://github.com/Pierreg99/Pierreg99-Pierreg99-Profile-Page",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-14T00:22:36Z",
+      "updatedAt": "2026-09-14T05:21:38Z",
       "archived": false
     },
     {
@@ -247,7 +271,7 @@
       "fullName": "Pierreg99/progress",
       "htmlUrl": "https://github.com/Pierreg99/progress",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-14T00:46:37Z",
+      "updatedAt": "2026-09-14T05:59:18Z",
       "archived": false
     },
     {
@@ -408,6 +432,14 @@
       "htmlUrl": "https://github.com/Pierreg99/TermuxBlack-OMEGA-FORK",
       "defaultBranch": "master",
       "updatedAt": "2026-09-12T11:09:07Z",
+      "archived": false
+    },
+    {
+      "name": "windows_xiaomi_platforms-OMEGA-FORK",
+      "fullName": "Pierreg99/windows_xiaomi_platforms-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/windows_xiaomi_platforms-OMEGA-FORK",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-14T03:04:58Z",
       "archived": false
     },
     {
