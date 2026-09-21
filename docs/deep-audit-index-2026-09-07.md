@@ -42,18 +42,18 @@ Existing `CHANGES.md`, `HISTORY.md`, `ROADMAP.md`, `PLAN.md`, and project-specif
 | Repository | Documentation status | Technical evidence | DE/EN gap | Priority |
 |---|---|---|---|---|
 | `Chronicles-of-Lumina-GameRPGwork` | Strong root + nested docs | JS app, bot, Pages/deploy docs, tests | Partial | A |
-| `Cryo-omegaTOPTIER` | Very strong | Extensive multi-agent, tests/docs/workflows | Partial/advanced | A |
-| `CryoMediaPro-MediaSuite` | Root README + progress/changelog | Media suite / WASM DSP / Pages guidance | EN companion useful | B |
-| `yt-dlp-command-generator` | Strong root README | Static utility | EN companion useful | C |
-| `Cyber-Garden-Multi` | Root README | ES modules, Canvas, localStorage | DE companion missing | C |
-| `3to5D-Hyperscale-Agi3-Platform-Alpha-state` | Root README | WebGL2/HDR/GLSL/AGI-3 website | DE/EN pair recommended | B |
-| `CryoPCBuilderSuite` | Root baseline | React/Vite/Node/tRPC/Drizzle/MySQL/Vitest | DE/EN pair recommended | A |
+| `POLAR-BLADE-62` | Very strong | Extensive multi-agent, tests/docs/workflows | Partial/advanced | A |
+| `NEXUS-CROWN-19` | Root README + progress/changelog | Media suite / WASM DSP / Pages guidance | EN companion useful | B |
+| `AURORA-KEY-84` | Strong root README | Static utility | EN companion useful | C |
+| `SPECTRE-CORE-79` | Root README | ES modules, Canvas, localStorage | DE companion missing | C |
+| `OBSIDIAN-ORBIT-66` | Root README | WebGL2/HDR/GLSL/AGI-3 website | DE/EN pair recommended | B |
+| `SPECTRE-VAULT-40` | Root baseline | React/Vite/Node/tRPC/Drizzle/MySQL/Vitest | DE/EN pair recommended | A |
 | `Nexo-Jarvis-AI-Futuristic-Assistant-Alpha` | Root + public presentation | Assistant application | Maintain parity | A |
-| `CryoIQ-Machala-Suite-Reflex-Trainer` | Strong root + linked docs | React/TanStack/PWA/exports | EN companion useful | A |
-| `Agi3-Website` | Strong root + linked docs | AGI-3 website/bundle/build checks | EN companion useful | A |
-| `Cryo-Card-V2-Cardgame` | Normalized root baseline | Game/deck/faction/coach/lore/tournament | Pair maintained | B |
-| `CryoComponents` | Strong root + docs references | skills/expansions/memory/catalog | DE/EN pair useful | B |
-| `CryoAssets-Example` | Root README verified | assets/prototypes/design system | DE/EN pair useful | C |
+| `CRYO-PRISM-25` | Strong root + linked docs | React/TanStack/PWA/exports | EN companion useful | A |
+| `SUMMIT-BLADE-85` | Strong root + linked docs | AGI-3 website/bundle/build checks | EN companion useful | A |
+| `NIGHT-PRISM-22` | Normalized root baseline | Game/deck/faction/coach/lore/tournament | Pair maintained | B |
+| `OBSIDIAN-GRID-61` | Strong root + docs references | skills/expansions/memory/catalog | DE/EN pair useful | B |
+| `SUMMIT-FORGE-50` | Root README verified | assets/prototypes/design system | DE/EN pair useful | C |
 | `progress` | Strong automation-driven board | sync scripts + public progress site + audit matrix | Already bilingual | A |
 | `cryoOS` | Blocked/empty state | No verified application entry point | TBD after initialization | C |
 | `cryo-unified-agent` | Strong architecture documentation | runtime, agents, skills, MCP, routing, routines, platforms, memory, policies, schemas and governance gates | Maintain DE/EN parity | A |

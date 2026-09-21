@@ -28,9 +28,9 @@ Translated files must describe only information supported by the repository. Do 
 
 Bilingual README companions have been added to:
 
-- `Cryo-Card-V2-Cardgame`
-- `CryoMediaPro-MediaSuite`
-- `CryoPCBuilderSuite`
+- `NIGHT-PRISM-22`
+- `NEXUS-CROWN-19`
+- `SPECTRE-VAULT-40`
 
 The broader portfolio audit identifies further candidates for language expansion without fabricating absent evidence.
 

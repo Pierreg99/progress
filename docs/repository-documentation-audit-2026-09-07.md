@@ -11,16 +11,16 @@
 | Repository | Finding | Action |
 |---|---|---|
 | `Chronicles-of-Lumina-GameRPGwork` | Root README present; repository also contains a docs area and release/change documentation | No root README replacement |
-| `Cryo-omegaTOPTIER` | Root README, root CHANGELOG and progress-oriented documentation present | No replacement |
-| `CryoMediaPro-MediaSuite` | Root README present; root CHANGELOG/PROGRESS absent in verification | Added `CHANGELOG.md`, `PROGRESS.md` |
-| `yt-dlp-command-generator` | Root README present | No replacement |
-| `Cyber-Garden-Multi` | Root README present | No replacement |
-| `CryoPCBuilderSuite` | Root README/CHANGELOG/PROGRESS absent in verification; package metadata present | Added all three |
-| `CryoIQ-Machala-Suite-Reflex-Trainer` | Root README present and links to CHANGELOG/PROGRESS/ROADMAP | No root README replacement |
-| `Agi3-Website` | Root README present and references CHANGELOG/PROGRESS/ROADMAP | No replacement |
-| `Cryo-Card-V2-Cardgame` | Root README and PROGRESS absent; historical `CHANGES.md` present | Added `README.md`, `CHANGELOG.md`, `PROGRESS.md`; preserved `CHANGES.md` |
-| `CryoComponents` | Root README present and explicitly documents CHANGELOG/PLAN/PROGRESS/ROADMAP | No replacement |
-| `CryoAssets-Example` | Root README present | No replacement |
+| `POLAR-BLADE-62` | Root README, root CHANGELOG and progress-oriented documentation present | No replacement |
+| `NEXUS-CROWN-19` | Root README present; root CHANGELOG/PROGRESS absent in verification | Added `CHANGELOG.md`, `PROGRESS.md` |
+| `AURORA-KEY-84` | Root README present | No replacement |
+| `SPECTRE-CORE-79` | Root README present | No replacement |
+| `SPECTRE-VAULT-40` | Root README/CHANGELOG/PROGRESS absent in verification; package metadata present | Added all three |
+| `CRYO-PRISM-25` | Root README present and links to CHANGELOG/PROGRESS/ROADMAP | No root README replacement |
+| `SUMMIT-BLADE-85` | Root README present and references CHANGELOG/PROGRESS/ROADMAP | No replacement |
+| `NIGHT-PRISM-22` | Root README and PROGRESS absent; historical `CHANGES.md` present | Added `README.md`, `CHANGELOG.md`, `PROGRESS.md`; preserved `CHANGES.md` |
+| `OBSIDIAN-GRID-61` | Root README present and explicitly documents CHANGELOG/PLAN/PROGRESS/ROADMAP | No replacement |
+| `SUMMIT-FORGE-50` | Root README present | No replacement |
 | `progress` | Root README present; automation-driven progress board already exists | Added this audit |
 | `cryoOS` | Repository has no verified application entry point/package metadata and content creation is blocked because the current repository has no writable initial commit through the available GitHub Contents operation | Documented blocker; no fabricated project completion claim |
 
@@ -46,9 +46,9 @@ For repositories whose existing structure already satisfies that baseline, no re
 
 The directly verified documentation gaps addressed in this run are:
 
-- `Cryo-Card-V2-Cardgame`: 3 files added.
-- `CryoMediaPro-MediaSuite`: 2 files added.
-- `CryoPCBuilderSuite`: 3 files added.
+- `NIGHT-PRISM-22`: 3 files added.
+- `NEXUS-CROWN-19`: 2 files added.
+- `SPECTRE-VAULT-40`: 3 files added.
 - `cryoOS`: initialization blocked by repository state; no unsupported files or claims were added.
 
 The full repository inventory remains the source of truth for subsequent per-repository deep dives.

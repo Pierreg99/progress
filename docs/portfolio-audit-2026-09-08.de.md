@@ -21,53 +21,53 @@ Der aktuelle verbundene Bestand umfasst **57 Repositories**: öffentliche und pr
 | # | Repository | Sichtbarkeit | Profilrolle | E | D | P | Priorität | Evidenz / Hauptaktion |
 |---:|---|---|---|---:|---:|---:|:---:|---|
 | 01 | Chronicles-of-Lumina-GameRPGwork | public | Flagship Game / 3D | 5 | 5 | 5 | A | Verifiziert: 100+ JS-Dateien, 401 Assertions/37 Testdateien, Pages, Electron, Bot, Roadmap; als Haupt-Game-Showcase halten. |
-| 02 | Cryo-omegaTOPTIER | private | AI / System Suite | 5 | 5 | 4 | A | Verifiziert: umfangreiche README-/Change-/Roadmap-/Progress-Struktur; Engineering-Nachweise weiter ausführbar machen. |
-| 03 | CryoMediaPro-MediaSuite | private | Media Engineering | 4 | 4 | 4 | B | Verifiziert: CryoBridge, Media-Pipeline, Observability, WASM-DSP; Demo/Tests/Build-Nachweis weiter stärken. |
-| 04 | yt-dlp-command-generator | private | Developer Tool | 2 | 3 | 2 | C | Kleine spezialisierte Utility; klare README/API/Beispiele statt weiterer Feature-Breite. |
-| 05 | 3to5D-Hyperscale-Agi3-Platform-Alpha-state | private | Experimental AI Platform | 4 | 3 | 3 | B | Großes Artefakt; Fokus auf Architekturbeweise, reproduzierbaren Start und Abgrenzung zu anderen AI-Repos. |
-| 06 | Cyber-Garden-Multi | private | Creative Experiment | 2 | 3 | 2 | C | Kleines Konzept; nur weiterführen, wenn eigenständiger Produktkern entsteht. |
-| 07 | Cryo-Marketing-Platform | private | Platform / Product | 3 | 3 | 3 | B | Produktkern und Integrationsnachweise explizit machen; nicht mit Präsentationsprojekten vermischen. |
-| 08 | libreoffice-masterclass-web | private | Learning / Web | 3 | 3 | 3 | B | Lern-/Content-Produkt klar positionieren, inklusive Demo und Inhaltsstruktur. |
-| 09 | cryoagi3-c01-docs | private | Documentation / AI | 3 | 4 | 3 | B | Als dokumentarische Quelle konsistent verlinken; Überschneidungen mit Plattform-/Agenten-Repos reduzieren. |
-| 10 | CryoPCBuilderSuite | private | Full-stack Product | 4 | 4 | 4 | A | Verifiziert: React 19/Vite 7/TS/Tailwind/tRPC/Drizzle/MySQL/S3/Express/Vitest; End-to-end Demo und CI hervorheben. |
+| 02 | POLAR-BLADE-62 | private | AI / System Suite | 5 | 5 | 4 | A | Verifiziert: umfangreiche README-/Change-/Roadmap-/Progress-Struktur; Engineering-Nachweise weiter ausführbar machen. |
+| 03 | NEXUS-CROWN-19 | private | Media Engineering | 4 | 4 | 4 | B | Verifiziert: CryoBridge, Media-Pipeline, Observability, WASM-DSP; Demo/Tests/Build-Nachweis weiter stärken. |
+| 04 | AURORA-KEY-84 | private | Developer Tool | 2 | 3 | 2 | C | Kleine spezialisierte Utility; klare README/API/Beispiele statt weiterer Feature-Breite. |
+| 05 | OBSIDIAN-ORBIT-66 | private | Experimental AI Platform | 4 | 3 | 3 | B | Großes Artefakt; Fokus auf Architekturbeweise, reproduzierbaren Start und Abgrenzung zu anderen AI-Repos. |
+| 06 | SPECTRE-CORE-79 | private | Creative Experiment | 2 | 3 | 2 | C | Kleines Konzept; nur weiterführen, wenn eigenständiger Produktkern entsteht. |
+| 07 | FROST-NODE-16 | private | Platform / Product | 3 | 3 | 3 | B | Produktkern und Integrationsnachweise explizit machen; nicht mit Präsentationsprojekten vermischen. |
+| 08 | NEXUS-SEAL-72 | private | Learning / Web | 3 | 3 | 3 | B | Lern-/Content-Produkt klar positionieren, inklusive Demo und Inhaltsstruktur. |
+| 09 | ABYSS-VAULT-16 | private | Documentation / AI | 3 | 4 | 3 | B | Als dokumentarische Quelle konsistent verlinken; Überschneidungen mit Plattform-/Agenten-Repos reduzieren. |
+| 10 | SPECTRE-VAULT-40 | private | Full-stack Product | 4 | 4 | 4 | A | Verifiziert: React 19/Vite 7/TS/Tailwind/tRPC/Drizzle/MySQL/S3/Express/Vitest; End-to-end Demo und CI hervorheben. |
 | 11 | Nexo-Jarvis-AI-Futuristic-Assistant-Alpha | public | Public AI Showcase | 4 | 4 | 5 | A | Sichtbares AI/HUD-Projekt; öffentliche Readme, Demo, Architektur und Grenzen sauber herausstellen. |
-| 12 | Cryodesignhub | private | Design System / Creative | 3 | 3 | 3 | B | Design-Assets in nachvollziehbare Komponenten-/Token-Struktur überführen. |
-| 13 | cryo-AI-suite | private | AI Suite | 4 | 3 | 4 | B | Mit Unified-Agent klar abgrenzen; gemeinsame Module und Verantwortungsgrenzen dokumentieren. |
-| 14 | deep-space-explorer-3d | private | 3D Prototype | 2 | 2 | 2 | C | Kleines 3D-Experiment; als Prototyp etikettieren oder in ein größeres 3D-Projekt integrieren. |
+| 12 | AURORA-SPIRE-40 | private | Design System / Creative | 3 | 3 | 3 | B | Design-Assets in nachvollziehbare Komponenten-/Token-Struktur überführen. |
+| 13 | SUMMIT-DEPTH-30 | private | AI Suite | 4 | 3 | 4 | B | Mit Unified-Agent klar abgrenzen; gemeinsame Module und Verantwortungsgrenzen dokumentieren. |
+| 14 | CRYO-DEPTH-75 | private | 3D Prototype | 2 | 2 | 2 | C | Kleines 3D-Experiment; als Prototyp etikettieren oder in ein größeres 3D-Projekt integrieren. |
 | 15 | agent-memory | public | Flagship Library | 5 | 5 | 5 | A | Verifiziert: Python-Library, öffentliche API, SQLite, Vektorpersistenz, Tests, Benchmarks, CI 3.10–3.13, SECURITY; stärkstes klassisches Engineering-Signal. |
 | 16 | KiBlox-VoxelGame | public | Flagship Game / Voxel | 4 | 3 | 5 | A | Großes öffentliches Game; Build-/Demo-Nachweis, Architektur und Performance-Metriken weiter dokumentieren. |
-| 17 | CryoComponents | private | Component Library | 4 | 4 | 3 | B | Verifiziertes README mit CHANGELOG/PLAN/PROGRESS/ROADMAP; als interne Basisschicht positionieren. |
+| 17 | OBSIDIAN-GRID-61 | private | Component Library | 4 | 4 | 3 | B | Verifiziertes README mit CHANGELOG/PLAN/PROGRESS/ROADMAP; als interne Basisschicht positionieren. |
 | 18 | Cryoplane-Polygonal-Flight | public | 3D Game | 4 | 3 | 4 | A | Öffentlicher visueller Showcase; Gameplay-/Rendering-/Performance-Nachweise ergänzen. |
-| 19 | cryOS-CryBel | private | OS / System Concept | 2 | 2 | 2 | C | Konzeptstatus sichtbar machen; klare Abgrenzung zu cryOS-/Asset-Repos nötig. |
+| 19 | AURORA-SIGNAL-63 | private | OS / System Concept | 2 | 2 | 2 | C | Konzeptstatus sichtbar machen; klare Abgrenzung zu GLACIER-FLARE-55-/Asset-Repos nötig. |
 | 20 | ResidentLovely-Maximum-Hapiness-Game | public | Flagship Web Game | 5 | 4 | 5 | A | Verifiziert: große Three.js-App, Tests/Scripts/Docs/Design, Pages; als interaktives Showcase priorisieren. |
-| 21 | CryoIQ-Machala-Suite-Reflex-Trainer | private | Learning / Game | 4 | 4 | 4 | A | README/CHANGELOG/PROGRESS/ROADMAP vorhanden; Messkonzept und Demo-Wirkung stärken. |
-| 22 | Agi3-Website | private | Web Product | 4 | 4 | 4 | A | Verifiziert: Architektur, Bundle-Snapshot, Build/Typecheck, CHANGELOG/PROGRESS/ROADMAP; als Produkt-Website dokumentieren. |
-| 23 | Cryo-Card-V2-Cardgame | private | Game System | 4 | 4 | 3 | B | Verifiziert: game/deckbuilder/faction/coach/lore/tournament; README + normalisierter CHANGELOG + PROGRESS; Scope weiter bündeln. |
-| 24 | Agi3-AI-Music-Player | private | AI / Audio | 3 | 3 | 3 | B | Produktversprechen auf Audio-/AI-Pipeline reduzieren und mit reproduzierbarer Demo belegen. |
+| 21 | CRYO-PRISM-25 | private | Learning / Game | 4 | 4 | 4 | A | README/CHANGELOG/PROGRESS/ROADMAP vorhanden; Messkonzept und Demo-Wirkung stärken. |
+| 22 | SUMMIT-BLADE-85 | private | Web Product | 4 | 4 | 4 | A | Verifiziert: Architektur, Bundle-Snapshot, Build/Typecheck, CHANGELOG/PROGRESS/ROADMAP; als Produkt-Website dokumentieren. |
+| 23 | NIGHT-PRISM-22 | private | Game System | 4 | 4 | 3 | B | Verifiziert: game/deckbuilder/faction/coach/lore/tournament; README + normalisierter CHANGELOG + PROGRESS; Scope weiter bündeln. |
+| 24 | VOID-DEPTH-71 | private | AI / Audio | 3 | 3 | 3 | B | Produktversprechen auf Audio-/AI-Pipeline reduzieren und mit reproduzierbarer Demo belegen. |
 | 25 | Cyberdash-Rhythm-Platformer | public | Game / Rhythm | 4 | 3 | 4 | A | Öffentlicher Game-Showcase; Demo, Controls, Performance und Status klar dokumentieren. |
-| 26 | omega-marketing-Presentations | private | Presentation / Marketing | 2 | 3 | 2 | C | Als Präsentationsarchiv führen; technische Repos davon klar trennen. |
-| 27 | CryoOS-ALL-ASSETS-PROJECT | private | Asset Repository | 2 | 3 | 2 | C | Asset-Hub; Katalog, Lizenz, Herkunft und Zuordnung zu aktiven Projekten wichtig. |
-| 28 | cryOS | private | System Placeholder | 1 | 1 | 1 | C | Aktuell praktisch leer bzw. ohne verifizierten App-Einstieg; nicht mit unbelegten Claims aufwerten. |
-| 29 | CryGame-SOVEREIGNTY-Work | private | Game R&D | 3 | 3 | 3 | B | Große Arbeitsbasis; Produktgrenzen und konkrete spielbare Slice definieren. |
-| 30 | best-of | private | Curation / Archive | 2 | 3 | 2 | C | Kuratiertes Archiv; Taxonomie und Zweck klar halten. |
-| 31 | nexus-prive-v12x | private | AI / Private Iteration | 3 | 3 | 2 | C | Versionierte Privatiteration; nur als Referenz/Experiment, sofern kein eigenständiger Kern. |
-| 32 | nexus-prive-v13 | private | AI / Private Iteration | 3 | 3 | 2 | C | Nachfolger explizit gegenüber v12x differenzieren oder ältere Version archivieren. |
+| 26 | OMEGA-DEPTH-41 | private | Presentation / Marketing | 2 | 3 | 2 | C | Als Präsentationsarchiv führen; technische Repos davon klar trennen. |
+| 27 | CRYO-BLADE-56 | private | Asset Repository | 2 | 3 | 2 | C | Asset-Hub; Katalog, Lizenz, Herkunft und Zuordnung zu aktiven Projekten wichtig. |
+| 28 | GLACIER-FLARE-55 | private | System Placeholder | 1 | 1 | 1 | C | Aktuell praktisch leer bzw. ohne verifizierten App-Einstieg; nicht mit unbelegten Claims aufwerten. |
+| 29 | DRIFT-MIRROR-11 | private | Game R&D | 3 | 3 | 3 | B | Große Arbeitsbasis; Produktgrenzen und konkrete spielbare Slice definieren. |
+| 30 | NEXUS-TORCH-65 | private | Curation / Archive | 2 | 3 | 2 | C | Kuratiertes Archiv; Taxonomie und Zweck klar halten. |
+| 31 | SUMMIT-MIRROR-23 | private | AI / Private Iteration | 3 | 3 | 2 | C | Versionierte Privatiteration; nur als Referenz/Experiment, sofern kein eigenständiger Kern. |
+| 32 | DRIFT-KEY-68 | private | AI / Private Iteration | 3 | 3 | 2 | C | Nachfolger explizit gegenüber v12x differenzieren oder ältere Version archivieren. |
 | 33 | CryoCenter-MultimediaCenter | private | Multimedia Platform | 4 | 3 | 4 | B | Sehr großes Repo; Modularität, Entry Points und Testabdeckung sichtbar machen. |
-| 34 | CryoAssets-Example | private | Asset Example | 2 | 3 | 2 | C | Beispiel-/Referenzrepo; Zweck und Abgrenzung zu Complete-Bundle dokumentieren. |
-| 35 | kryodesk | private | Desktop / Tool | 3 | 3 | 3 | B | Produktkern, Plattform, Build und Release-Pfad ausformulieren. |
+| 34 | SUMMIT-FORGE-50 | private | Asset Example | 2 | 3 | 2 | C | Beispiel-/Referenzrepo; Zweck und Abgrenzung zu Complete-Bundle dokumentieren. |
+| 35 | HALO-LENS-39 | private | Desktop / Tool | 3 | 3 | 3 | B | Produktkern, Plattform, Build und Release-Pfad ausformulieren. |
 | 36 | call-of-groky | public | Browser FPS | 4 | 3 | 5 | A | Sehr großes öffentliches Repo; als Game/3D-Tech-Demo mit klaren Systemnachweisen kuratieren. |
 | 37 | blender-experimental | private | 3D / Blender R&D | 4 | 3 | 4 | A | Sehr großes R&D-Repo; Varianten/Scenes systematisch katalogisieren und Beispiel-Szenen hervorheben. |
 | 38 | call-of-boty | public | Browser FPS | 3 | 2 | 3 | B | Kleiner öffentlicher Game-Prototyp; technische Differenz zu call-of-groky explizit machen. |
-| 39 | cryopg.it | private | Personal Platform | 3 | 3 | 4 | A | Zentrale persönliche Web-/Brand-Oberfläche; Portfolio-Navigation und Verweise konsolidieren. |
-| 40 | cryopg-vps | private | Infrastructure | 4 | 2 | 2 | B | Betriebsrepo; Security/Secrets/Runbooks und reproduzierbares Provisioning priorisieren. |
-| 41 | grok-bot | private | AI Bot | 3 | 3 | 2 | C | Kleines Bot-Projekt; gegenüber Nexo/Unified-Agent klar abgrenzen. |
+| 39 | NEXUS-SPIRE-42 | private | Personal Platform | 3 | 3 | 4 | A | Zentrale persönliche Web-/Brand-Oberfläche; Portfolio-Navigation und Verweise konsolidieren. |
+| 40 | CIPHER-ARC-15 | private | Infrastructure | 4 | 2 | 2 | B | Betriebsrepo; Security/Secrets/Runbooks und reproduzierbares Provisioning priorisieren. |
+| 41 | IRON-SEAL-38 | private | AI Bot | 3 | 3 | 2 | C | Kleines Bot-Projekt; gegenüber Nexo/Unified-Agent klar abgrenzen. |
 | 42 | progress | public | Portfolio / Governance | 5 | 5 | 5 | A | Zentrale Evidenz-, Audit- und Portfolio-Schicht; 57er-Matrix und DE/EN-Portfolios hier verankern. |
 | 43 | cryo-omega-master-prompts-fan-bundle | public | Prompt Archive | 2 | 3 | 3 | C | Als Community/Prompt-Archiv markieren; technische Produktclaims vermeiden. |
 | 44 | CryAIPulse | public | AI / Web Concept | 3 | 2 | 3 | B | Öffentliche Marke/Concept; Demo und klare technische Grenze ergänzen. |
-| 45 | cryo-avatar-socials | private | Visual / Social Assets | 2 | 3 | 2 | C | Asset-/Brand-Hub; Katalog und Nutzungszuordnung pflegen. |
-| 46 | CryoOS-Assets-Complete-Bundle | private | Asset Repository | 2 | 3 | 2 | C | Vollständiges Asset-Bundle; mit ALL-ASSETS-PROJECT konsolidieren oder klare Rollen definieren. |
+| 45 | CRYO-ARC-14 | private | Visual / Social Assets | 2 | 3 | 2 | C | Asset-/Brand-Hub; Katalog und Nutzungszuordnung pflegen. |
+| 46 | SPECTRE-LENS-37 | private | Asset Repository | 2 | 3 | 2 | C | Vollständiges Asset-Bundle; mit ALL-ASSETS-PROJECT konsolidieren oder klare Rollen definieren. |
 | 47 | futuristic-call-of-shooty | public | Game Prototype | 3 | 2 | 3 | B | Öffentlicher Prototyp; Ziel, Controls und Status klar markieren. |
-| 48 | Windows11-UWP-Fluent-Learn-PWA | private | Learning / PWA | 3 | 3 | 3 | B | Lernprodukt mit Fluent/PWA-Fokus; Demo und Lernpfade konkretisieren. |
+| 48 | AURORA-PANEL-27 | private | Learning / PWA | 3 | 3 | 3 | B | Lernprodukt mit Fluent/PWA-Fokus; Demo und Lernpfade konkretisieren. |
 | 49 | cryo-unified-agent | private | Flagship AI Control Plane | 5 | 5 | 5 | A | Verifiziert: Runtime, agents, skills, MCP, routing, routines, platforms, memory, policies, schemas und Governance-Gates; v0.2.0 Fundament, noch kein fertiges Produkt. |
 | 50 | docs-interesting-omega | private | Documentation Lab | 3 | 4 | 3 | B | Dokumentationssammlung; Informationen in kanonische Quellen überführen und Duplikate reduzieren. |
 | 51 | call-of-chattY | public | Browser Game / AI | 2 | 2 | 3 | C | Kleiner öffentlicher Prototyp; mit anderen Browser-Games entweder konsolidieren oder differenzieren. |
