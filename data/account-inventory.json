@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "owner": "Pierreg99",
-  "updatedAt": "2026-09-21T17:03:54+00:00",
+  "updatedAt": "2026-09-21T21:04:33+00:00",
   "timezone": "Europe/Berlin",
   "source": "GitHub public user API + preserved private count",
   "completeAccountSync": false,
-  "total": 138,
-  "public": 79,
+  "total": 137,
+  "public": 78,
   "private": 59,
   "privateNamesPublished": false,
   "repositories": [
@@ -155,11 +155,11 @@
       "archived": false
     },
     {
-      "name": "cryo-agent-memory",
-      "fullName": "Pierreg99/cryo-agent-memory",
-      "htmlUrl": "https://github.com/Pierreg99/cryo-agent-memory",
+      "name": "cryo-mechanical-butterfly",
+      "fullName": "Pierreg99/cryo-mechanical-butterfly",
+      "htmlUrl": "https://github.com/Pierreg99/cryo-mechanical-butterfly",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-13T21:09:52Z",
+      "updatedAt": "2026-09-21T21:02:58Z",
       "archived": false
     },
     {
@@ -176,14 +176,6 @@
       "htmlUrl": "https://github.com/Pierreg99/cryo-omega-master-prompts-fan-bundle",
       "defaultBranch": "main",
       "updatedAt": "2026-09-21T09:41:26Z",
-      "archived": false
-    },
-    {
-      "name": "cryo-omega-ultra",
-      "fullName": "Pierreg99/cryo-omega-ultra",
-      "htmlUrl": "https://github.com/Pierreg99/cryo-omega-ultra",
-      "defaultBranch": "main",
-      "updatedAt": "2026-09-14T05:46:53Z",
       "archived": false
     },
     {
@@ -383,7 +375,7 @@
       "fullName": "Pierreg99/Pierreg99-Pierreg99-Profile-Page",
       "htmlUrl": "https://github.com/Pierreg99/Pierreg99-Pierreg99-Profile-Page",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-21T11:02:07Z",
+      "updatedAt": "2026-09-21T17:10:03Z",
       "archived": false
     },
     {
@@ -407,7 +399,7 @@
       "fullName": "Pierreg99/progress",
       "htmlUrl": "https://github.com/Pierreg99/progress",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-21T16:44:53Z",
+      "updatedAt": "2026-09-21T17:12:42Z",
       "archived": false
     },
     {
