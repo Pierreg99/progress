@@ -144,7 +144,7 @@
         "routines-mesh"
       ]
     },
-    "AGI-3 \u00b7 Sense": {
+    "AGI-3 · Sense": {
       "id": "a6056720-b042-40e0-a33b-e1e299f1036a",
       "avgPercent": 100.0,
       "bucket": 100,
@@ -154,7 +154,7 @@
         "openrouter-pipeline"
       ]
     },
-    "AGI-3 \u00b7 Build": {
+    "AGI-3 · Build": {
       "id": "a619a685-3f37-43c9-8c11-3b21e4022ccd",
       "avgPercent": 92.7,
       "bucket": 90,
@@ -213,5 +213,5 @@
       ]
     }
   },
-  "updatedAt": "2026-09-14T07:58:50.780516+02:00"
+  "updatedAt": "2026-09-21T18:44:35+02:00"
 }

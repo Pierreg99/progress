@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-14T02:45:51+02:00",
+  "updatedAt": "2026-09-21T18:44:35+02:00",
   "timezone": "Europe/Berlin",
   "overallPercent": 95,
   "orgRepo": "Pierreg99/progress",
@@ -12,7 +12,7 @@
       "codename": "NEXUS-SPIRE-42",
       "percent": 100,
       "status": "live",
-      "notes": "OAuth redirect live; user confirmed bot works (codename only)."
+      "notes": "OAuth redirect live; /health ok agents=103 skills=126 (codename only)."
     },
     {
       "id": "agentic-snapshot",
@@ -28,7 +28,7 @@
       "codename": "IRON-SEAL-38",
       "percent": 100,
       "status": "live",
-      "notes": "docs/OPENROUTER.md Flash Fin defaults shipped (codename only)."
+      "notes": "Flash Fin defaults + catalog pipeline live; API key 401 ops hold (codename only)."
     },
     {
       "id": "routines-mesh",
@@ -36,14 +36,14 @@
       "codename": "POLAR-BLADE-62",
       "percent": 100,
       "status": "live",
-      "notes": "Routines mesh documented in snapshot push (codename only)."
+      "notes": "18/21 enabled automations; mesh documented (codename only)."
     },
     {
       "id": "cryaipulse",
       "name": "CryAIPulse public viz",
       "percent": 100,
       "status": "live",
-      "notes": "v1.1.0 Playground+live.json documented; CHANGELOG/VERSION"
+      "notes": "v1.1.0 Playground+live.json; weekday live publisher ok"
     },
     {
       "id": "agent-memory",
@@ -57,21 +57,21 @@
       "name": "Master prompts fan bundle",
       "percent": 100,
       "status": "live",
-      "notes": "v1.0.1 catalog 431 models re-synced."
+      "notes": "v1.0.3 catalog 446 models re-synced (2026-09-21)."
     },
     {
       "id": "castle-immersive",
       "name": "Castle 30s immersive render",
       "percent": 100,
       "status": "live",
-      "notes": "30s v4 EEVEE 1080p on blender-experimental immersive-30s/"
+      "notes": "30s v4 EEVEE 1080p; 720 frames on disk (immersive-30s)."
     },
     {
       "id": "blender-52",
       "name": "Blender 5.2 LTS install",
       "percent": 100,
       "status": "live",
-      "notes": "Blender 5.2.0 LTS at /opt/blender-5.2; blender-5.2 symlink; 4.3.2 kept"
+      "notes": "Blender 5.2.0 LTS via blender52 symlink (5.2.0-linux-x64 on box)"
     },
     {
       "id": "recursive-brain",
@@ -87,7 +87,7 @@
       "codename": "CIPHER-ARC-15",
       "percent": 10,
       "status": "user_action",
-      "notes": "Private project (codename only)."
+      "notes": "Secret rotation still deferred (codename only)."
     },
     {
       "id": "cyberdash",
@@ -170,15 +170,20 @@
       "codename": "NEXUS-CORE-81",
       "percent": 78,
       "status": "active",
-      "notes": "0.4.1 lexical RAG + plugin sandbox merged (codename only)."
+      "notes": "0.4.1 lexical RAG + plugin sandbox; Episodic/deeper Semantic still open (codename only)."
     }
   ],
   "visibility": "public",
   "codenamePolicy": "Private repos: display name IS the secret codename only.",
   "meta": {
-    "routinesEnabled": 19,
-    "castleFrames": 519,
+    "routinesEnabled": 18,
+    "castleFrames": 720,
     "boardTool": "scripts/sync_board.py",
-    "pages": "site/"
+    "pages": "site/",
+    "routinesTotal": 21,
+    "catalogModels": 446,
+    "healthAgents": 103,
+    "healthSkills": 126,
+    "catchUp": "2026-09-21 progress-percent-auto"
   }
 }

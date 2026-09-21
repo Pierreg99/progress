@@ -2,7 +2,7 @@
 
 Public automatic progress + quality audits for Cryofreee / Cryo Omega.
 
-**Overall: 95%** · Updated: `2026-09-14T02:45:51+02:00` · Timezone: Europe/Berlin
+**Overall: 95%** · Updated: `2026-09-21T18:44:35+02:00` · Timezone: Europe/Berlin
 
 Synced after every material task (`sync-progress-after-task` skill) plus weekday catch-up routine **Progress percent auto** (18:00 Berlin, Mon–Fri). Private tracks = **codename only**.
 
@@ -36,8 +36,8 @@ Synced after every material task (`sync-progress-after-task` skill) plus weekday
 
 ## Open
 
-- **CIPHER-ARC-15** — 10% (user_action) — Private project (codename only).
-- **NEXUS-CORE-81** — 78% (active) — 0.4.1 lexical RAG + plugin sandbox merged (codename only).
+- **CIPHER-ARC-15** — 10% (user_action) — Secret rotation still deferred (codename only).
+- **NEXUS-CORE-81** — 78% (active) — 0.4.1 lexical RAG + plugin sandbox; Episodic/deeper Semantic still open (codename only).
 
 ## Quality
 

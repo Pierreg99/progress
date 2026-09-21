@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-21",
+  "overallPercent": 95,
+  "updatedAt": "2026-09-21T18:44:35+02:00",
+  "note": "weekday catch-up: meta refresh (routines 18/21, catalog 446, castleFrames 720, health 103); track percents unchanged",
+  "signals": {
+    "cryopgHealth": true,
+    "routinesEnabled": 18,
+    "routinesTotal": 21,
+    "catalogModels": 446,
+    "castleFrames": 720,
+    "blender52": true,
+    "benchmarkWinner": "cryoomega_mesh",
+    "benchmarkDelta": 21
+  },
+  "deltas": {
+    "overall": 0,
+    "tracks": {}
+  }
+}
