@@ -1,14 +1,14 @@
 # Quality audits
 
-**Overall score: 90/100** · 2026-09-21T19:12:30+02:00
+**Overall score: 90/100** · 2026-09-22T19:07:38+02:00
 
 | Area | Grade | Score |
 |------|-------|------:|
 | Security | B+ | 88 |
 | Docs | B | 86 |
 | Automation | A- | 92 |
-| Parity | A- | 90 |
-| Secrets hygiene | A | 95 |
+| Parity | A- | 92 |
+| Secrets hygiene | A- | 90 |
 
 ## Checks
 
@@ -21,7 +21,7 @@
 | `secret_scan` | PASS | No live API keys in public progress tree |
 | `tracks_present` | PASS | 22 tracks |
 | `benchmark_present` | PASS | benchmarks/latest.json present |
-| `history_daily` | PASS | 4 history snapshots |
+| `history_daily` | PASS | 5 history snapshots |
 | `public_aliases` | PASS | codenames/PUBLIC_ALIASES.json present |
 | `site_board` | PASS | site/index.html present |
 | `automation_scripts` | PASS | sync_board + sync_account_inventory present |
@@ -32,12 +32,12 @@
 
 ## Leak scan
 
-CLEAN (post-scrub) · scrubbed this run: 7 paths
+CLEAN (post-scrub) · scrubbed this run: 2 paths · found+scrubbed: NEXUS-CORE-81 real-name (now private)
 
 ## Prior comparison
 
-Previous overall: **72** (2026-09-05T21:42:40.691479+00:00) → current **90** · gradeDropped=False
+Previous overall: **90** (2026-09-21T19:12:30+02:00) → current **90** · gradeDropped=False
 
-Checks: see `audits/latest.json` and `audits/2026-09-21.json`.
+Checks: see `audits/latest.json` and `audits/2026-09-22.json`.
 
 Automated by routine **Progress quality audit**.

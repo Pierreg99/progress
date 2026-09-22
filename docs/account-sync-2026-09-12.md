@@ -34,7 +34,7 @@ The following public repositories were present in the authenticated account inve
 14. `call-of-chattY`
 15. `Cryo-Motion-Studio-Concept-Websuite`
 16. `inoffical-cryogamehelp-repo`
-17. `cryo-omega-ultra`
+17. `NEXUS-CORE-81`
 18. `SkyEmu-OMEGA-FORK`
 19. `Mandarine-NEO-OMEGA-FORK`
 20. `Azahar-OMEGA-FORK-compatibility-list`
