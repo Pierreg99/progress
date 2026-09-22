@@ -2,7 +2,7 @@
 
 Public automatic progress + quality audits for Cryofreee / Cryo Omega.
 
-**Overall: 95%** · Updated: `2026-09-21T18:44:35+02:00` · Timezone: Europe/Berlin
+**Overall: 95%** · Updated: `2026-09-22T18:36:01+02:00` · Timezone: Europe/Berlin
 
 Synced after every material task (`sync-progress-after-task` skill) plus weekday catch-up routine **Progress percent auto** (18:00 Berlin, Mon–Fri). Private tracks = **codename only**.
 

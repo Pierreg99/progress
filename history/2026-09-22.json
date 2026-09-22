@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-22",
+  "overallPercent": 95,
+  "updatedAt": "2026-09-22T18:36:01+02:00",
+  "note": "weekday catch-up: meta refresh (routines 18/21, catalog 444, castleFrames 720, health 103/126, fan-bundle v1.0.4); track percents unchanged",
+  "signals": {
+    "cryopgHealth": true,
+    "routinesEnabled": 18,
+    "routinesTotal": 21,
+    "catalogModels": 444,
+    "castleFrames": 720,
+    "blender52": true,
+    "cryaipulseLiveJson": true,
+    "benchmarkWinner": "cryoomega_mesh",
+    "benchmarkDelta": 21,
+    "fanBundleVersion": "1.0.4"
+  },
+  "deltas": {
+    "overall": 0,
+    "tracks": {}
+  }
+}

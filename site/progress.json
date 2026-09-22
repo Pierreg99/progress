@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-21T18:44:35+02:00",
+  "updatedAt": "2026-09-22T18:36:01+02:00",
   "timezone": "Europe/Berlin",
   "overallPercent": 95,
   "orgRepo": "Pierreg99/progress",
@@ -28,7 +28,7 @@
       "codename": "IRON-SEAL-38",
       "percent": 100,
       "status": "live",
-      "notes": "Flash Fin defaults + catalog pipeline live; API key 401 ops hold (codename only)."
+      "notes": "Flash Fin defaults + catalog 444 live; pipeline routine paused; API key 401 ops hold (codename only)."
     },
     {
       "id": "routines-mesh",
@@ -36,14 +36,14 @@
       "codename": "POLAR-BLADE-62",
       "percent": 100,
       "status": "live",
-      "notes": "18/21 enabled automations; mesh documented (codename only)."
+      "notes": "18/21 enabled automations; 3 paused (autosync, docs-changelog, openrouter-pipeline); mesh documented (codename only)."
     },
     {
       "id": "cryaipulse",
       "name": "CryAIPulse public viz",
       "percent": 100,
       "status": "live",
-      "notes": "v1.1.0 Playground+live.json; weekday live publisher ok"
+      "notes": "v1.1.0 Playground+live.json; weekday live publisher ok 2026-09-22"
     },
     {
       "id": "agent-memory",
@@ -57,7 +57,7 @@
       "name": "Master prompts fan bundle",
       "percent": 100,
       "status": "live",
-      "notes": "v1.0.3 catalog 446 models re-synced (2026-09-21)."
+      "notes": "v1.0.4 catalog 444 models re-synced (2026-09-22)."
     },
     {
       "id": "castle-immersive",
@@ -181,9 +181,9 @@
     "boardTool": "scripts/sync_board.py",
     "pages": "site/",
     "routinesTotal": 21,
-    "catalogModels": 446,
+    "catalogModels": 444,
     "healthAgents": 103,
     "healthSkills": 126,
-    "catchUp": "2026-09-21 progress-percent-auto"
+    "catchUp": "2026-09-22 progress-percent-auto"
   }
 }
