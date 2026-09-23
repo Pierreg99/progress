@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-23",
+  "overallPercent": 95,
+  "updatedAt": "2026-09-23T18:25:21+02:00",
+  "note": "weekday catch-up: meta refresh (routines 18/21, catalog 454, castleFrames 720, health 103/126, fan-bundle v1.0.5, MANIFEST files_total 1393); track percents unchanged",
+  "signals": {
+    "cryopgHealth": true,
+    "routinesEnabled": 18,
+    "routinesTotal": 21,
+    "catalogModels": 454,
+    "castleFrames": 720,
+    "blender52": true,
+    "cryaipulseLiveJson": true,
+    "benchmarkWinner": "cryoomega_mesh",
+    "benchmarkDelta": 21,
+    "fanBundleVersion": "1.0.5",
+    "manifestFilesTotal": 1393,
+    "agentsLive": 14
+  },
+  "deltas": {
+    "overall": 0,
+    "tracks": {}
+  }
+}
