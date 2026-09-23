@@ -1,6 +1,6 @@
 # Benchmark latest
 
-**Winner:** `cryoomega_mesh` · Δ overall **+21** · 2026-09-22T12:36:14.455163+00:00
+**Winner:** `cryoomega_mesh` · Δ overall **+21** · 2026-09-23T12:35:55.675737+00:00
 
 | Arm | F | C | O | Ops | Overall |
 |-----|---|---|---|-----|---------|
@@ -9,4 +9,4 @@
 
 Mode: `live_structural` · confidence 0.86
 
-Live structural probes 2026-09-22: 103 profiles, 8/8 mesh agents + Build/Sense channels, 19 enabled routines (2 paused: docs-changelog-progress-plan, grok-bot-agentic-autosync), cryopg.it/health ok; Flash Fin config OK but live OpenRouter complete failed (user_not_found).
+Live structural probes 2026-09-23: 103 profiles, 8/8 mesh agents + Build/Sense channels, 19 enabled routines (2 paused: docs-changelog-progress-plan, grok-bot-agentic-autosync), cryopg.it/health ok; Flash Fin config OK but live OpenRouter complete failed (user_not_found).
