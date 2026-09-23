@@ -52,7 +52,7 @@ Der aktuelle verbundene Bestand umfasst **57 Repositories**: öffentliche und pr
 | 30 | NEXUS-TORCH-65 | private | Curation / Archive | 2 | 3 | 2 | C | Kuratiertes Archiv; Taxonomie und Zweck klar halten. |
 | 31 | SUMMIT-MIRROR-23 | private | AI / Private Iteration | 3 | 3 | 2 | C | Versionierte Privatiteration; nur als Referenz/Experiment, sofern kein eigenständiger Kern. |
 | 32 | DRIFT-KEY-68 | private | AI / Private Iteration | 3 | 3 | 2 | C | Nachfolger explizit gegenüber v12x differenzieren oder ältere Version archivieren. |
-| 33 | CryoCenter-MultimediaCenter | private | Multimedia Platform | 4 | 3 | 4 | B | Sehr großes Repo; Modularität, Entry Points und Testabdeckung sichtbar machen. |
+| 33 | DRIFT-DEPTH-70 | private | Multimedia Platform | 4 | 3 | 4 | B | Sehr großes Repo; Modularität, Entry Points und Testabdeckung sichtbar machen. |
 | 34 | SUMMIT-FORGE-50 | private | Asset Example | 2 | 3 | 2 | C | Beispiel-/Referenzrepo; Zweck und Abgrenzung zu Complete-Bundle dokumentieren. |
 | 35 | HALO-LENS-39 | private | Desktop / Tool | 3 | 3 | 3 | B | Produktkern, Plattform, Build und Release-Pfad ausformulieren. |
 | 36 | call-of-groky | public | Browser FPS | 4 | 3 | 5 | A | Sehr großes öffentliches Repo; als Game/3D-Tech-Demo mit klaren Systemnachweisen kuratieren. |

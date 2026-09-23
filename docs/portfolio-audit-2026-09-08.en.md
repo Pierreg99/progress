@@ -52,7 +52,7 @@ The current connected inventory contains **57 repositories**, public and private
 | 30 | NEXUS-TORCH-65 | private | Curation / Archive | 2 | 3 | 2 | C | Curated archive; keep taxonomy and purpose explicit. |
 | 31 | SUMMIT-MIRROR-23 | private | AI / Private Iteration | 3 | 3 | 2 | C | Versioned private iteration; keep as experiment/reference unless it has a distinct core. |
 | 32 | DRIFT-KEY-68 | private | AI / Private Iteration | 3 | 3 | 2 | C | Differentiate clearly from v12x or archive the older iteration. |
-| 33 | CryoCenter-MultimediaCenter | private | Multimedia Platform | 4 | 3 | 4 | B | Very large repo; make modules, entry points and test evidence visible. |
+| 33 | DRIFT-DEPTH-70 | private | Multimedia Platform | 4 | 3 | 4 | B | Very large repo; make modules, entry points and test evidence visible. |
 | 34 | SUMMIT-FORGE-50 | private | Asset Example | 2 | 3 | 2 | C | Reference example; define role against Complete-Bundle. |
 | 35 | HALO-LENS-39 | private | Desktop / Tool | 3 | 3 | 3 | B | Document product core, supported platforms, build and release path. |
 | 36 | call-of-groky | public | Browser FPS | 4 | 3 | 5 | A | Large public repo; use as game/3D technical showcase with clear evidence. |
