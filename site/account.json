@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "owner": "Pierreg99",
-  "updatedAt": "2026-09-25T22:20:23+00:00",
+  "updatedAt": "2026-09-26T01:34:05+00:00",
   "timezone": "Europe/Berlin",
   "source": "GitHub public user API + preserved private count",
   "completeAccountSync": false,
-  "total": 137,
-  "public": 78,
+  "total": 135,
+  "public": 76,
   "private": 59,
   "privateNamesPublished": false,
   "repositories": [
@@ -99,14 +99,6 @@
       "archived": false
     },
     {
-      "name": "call-of-boty",
-      "fullName": "Pierreg99/call-of-boty",
-      "htmlUrl": "https://github.com/Pierreg99/call-of-boty",
-      "defaultBranch": "main",
-      "updatedAt": "2026-09-07T17:45:07Z",
-      "archived": false
-    },
-    {
       "name": "call-of-chattY",
       "fullName": "Pierreg99/call-of-chattY",
       "htmlUrl": "https://github.com/Pierreg99/call-of-chattY",
@@ -152,14 +144,6 @@
       "htmlUrl": "https://github.com/Pierreg99/CryAIPulse",
       "defaultBranch": "main",
       "updatedAt": "2026-09-24T10:20:30Z",
-      "archived": false
-    },
-    {
-      "name": "cryo-mechanical-butterfly",
-      "fullName": "Pierreg99/cryo-mechanical-butterfly",
-      "htmlUrl": "https://github.com/Pierreg99/cryo-mechanical-butterfly",
-      "defaultBranch": "main",
-      "updatedAt": "2026-09-21T21:02:58Z",
       "archived": false
     },
     {
@@ -375,7 +359,7 @@
       "fullName": "Pierreg99/Pierreg99-Pierreg99-Profile-Page",
       "htmlUrl": "https://github.com/Pierreg99/Pierreg99-Pierreg99-Profile-Page",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-25T18:50:16Z",
+      "updatedAt": "2026-09-25T22:43:54Z",
       "archived": false
     },
     {
@@ -399,7 +383,7 @@
       "fullName": "Pierreg99/progress",
       "htmlUrl": "https://github.com/Pierreg99/progress",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-25T18:36:51Z",
+      "updatedAt": "2026-09-25T22:20:28Z",
       "archived": false
     },
     {
