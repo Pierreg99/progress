@@ -76,6 +76,12 @@
       "track": "DRIFT-MIRROR-11",
       "event": "Godot fullparity (Nightwire 1b9989f / play-space daaf0f0)",
       "percent": 100
+    },
+    {
+      "at": "2026-09-28T23:40:53+02:00",
+      "track": "DRIFT-MIRROR-11",
+      "event": "Cap primary gfx/perf (Nightwire b8a3169 / play-space 3d613e7)",
+      "percent": 100
     }
   ]
 }
