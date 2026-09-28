@@ -139,8 +139,9 @@
       "name": "DRIFT-MIRROR-11",
       "percent": 100,
       "status": "live",
-      "notes": "v1.1.0 mobile+docs ship-complete (codename only).",
-      "codename": "DRIFT-MIRROR-11"
+      "notes": "v1.1.0 mobile+docs ship-complete (codename only). | bottytips Cap+Godot+polish 2026-09-28 (Nightwire web/APK path + Godot 4)",
+      "codename": "DRIFT-MIRROR-11",
+      "updatedAt": "2026-09-28T21:16:51+02:00"
     },
     {
       "id": "resident",
