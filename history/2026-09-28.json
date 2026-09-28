@@ -82,6 +82,12 @@
       "track": "DRIFT-MIRROR-11",
       "event": "Cap primary gfx/perf (Nightwire b8a3169 / play-space 3d613e7)",
       "percent": 100
+    },
+    {
+      "at": "2026-09-28T23:56:46+02:00",
+      "track": "DRIFT-MIRROR-11",
+      "event": "Cap combat-smooth 1.4 (Nightwire b955880 / play-space a370136)",
+      "percent": 100
     }
   ]
 }
