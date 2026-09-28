@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "owner": "Pierreg99",
-  "updatedAt": "2026-09-28T15:28:01+00:00",
+  "updatedAt": "2026-09-28T22:00:44+00:00",
   "timezone": "Europe/Berlin",
   "source": "GitHub public user API + preserved private count",
   "completeAccountSync": false,
-  "total": 135,
-  "public": 76,
+  "total": 136,
+  "public": 77,
   "private": 59,
   "privateNamesPublished": false,
   "repositories": [
@@ -47,7 +47,7 @@
       "fullName": "Pierreg99/AI-FOR-DUMMYS-DOCUMENTATIONS",
       "htmlUrl": "https://github.com/Pierreg99/AI-FOR-DUMMYS-DOCUMENTATIONS",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-25T05:18:18Z",
+      "updatedAt": "2026-09-28T17:16:19Z",
       "archived": false
     },
     {
@@ -143,7 +143,7 @@
       "fullName": "Pierreg99/CryAIPulse",
       "htmlUrl": "https://github.com/Pierreg99/CryAIPulse",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-28T15:02:00Z",
+      "updatedAt": "2026-09-28T17:06:14Z",
       "archived": false
     },
     {
@@ -359,7 +359,7 @@
       "fullName": "Pierreg99/Pierreg99-Pierreg99-Profile-Page",
       "htmlUrl": "https://github.com/Pierreg99/Pierreg99-Pierreg99-Profile-Page",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-28T07:30:51Z",
+      "updatedAt": "2026-09-28T15:50:01Z",
       "archived": false
     },
     {
@@ -383,7 +383,7 @@
       "fullName": "Pierreg99/progress",
       "htmlUrl": "https://github.com/Pierreg99/progress",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-28T12:23:09Z",
+      "updatedAt": "2026-09-28T21:56:51Z",
       "archived": false
     },
     {
@@ -432,6 +432,14 @@
       "htmlUrl": "https://github.com/Pierreg99/SkyEmu-OMEGA-FORK",
       "defaultBranch": "dev",
       "updatedAt": "2026-09-12T10:57:06Z",
+      "archived": false
+    },
+    {
+      "name": "sovereignty-play-space",
+      "fullName": "Pierreg99/sovereignty-play-space",
+      "htmlUrl": "https://github.com/Pierreg99/sovereignty-play-space",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-28T19:16:13Z",
       "archived": false
     },
     {
