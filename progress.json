@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-23T18:25:21+02:00",
+  "updatedAt": "2026-09-28T18:03:53+02:00",
   "timezone": "Europe/Berlin",
   "overallPercent": 95,
   "orgRepo": "Pierreg99/progress",
@@ -12,7 +12,7 @@
       "codename": "NEXUS-SPIRE-42",
       "percent": 100,
       "status": "live",
-      "notes": "OAuth redirect live; /health ok agents=103 skills=126 (codename only)."
+      "notes": "OAuth redirect live; /health UNREACHABLE from box (tls_eof) 2026-09-28; prior ship intact (codename only)."
     },
     {
       "id": "agentic-snapshot",
@@ -20,7 +20,7 @@
       "codename": "POLAR-BLADE-62",
       "percent": 100,
       "status": "live",
-      "notes": "Snapshot/routines/docs SHIP_STATUS + QUALITY pushed (codename only)."
+      "notes": "Snapshot/routines/docs SHIP_STATUS + QUALITY; MANIFEST files_total 1566 agents_live 15 (codename only)."
     },
     {
       "id": "openrouter-pipeline",
@@ -28,7 +28,7 @@
       "codename": "IRON-SEAL-38",
       "percent": 100,
       "status": "live",
-      "notes": "Flash Fin defaults + catalog 454 live; pipeline routine paused; API key 401 ops hold (codename only)."
+      "notes": "Flash Fin defaults + catalog 458 live; pipeline routine enabled; OpenRouter live complete user_not_found hold (codename only)."
     },
     {
       "id": "routines-mesh",
@@ -36,14 +36,14 @@
       "codename": "POLAR-BLADE-62",
       "percent": 100,
       "status": "live",
-      "notes": "18/21 enabled automations; 3 paused (autosync, docs-changelog, openrouter-pipeline); mesh documented (codename only)."
+      "notes": "19/21 enabled automations; 2 paused (autosync, docs-changelog); mesh documented (codename only)."
     },
     {
       "id": "cryaipulse",
       "name": "CryAIPulse public viz",
       "percent": 100,
       "status": "live",
-      "notes": "v1.1.0 Playground+live.json; weekday live publisher ok 2026-09-23"
+      "notes": "v1.1.0 Playground+live.json; weekday live publisher ok 2026-09-28"
     },
     {
       "id": "agent-memory",
@@ -57,14 +57,14 @@
       "name": "Master prompts fan bundle",
       "percent": 100,
       "status": "live",
-      "notes": "v1.0.5 catalog 454 models re-synced (2026-09-23)."
+      "notes": "v1.0.7 catalog 458 models re-synced (2026-09-28)."
     },
     {
       "id": "castle-immersive",
       "name": "Castle 30s immersive render",
       "percent": 100,
       "status": "live",
-      "notes": "30s v4 EEVEE 1080p; 720 frames on disk (immersive-30s)."
+      "notes": "30s v4 EEVEE 1080p; 720 frames rendered; final MP4+hero on disk (immersive-30s)."
     },
     {
       "id": "blender-52",
@@ -79,7 +79,7 @@
       "codename": "POLAR-BLADE-62",
       "percent": 100,
       "status": "live",
-      "notes": "Recursive docs+snapshot shipped (codename only)."
+      "notes": "Recursive docs+snapshot shipped; brain.json present (codename only)."
     },
     {
       "id": "vps-security",
@@ -176,17 +176,18 @@
   "visibility": "public",
   "codenamePolicy": "Private repos: display name IS the secret codename only.",
   "meta": {
-    "routinesEnabled": 18,
+    "routinesEnabled": 19,
+    "routinesTotal": 21,
     "castleFrames": 720,
     "boardTool": "scripts/sync_board.py",
     "pages": "site/",
-    "routinesTotal": 21,
-    "catalogModels": 454,
-    "healthAgents": 103,
-    "healthSkills": 126,
-    "catchUp": "2026-09-23 progress-percent-auto",
-    "fanBundleVersion": "1.0.5",
-    "manifestFilesTotal": 1393,
-    "agentsLive": 14
+    "catalogModels": 458,
+    "catchUp": "2026-09-28 progress-percent-auto",
+    "fanBundleVersion": "1.0.7",
+    "manifestFilesTotal": 1566,
+    "agentsLive": 15,
+    "cryopgHealth": false,
+    "benchmarkWinner": "cryoomega_mesh",
+    "benchmarkDelta": 18
   }
 }

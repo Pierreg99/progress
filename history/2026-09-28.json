@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-28",
+  "overallPercent": 95,
+  "updatedAt": "2026-09-28T18:03:53+02:00",
+  "note": "weekday catch-up: meta refresh (routines 19/21, catalog 458, castleFrames 720, fan-bundle v1.0.7, MANIFEST files_total 1566, agents_live 15, health UNREACHABLE tls_eof, benchmark mesh Δ18 conf 0.78); track percents unchanged",
+  "signals": {
+    "cryopgHealth": false,
+    "cryopgHealthError": "tls_eof",
+    "routinesEnabled": 19,
+    "routinesTotal": 21,
+    "routinesPaused": [
+      "docs-changelog-progress-plan",
+      "grok-bot-agentic-autosync"
+    ],
+    "catalogModels": 458,
+    "castleFrames": 720,
+    "castleMp4Present": true,
+    "blender52": true,
+    "blenderVersion": "5.2.0 LTS",
+    "cryaipulseLiveJson": true,
+    "cryaipulseLiveUpdatedAt": "2026-09-28T15:48:31.496Z",
+    "benchmarkWinner": "cryoomega_mesh",
+    "benchmarkDelta": 18,
+    "benchmarkConfidence": 0.78,
+    "fanBundleVersion": "1.0.7",
+    "manifestFilesTotal": 1566,
+    "agentsLive": 15,
+    "openrouterPipelineEnabled": true,
+    "llmProbe": false,
+    "llmProbeErrorClass": "user_not_found",
+    "recursiveBrain": true
+  },
+  "deltas": {
+    "overall": 0,
+    "tracks": {}
+  }
+}
