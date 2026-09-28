@@ -58,6 +58,12 @@
       "track": "DRIFT-MIRROR-11",
       "event": "bottytips LOW-default perf (Nightwire 1f0ada4 / play-space 0cbd836)",
       "percent": 100
+    },
+    {
+      "at": "2026-09-28T22:40:02+02:00",
+      "track": "DRIFT-MIRROR-11",
+      "event": "Godot Android lane APKs (Nightwire 515af5d / play-space 9107fc4)",
+      "percent": 100
     }
   ]
 }
