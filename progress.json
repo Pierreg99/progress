@@ -139,9 +139,9 @@
       "name": "DRIFT-MIRROR-11",
       "percent": 100,
       "status": "live",
-      "notes": "v1.1.0 mobile+docs ship-complete (codename only). | bottytips Cap+Godot+polish 2026-09-28 (Nightwire web/APK path + Godot 4)",
+      "notes": "v1.1.0 mobile+docs ship-complete (codename only). | bottytips Cap+Godot+polish 2026-09-28 (Nightwire web/APK path + Godot 4) | bottytips graphics realism 2026-09-28 (ACES/PBR/N8AO + Godot SSAO/fog)",
       "codename": "DRIFT-MIRROR-11",
-      "updatedAt": "2026-09-28T21:16:51+02:00"
+      "updatedAt": "2026-09-28T21:46:11+02:00"
     },
     {
       "id": "resident",
