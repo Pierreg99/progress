@@ -89,7 +89,7 @@
     "remaining": [],
     "foundThisRun": [
       "DRIFT-DEPTH-70 real-name (CryoCenter-MultimediaCenter in portfolio docs)",
-      "IRON-SEAL-38 routine slug (grok-bot-agentic-autosync)"
+      "IRON-SEAL-38 routine slug (IRON-SEAL-38-agentic-autosync)"
     ],
     "note": "Compared against private map; cryopg.it URL/host contexts preserved; scrubbed portfolio CryoCenter name + IRON-SEAL-38 routine slug embedding real repo name"
   },
@@ -104,7 +104,7 @@
   "findings": [
     {
       "severity": "warn",
-      "msg": "Private-repo real name leak(s) found and scrubbed: DRIFT-DEPTH-70 real-name (CryoCenter-MultimediaCenter in portfolio docs); IRON-SEAL-38 routine slug (grok-bot-agentic-autosync)"
+      "msg": "Private-repo real name leak(s) found and scrubbed: DRIFT-DEPTH-70 real-name (CryoCenter-MultimediaCenter in portfolio docs); IRON-SEAL-38 routine slug (IRON-SEAL-38-agentic-autosync)"
     },
     {
       "severity": "info",
