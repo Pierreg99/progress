@@ -5,47 +5,11 @@
   "overall": 95,
   "overallBucket": 95,
   "tracks": {
-    "nexus-core-81": {
-      "percent": 78,
-      "bucket": 75
-    },
-    "cyberdash": {
-      "percent": 100,
-      "bucket": 100
-    },
-    "fluent-learn": {
-      "percent": 100,
-      "bucket": 100
-    },
-    "cryopg-bot": {
-      "percent": 100,
-      "bucket": 100
-    },
-    "vps-security": {
-      "percent": 10,
-      "bucket": 10
-    },
-    "routines-mesh": {
-      "percent": 100,
-      "bucket": 100
-    },
-    "agentic-snapshot": {
-      "percent": 100,
-      "bucket": 100
-    },
     "agent-memory": {
       "percent": 100,
       "bucket": 100
     },
-    "recursive-brain": {
-      "percent": 100,
-      "bucket": 100
-    },
-    "openrouter-pipeline": {
-      "percent": 100,
-      "bucket": 100
-    },
-    "prompts-fan-bundle": {
+    "agentic-snapshot": {
       "percent": 100,
       "bucket": 100
     },
@@ -60,6 +24,42 @@
     "castle-immersive": {
       "percent": 100,
       "bucket": 100
+    },
+    "cryopg-bot": {
+      "percent": 100,
+      "bucket": 100
+    },
+    "cyberdash": {
+      "percent": 100,
+      "bucket": 100
+    },
+    "fluent-learn": {
+      "percent": 100,
+      "bucket": 100
+    },
+    "nexus-core-81": {
+      "percent": 78,
+      "bucket": 75
+    },
+    "openrouter-pipeline": {
+      "percent": 100,
+      "bucket": 100
+    },
+    "prompts-fan-bundle": {
+      "percent": 100,
+      "bucket": 100
+    },
+    "recursive-brain": {
+      "percent": 100,
+      "bucket": 100
+    },
+    "routines-mesh": {
+      "percent": 100,
+      "bucket": 100
+    },
+    "vps-security": {
+      "percent": 10,
+      "bucket": 10
     }
   },
   "agents": {
@@ -213,5 +213,5 @@
       ]
     }
   },
-  "updatedAt": "2026-09-21T18:44:35+02:00"
+  "updatedAt": "2026-09-28T18:18:20+02:00"
 }
