@@ -139,9 +139,9 @@
       "name": "DRIFT-MIRROR-11",
       "percent": 100,
       "status": "live",
-      "notes": "v1.1.0 mobile+docs ship-complete (codename only). | bottytips Cap+Godot+polish 2026-09-28 (Nightwire web/APK path + Godot 4) | bottytips graphics realism 2026-09-28 (ACES/PBR/N8AO + Godot SSAO/fog) | Android 12–16 icons/splash/perms a12-16 release 2026-09-28 | bottytips LOW-default + modular graphics + perf release 2026-09-28 | Godot Android lane native APK 2026-09-28 | Godot complete parity + APK 2026-09-28",
+      "notes": "v1.1.0 mobile+docs ship-complete (codename only). | bottytips Cap+Godot+polish 2026-09-28 (Nightwire web/APK path + Godot 4) | bottytips graphics realism 2026-09-28 (ACES/PBR/N8AO + Godot SSAO/fog) | Android 12–16 icons/splash/perms a12-16 release 2026-09-28 | bottytips LOW-default + modular graphics + perf release 2026-09-28 | Godot Android lane native APK 2026-09-28 | Godot complete parity + APK 2026-09-28 | Godot fullparity vehicles/districts 2026-09-28",
       "codename": "DRIFT-MIRROR-11",
-      "updatedAt": "2026-09-28T22:52:04+02:00"
+      "updatedAt": "2026-09-28T22:59:12+02:00"
     },
     {
       "id": "resident",
