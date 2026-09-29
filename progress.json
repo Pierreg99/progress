@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T03:13:53Z",
+  "updatedAt": "2026-09-29T04:56:15Z",
   "timezone": "Europe/Berlin",
   "overallPercent": 95,
   "orgRepo": "Pierreg99/progress",
@@ -94,7 +94,9 @@
       "name": "Cyberdash Rhythm Platformer",
       "percent": 100,
       "status": "live",
-      "notes": "v2.0.2 VERSION sync + UI align; Pages on master"
+      "notes": "v2.0.2 VERSION sync + UI align; Pages on master",
+      "updatedAt": "2026-09-29T04:56:15Z",
+      "note": "visual-parity-screenshots 4aea7f2: live captures replace concept art; PR#1 open"
     },
     {
       "id": "avatar-socials",

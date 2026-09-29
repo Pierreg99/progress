@@ -14,6 +14,12 @@
       "track": "DRIFT-MIRROR-11",
       "summary": "Cap Android 1.6-assets-fix: fix absolute /textures|/models paths under Capacitor base ./ ; aapt noCompress glb; vCode 7",
       "percent": 100
+    },
+    {
+      "at": "2026-09-29T04:56:15Z",
+      "track": "Cyberdash Rhythm Platformer",
+      "summary": "Branch visual-parity-screenshots: live gameplay screenshots/icons; PR#1; tip 4aea7f2",
+      "percent": 100
     }
   ]
 }
