@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "owner": "Pierreg99",
-  "updatedAt": "2026-09-29T15:51:43+00:00",
+  "updatedAt": "2026-09-29T20:46:59+00:00",
   "timezone": "Europe/Berlin",
   "source": "GitHub public user API + preserved private count",
   "completeAccountSync": false,
-  "total": 135,
-  "public": 76,
+  "total": 134,
+  "public": 75,
   "private": 59,
   "privateNamesPublished": false,
   "repositories": [
@@ -47,7 +47,7 @@
       "fullName": "Pierreg99/AI-FOR-Everyone-Learn-Docs",
       "htmlUrl": "https://github.com/Pierreg99/AI-FOR-Everyone-Learn-Docs",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-29T10:17:47Z",
+      "updatedAt": "2026-09-29T16:00:48Z",
       "archived": false
     },
     {
@@ -127,23 +127,7 @@
       "fullName": "Pierreg99/CryAIPulse",
       "htmlUrl": "https://github.com/Pierreg99/CryAIPulse",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-29T15:41:44Z",
-      "archived": false
-    },
-    {
-      "name": "Cryo-Motion-Studio-Concept-Websuite",
-      "fullName": "Pierreg99/Cryo-Motion-Studio-Concept-Websuite",
-      "htmlUrl": "https://github.com/Pierreg99/Cryo-Motion-Studio-Concept-Websuite",
-      "defaultBranch": "main",
-      "updatedAt": "2026-09-08T06:01:10Z",
-      "archived": false
-    },
-    {
-      "name": "cryo-omega-master-prompts-fan-bundle",
-      "fullName": "Pierreg99/cryo-omega-master-prompts-fan-bundle",
-      "htmlUrl": "https://github.com/Pierreg99/cryo-omega-master-prompts-fan-bundle",
-      "defaultBranch": "main",
-      "updatedAt": "2026-09-29T09:26:49Z",
+      "updatedAt": "2026-09-29T17:02:32Z",
       "archived": false
     },
     {
@@ -359,7 +343,7 @@
       "fullName": "Pierreg99/Pierreg99-Pierreg99-Profile-Page",
       "htmlUrl": "https://github.com/Pierreg99/Pierreg99-Pierreg99-Profile-Page",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-29T08:57:57Z",
+      "updatedAt": "2026-09-29T16:10:02Z",
       "archived": false
     },
     {
@@ -383,7 +367,7 @@
       "fullName": "Pierreg99/progress",
       "htmlUrl": "https://github.com/Pierreg99/progress",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-29T12:22:41Z",
+      "updatedAt": "2026-09-29T17:52:44Z",
       "archived": false
     },
     {
@@ -496,6 +480,14 @@
       "htmlUrl": "https://github.com/Pierreg99/Streamflixrouge-OMEGA-FORK",
       "defaultBranch": "main",
       "updatedAt": "2026-09-14T16:29:49Z",
+      "archived": false
+    },
+    {
+      "name": "Synapse-omega-forge-neuro-shoot-NoAI",
+      "fullName": "Pierreg99/Synapse-omega-forge-neuro-shoot-NoAI",
+      "htmlUrl": "https://github.com/Pierreg99/Synapse-omega-forge-neuro-shoot-NoAI",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-29T19:35:25Z",
       "archived": false
     },
     {
