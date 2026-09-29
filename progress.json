@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T04:56:15Z",
+  "updatedAt": "2026-09-29T05:13:58Z",
   "timezone": "Europe/Berlin",
   "overallPercent": 95,
   "orgRepo": "Pierreg99/progress",
@@ -95,8 +95,8 @@
       "percent": 100,
       "status": "live",
       "notes": "v2.0.2 VERSION sync + UI align; Pages on master",
-      "updatedAt": "2026-09-29T04:56:15Z",
-      "note": "visual-parity-screenshots 4aea7f2: live captures replace concept art; PR#1 open"
+      "updatedAt": "2026-09-29T05:13:58Z",
+      "note": "visual-parity merged to master b28de2f (PR#1); live captures + icons"
     },
     {
       "id": "avatar-socials",
