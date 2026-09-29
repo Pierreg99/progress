@@ -32,6 +32,51 @@
       "track": "Cyberdash Rhythm Platformer",
       "summary": "PR#2 mobile-responsive-custom-icons: SVG icons, touch JUMP, responsive UI; tip af59808",
       "percent": 100
+    },
+    {
+      "at": "2026-09-29T16:07:47Z",
+      "track": "catch-up",
+      "summary": "weekday catch-up: meta refresh (live routines 19/24 with 5 paused; MANIFEST routines 21 files_total 1567 agents_live 15 cryo_llm_models 460; fan-bundle v1.0.8; castleFrames 720; health UNREACHABLE tls_eof; benchmark mesh Δ18 conf 0.78; CryAIPulse live.json ok); track percents unchanged",
+      "percent": 95
     }
-  ]
+  ],
+  "overallPercent": 95,
+  "updatedAt": "2026-09-29T18:07:47+02:00",
+  "note": "weekday catch-up: meta refresh (live routines 19/24 with 5 paused; MANIFEST routines 21 files_total 1567 agents_live 15 cryo_llm_models 460; fan-bundle v1.0.8; castleFrames 720; health UNREACHABLE tls_eof; benchmark mesh Δ18 conf 0.78; CryAIPulse live.json ok); track percents unchanged",
+  "signals": {
+    "cryopgHealth": false,
+    "cryopgHealthError": "tls_eof",
+    "routinesEnabled": 19,
+    "routinesTotal": 24,
+    "routinesPaused": [
+      "docs-changelog-progress-plan",
+      "iron-seal-38-agentic-autosync",
+      "openrouter-agentic-pipeline-sync",
+      "cipher-arc-15-vps-auto-update",
+      "pack-extras-autonomous-learn-12h"
+    ],
+    "manifestRoutines": 21,
+    "catalogModels": 460,
+    "castleFrames": 720,
+    "castleMp4Present": true,
+    "blender52": true,
+    "blenderVersion": "5.2.0 LTS",
+    "cryaipulseLiveJson": true,
+    "cryaipulseLiveUpdatedAt": "2026-09-29T15:53:37.216Z",
+    "benchmarkWinner": "cryoomega_mesh",
+    "benchmarkDelta": 18,
+    "benchmarkConfidence": 0.78,
+    "fanBundleVersion": "1.0.8",
+    "manifestFilesTotal": 1567,
+    "agentsLive": 15,
+    "openrouterPipelineEnabled": false,
+    "llmProbe": false,
+    "llmProbeErrorClass": "user_not_found",
+    "recursiveBrain": true,
+    "profilesMd": 103
+  },
+  "deltas": {
+    "overall": 0,
+    "tracks": {}
+  }
 }

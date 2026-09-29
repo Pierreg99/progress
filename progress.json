@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T05:19:32Z",
+  "updatedAt": "2026-09-29T16:07:47Z",
   "timezone": "Europe/Berlin",
   "overallPercent": 95,
   "orgRepo": "Pierreg99/progress",
@@ -12,7 +12,7 @@
       "codename": "NEXUS-SPIRE-42",
       "percent": 100,
       "status": "live",
-      "notes": "OAuth redirect live; /health UNREACHABLE from box (tls_eof) 2026-09-28; prior ship intact (codename only)."
+      "notes": "OAuth redirect live; /health UNREACHABLE from box (tls_eof) 2026-09-29; prior ship intact (codename only)."
     },
     {
       "id": "agentic-snapshot",
@@ -20,7 +20,7 @@
       "codename": "POLAR-BLADE-62",
       "percent": 100,
       "status": "live",
-      "notes": "Snapshot/routines/docs SHIP_STATUS + QUALITY; MANIFEST files_total 1566 agents_live 15 (codename only)."
+      "notes": "Snapshot/routines/docs SHIP_STATUS + QUALITY; MANIFEST files_total 1567 agents_live 15 cryo_llm_models 460 (codename only)."
     },
     {
       "id": "openrouter-pipeline",
@@ -28,7 +28,7 @@
       "codename": "IRON-SEAL-38",
       "percent": 100,
       "status": "live",
-      "notes": "Flash Fin defaults + catalog 458 live; pipeline routine enabled; OpenRouter live complete user_not_found hold (codename only)."
+      "notes": "Flash Fin defaults + catalog 460 live; pipeline routine paused; OpenRouter live complete user_not_found hold (codename only)."
     },
     {
       "id": "routines-mesh",
@@ -36,14 +36,14 @@
       "codename": "POLAR-BLADE-62",
       "percent": 100,
       "status": "live",
-      "notes": "19/21 enabled automations; 2 paused (autosync, docs-changelog); mesh documented (codename only)."
+      "notes": "19/24 enabled automations live; 5 paused (autosync, docs-changelog, pipeline, vps-auto-update, pack-extras); MANIFEST snapshot still 21; mesh documented (codename only)."
     },
     {
       "id": "cryaipulse",
       "name": "CryAIPulse public viz",
       "percent": 100,
       "status": "live",
-      "notes": "v1.1.0 Playground+live.json; weekday live publisher ok 2026-09-28"
+      "notes": "v1.1.0 Playground+live.json; weekday live publisher ok 2026-09-29 (live.json 2026-09-29T15:53:37.216Z)"
     },
     {
       "id": "agent-memory",
@@ -57,7 +57,7 @@
       "name": "Master prompts fan bundle",
       "percent": 100,
       "status": "live",
-      "notes": "v1.0.7 catalog 458 models re-synced (2026-09-28)."
+      "notes": "v1.0.8 catalog 460 models re-synced (2026-09-29)."
     },
     {
       "id": "castle-immersive",
@@ -181,17 +181,19 @@
   "codenamePolicy": "Private repos: display name IS the secret codename only.",
   "meta": {
     "routinesEnabled": 19,
-    "routinesTotal": 21,
+    "routinesTotal": 24,
     "castleFrames": 720,
     "boardTool": "scripts/sync_board.py",
     "pages": "site/",
-    "catalogModels": 458,
-    "catchUp": "2026-09-28 progress-percent-auto",
-    "fanBundleVersion": "1.0.7",
-    "manifestFilesTotal": 1566,
+    "catalogModels": 460,
+    "catchUp": "2026-09-29 progress-percent-auto",
+    "fanBundleVersion": "1.0.8",
+    "manifestFilesTotal": 1567,
     "agentsLive": 15,
     "cryopgHealth": false,
     "benchmarkWinner": "cryoomega_mesh",
-    "benchmarkDelta": 18
+    "benchmarkDelta": 18,
+    "openrouterPipelineEnabled": false,
+    "manifestRoutines": 21
   }
 }
