@@ -1,8 +1,8 @@
-# Cryo Progress (95%)
+# Cryo Progress (96%)
 
 Public automatic progress + quality audits for Cryofreee / Cryo Omega.
 
-**Overall: 95%** · Updated: `2026-09-29T16:07:47Z` · Timezone: Europe/Berlin
+**Overall: 96%** · Updated: `2026-09-29T19:10:19+02:00` · Timezone: Europe/Berlin
 
 Synced after every material task (`sync-progress-after-task` skill) plus weekday catch-up routine **Progress percent auto** (18:00 Berlin, Mon–Fri). Private tracks = **codename only**.
 
@@ -30,14 +30,14 @@ Synced after every material task (`sync-progress-after-task` skill) plus weekday
 | 100% | `Resident Lovely` | live |
 | 100% | `SPECTRE-LENS-37` | live |
 | 100% | `agent-memory library` | live |
-| 78% | `NEXUS-CORE-81` | active |
+| 95% | `NEXUS-CORE-81` | active |
 | 10% | `CIPHER-ARC-15` | user_action |
 
 
 ## Open
 
 - **CIPHER-ARC-15** — 10% (user_action) — Secret rotation still deferred (codename only).
-- **NEXUS-CORE-81** — 78% (active) — 0.4.1 lexical RAG + plugin sandbox; Episodic/deeper Semantic still open (codename only).
+- **NEXUS-CORE-81** — 95% (active) — 0.4.1 lexical RAG + plugin sandbox; Episodic/deeper Semantic still open (codename only).; botult branch implementation complete across IDE, CLI, TUI, and debug APK 0.4.2 versionCode 2; pytest 31 passed; shared 35 offline functions; tip d49abc5acf68e04282db8565b0f4a27cd75e3240; not merged to main.
 
 ## Quality
 

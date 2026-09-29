@@ -38,11 +38,17 @@
       "track": "catch-up",
       "summary": "weekday catch-up: meta refresh (live routines 19/24 with 5 paused; MANIFEST routines 21 files_total 1567 agents_live 15 cryo_llm_models 460; fan-bundle v1.0.8; castleFrames 720; health UNREACHABLE tls_eof; benchmark mesh Δ18 conf 0.78; CryAIPulse live.json ok); track percents unchanged",
       "percent": 95
+    },
+    {
+      "at": "2026-09-29T19:10:19+02:00",
+      "track": "NEXUS-CORE-81",
+      "summary": "botult branch task complete: IDE, CLI, TUI, debug APK 0.4.2 versionCode 2; pytest 31 passed; shared 35 offline functions; tip d49abc5acf68e04282db8565b0f4a27cd75e3240, based on 46c3f9fc4749a102b73d38550b36cb0c682ee000, not merged.",
+      "percent": 95
     }
   ],
-  "overallPercent": 95,
-  "updatedAt": "2026-09-29T18:07:47+02:00",
-  "note": "weekday catch-up: meta refresh (live routines 19/24 with 5 paused; MANIFEST routines 21 files_total 1567 agents_live 15 cryo_llm_models 460; fan-bundle v1.0.8; castleFrames 720; health UNREACHABLE tls_eof; benchmark mesh Δ18 conf 0.78; CryAIPulse live.json ok); track percents unchanged",
+  "overallPercent": 96,
+  "updatedAt": "2026-09-29T19:10:19+02:00",
+  "note": "sync-progress-after-task: refreshed completed botult branch signal; merge remains pending.",
   "signals": {
     "cryopgHealth": false,
     "cryopgHealthError": "tls_eof",
@@ -73,10 +79,35 @@
     "llmProbe": false,
     "llmProbeErrorClass": "user_not_found",
     "recursiveBrain": true,
-    "profilesMd": 103
+    "profilesMd": 103,
+    "botult": {
+      "branch": "botult",
+      "tip": "d49abc5acf68e04282db8565b0f4a27cd75e3240",
+      "base": "46c3f9fc4749a102b73d38550b36cb0c682ee000",
+      "aheadBy": 1,
+      "behindBy": 0,
+      "merged": false,
+      "surfaces": [
+        "IDE",
+        "CLI",
+        "TUI",
+        "debug APK"
+      ],
+      "apkVersion": "0.4.2",
+      "apkVersionCode": 2,
+      "pytestPassed": 31,
+      "sharedOfflineFunctions": 35
+    }
   },
   "deltas": {
-    "overall": 0,
-    "tracks": {}
-  }
+    "overall": 1,
+    "tracks": {
+      "nexus-core-81": {
+        "before": 78,
+        "after": 95,
+        "delta": 17
+      }
+    }
+  },
+  "previousOverallPercent": 95
 }
