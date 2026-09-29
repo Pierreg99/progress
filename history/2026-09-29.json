@@ -44,11 +44,17 @@
       "track": "NEXUS-CORE-81",
       "summary": "botult branch task complete: IDE, CLI, TUI, debug APK 0.4.2 versionCode 2; pytest 31 passed; shared 35 offline functions; tip d49abc5acf68e04282db8565b0f4a27cd75e3240, based on 46c3f9fc4749a102b73d38550b36cb0c682ee000, not merged.",
       "percent": 95
+    },
+    {
+      "at": "2026-09-29T19:52:13+02:00",
+      "track": "NEXUS-CORE-81",
+      "summary": "botult branch artifact: file tree, multi-tab editor, search, command palette, problems, sandbox runner, 35 functions; Android IDE APK 0.5.0 versionCode 3; pytest 32 passed; tip a9c281362b4d0fd4ee03340360a589f3edc076a9; not merged.",
+      "percent": 96
     }
   ],
   "overallPercent": 96,
-  "updatedAt": "2026-09-29T19:10:19+02:00",
-  "note": "sync-progress-after-task: refreshed completed botult branch signal; merge remains pending.",
+  "updatedAt": "2026-09-29T19:52:13+02:00",
+  "note": "sync-progress-after-task: refreshed completed botult branch signal; merge remains pending; language server, debugger, and git UI remain open.",
   "signals": {
     "cryopgHealth": false,
     "cryopgHealthError": "tls_eof",
@@ -82,32 +88,39 @@
     "profilesMd": 103,
     "botult": {
       "branch": "botult",
-      "tip": "d49abc5acf68e04282db8565b0f4a27cd75e3240",
-      "base": "46c3f9fc4749a102b73d38550b36cb0c682ee000",
-      "aheadBy": 1,
-      "behindBy": 0,
+      "tip": "a9c281362b4d0fd4ee03340360a589f3edc076a9",
       "merged": false,
       "surfaces": [
-        "IDE",
-        "CLI",
-        "TUI",
-        "debug APK"
+        "Android IDE APK"
       ],
-      "apkVersion": "0.4.2",
-      "apkVersionCode": 2,
-      "pytestPassed": 31,
-      "sharedOfflineFunctions": 35
+      "apkVersion": "0.5.0",
+      "apkVersionCode": 3,
+      "pytestPassed": 32,
+      "sharedOfflineFunctions": 35,
+      "features": [
+        "file tree",
+        "multi-tab editor",
+        "search",
+        "command palette",
+        "problems",
+        "sandbox runner"
+      ],
+      "openGaps": [
+        "language server",
+        "debugger",
+        "git UI"
+      ]
     }
   },
   "deltas": {
-    "overall": 1,
+    "overall": 0,
     "tracks": {
       "nexus-core-81": {
-        "before": 78,
-        "after": 95,
-        "delta": 17
+        "before": 95,
+        "after": 96,
+        "delta": 1
       }
     }
   },
-  "previousOverallPercent": 95
+  "previousOverallPercent": 96
 }

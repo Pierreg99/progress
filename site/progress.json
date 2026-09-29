@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T19:10:19+02:00",
+  "updatedAt": "2026-09-29T19:52:13+02:00",
   "timezone": "Europe/Berlin",
   "overallPercent": 96,
   "orgRepo": "Pierreg99/progress",
@@ -172,9 +172,9 @@
       "id": "nexus-core-81",
       "name": "NEXUS-CORE-81",
       "codename": "NEXUS-CORE-81",
-      "percent": 95,
+      "percent": 96,
       "status": "active",
-      "notes": "0.4.1 lexical RAG + plugin sandbox; Episodic/deeper Semantic still open (codename only).; botult branch implementation complete across IDE, CLI, TUI, and debug APK 0.4.2 versionCode 2; pytest 31 passed; shared 35 offline functions; tip d49abc5acf68e04282db8565b0f4a27cd75e3240; not merged to main."
+      "notes": "0.4.1 lexical RAG + plugin sandbox; Episodic/deeper Semantic still open (codename only).; botult branch ships file tree, multi-tab editor, search, command palette, problems, sandbox runner, and 35 functions; Android IDE APK 0.5.0 versionCode 3; pytest 32 passed; tip a9c281362b4d0fd4ee03340360a589f3edc076a9; not merged to main; language server, debugger, and git UI remain open."
     }
   ],
   "visibility": "public",

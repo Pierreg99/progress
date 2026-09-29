@@ -2,7 +2,7 @@
 
 Public automatic progress + quality audits for Cryofreee / Cryo Omega.
 
-**Overall: 96%** · Updated: `2026-09-29T19:10:19+02:00` · Timezone: Europe/Berlin
+**Overall: 96%** · Updated: `2026-09-29T19:52:13+02:00` · Timezone: Europe/Berlin
 
 Synced after every material task (`sync-progress-after-task` skill) plus weekday catch-up routine **Progress percent auto** (18:00 Berlin, Mon–Fri). Private tracks = **codename only**.
 
@@ -30,14 +30,14 @@ Synced after every material task (`sync-progress-after-task` skill) plus weekday
 | 100% | `Resident Lovely` | live |
 | 100% | `SPECTRE-LENS-37` | live |
 | 100% | `agent-memory library` | live |
-| 95% | `NEXUS-CORE-81` | active |
+| 96% | `NEXUS-CORE-81` | active |
 | 10% | `CIPHER-ARC-15` | user_action |
 
 
 ## Open
 
 - **CIPHER-ARC-15** — 10% (user_action) — Secret rotation still deferred (codename only).
-- **NEXUS-CORE-81** — 95% (active) — 0.4.1 lexical RAG + plugin sandbox; Episodic/deeper Semantic still open (codename only).; botult branch implementation complete across IDE, CLI, TUI, and debug APK 0.4.2 versionCode 2; pytest 31 passed; shared 35 offline functions; tip d49abc5acf68e04282db8565b0f4a27cd75e3240; not merged to main.
+- **NEXUS-CORE-81** — 96% (active) — 0.4.1 lexical RAG + plugin sandbox; Episodic/deeper Semantic still open (codename only).; botult branch ships file tree, multi-tab editor, search, command palette, problems, sandbox runner, and 35 functions; Android IDE APK 0.5.0 versionCode 3; pytest 32 passed; tip a9c281362b4d0fd4ee03340360a589f3edc076a9; not merged to main; language server, debugger, and git UI remain open.
 
 ## Quality
 
