@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
   "owner": "Pierreg99",
-  "updatedAt": "2026-09-29T01:57:26+00:00",
+  "updatedAt": "2026-09-29T08:30:28+00:00",
   "timezone": "Europe/Berlin",
   "source": "GitHub public user API + preserved private count",
   "completeAccountSync": false,
-  "total": 136,
-  "public": 77,
+  "total": 135,
+  "public": 76,
   "private": 59,
   "privateNamesPublished": false,
   "repositories": [
     {
-      "name": "7xx-Drivers",
-      "fullName": "Pierreg99/7xx-Drivers",
-      "htmlUrl": "https://github.com/Pierreg99/7xx-Drivers",
+      "name": "7xx-Drivers-OMEGA-FORKS",
+      "fullName": "Pierreg99/7xx-Drivers-OMEGA-FORKS",
+      "htmlUrl": "https://github.com/Pierreg99/7xx-Drivers-OMEGA-FORKS",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-14T03:05:56Z",
+      "updatedAt": "2026-09-29T04:51:00Z",
       "archived": false
     },
     {
@@ -43,11 +43,11 @@
       "archived": false
     },
     {
-      "name": "AI-FOR-DUMMYS-DOCUMENTATIONS",
-      "fullName": "Pierreg99/AI-FOR-DUMMYS-DOCUMENTATIONS",
-      "htmlUrl": "https://github.com/Pierreg99/AI-FOR-DUMMYS-DOCUMENTATIONS",
+      "name": "AI-FOR-Everyone-Learn-Docs",
+      "fullName": "Pierreg99/AI-FOR-Everyone-Learn-Docs",
+      "htmlUrl": "https://github.com/Pierreg99/AI-FOR-Everyone-Learn-Docs",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-28T17:16:19Z",
+      "updatedAt": "2026-09-29T04:43:26Z",
       "archived": false
     },
     {
@@ -99,27 +99,11 @@
       "archived": false
     },
     {
-      "name": "call-of-chattY",
-      "fullName": "Pierreg99/call-of-chattY",
-      "htmlUrl": "https://github.com/Pierreg99/call-of-chattY",
-      "defaultBranch": "main",
-      "updatedAt": "2026-09-08T18:51:04Z",
-      "archived": false
-    },
-    {
       "name": "call-of-groky",
       "fullName": "Pierreg99/call-of-groky",
       "htmlUrl": "https://github.com/Pierreg99/call-of-groky",
       "defaultBranch": "main",
       "updatedAt": "2026-09-07T17:45:04Z",
-      "archived": false
-    },
-    {
-      "name": "Chronicles-of-Lumina-GameRPGwork",
-      "fullName": "Pierreg99/Chronicles-of-Lumina-GameRPGwork",
-      "htmlUrl": "https://github.com/Pierreg99/Chronicles-of-Lumina-GameRPGwork",
-      "defaultBranch": "main",
-      "updatedAt": "2026-09-07T17:43:11Z",
       "archived": false
     },
     {
@@ -143,7 +127,7 @@
       "fullName": "Pierreg99/CryAIPulse",
       "htmlUrl": "https://github.com/Pierreg99/CryAIPulse",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-28T17:06:14Z",
+      "updatedAt": "2026-09-29T08:29:31Z",
       "archived": false
     },
     {
@@ -159,7 +143,7 @@
       "fullName": "Pierreg99/cryo-omega-master-prompts-fan-bundle",
       "htmlUrl": "https://github.com/Pierreg99/cryo-omega-master-prompts-fan-bundle",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-28T09:20:37Z",
+      "updatedAt": "2026-09-29T04:43:35Z",
       "archived": false
     },
     {
@@ -191,7 +175,7 @@
       "fullName": "Pierreg99/Cyberdash-Rhythm-Platformer",
       "htmlUrl": "https://github.com/Pierreg99/Cyberdash-Rhythm-Platformer",
       "defaultBranch": "master",
-      "updatedAt": "2026-09-07T17:44:31Z",
+      "updatedAt": "2026-09-29T05:13:37Z",
       "archived": false
     },
     {
@@ -251,6 +235,14 @@
       "archived": false
     },
     {
+      "name": "Github-Ranking-OMEGA-FORK",
+      "fullName": "Pierreg99/Github-Ranking-OMEGA-FORK",
+      "htmlUrl": "https://github.com/Pierreg99/Github-Ranking-OMEGA-FORK",
+      "defaultBranch": "master",
+      "updatedAt": "2026-09-29T04:13:17Z",
+      "archived": false
+    },
+    {
       "name": "gopeedDLoadManager-OMEGA-FORK",
       "fullName": "Pierreg99/gopeedDLoadManager-OMEGA-FORK",
       "htmlUrl": "https://github.com/Pierreg99/gopeedDLoadManager-OMEGA-FORK",
@@ -296,6 +288,14 @@
       "htmlUrl": "https://github.com/Pierreg99/Lazymux-OMEGA-FORK",
       "defaultBranch": "master",
       "updatedAt": "2026-09-12T11:08:38Z",
+      "archived": false
+    },
+    {
+      "name": "Linux-Windows-Helpful-Commands-DOCS",
+      "fullName": "Pierreg99/Linux-Windows-Helpful-Commands-DOCS",
+      "htmlUrl": "https://github.com/Pierreg99/Linux-Windows-Helpful-Commands-DOCS",
+      "defaultBranch": "main",
+      "updatedAt": "2026-09-29T05:55:33Z",
       "archived": false
     },
     {
@@ -359,7 +359,7 @@
       "fullName": "Pierreg99/Pierreg99-Pierreg99-Profile-Page",
       "htmlUrl": "https://github.com/Pierreg99/Pierreg99-Pierreg99-Profile-Page",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-28T22:14:49Z",
+      "updatedAt": "2026-09-29T04:43:31Z",
       "archived": false
     },
     {
@@ -383,7 +383,7 @@
       "fullName": "Pierreg99/progress",
       "htmlUrl": "https://github.com/Pierreg99/progress",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-28T22:11:03Z",
+      "updatedAt": "2026-09-29T05:19:37Z",
       "archived": false
     },
     {
@@ -432,14 +432,6 @@
       "htmlUrl": "https://github.com/Pierreg99/SkyEmu-OMEGA-FORK",
       "defaultBranch": "dev",
       "updatedAt": "2026-09-12T10:57:06Z",
-      "archived": false
-    },
-    {
-      "name": "sovereignty-play-space",
-      "fullName": "Pierreg99/sovereignty-play-space",
-      "htmlUrl": "https://github.com/Pierreg99/sovereignty-play-space",
-      "defaultBranch": "main",
-      "updatedAt": "2026-09-28T19:16:13Z",
       "archived": false
     },
     {
