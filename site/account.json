@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "owner": "Pierreg99",
-  "updatedAt": "2026-09-30T19:20:16+00:00",
+  "updatedAt": "2026-09-30T23:49:31+00:00",
   "timezone": "Europe/Berlin",
   "source": "GitHub public user API + preserved private count",
   "completeAccountSync": false,
-  "total": 134,
-  "public": 75,
+  "total": 132,
+  "public": 73,
   "private": 59,
   "privateNamesPublished": false,
   "repositories": [
@@ -323,14 +323,6 @@
       "archived": false
     },
     {
-      "name": "Nexo-Jarvis-AI-Futuristic-Assistant-Alpha",
-      "fullName": "Pierreg99/Nexo-Jarvis-AI-Futuristic-Assistant-Alpha",
-      "htmlUrl": "https://github.com/Pierreg99/Nexo-Jarvis-AI-Futuristic-Assistant-Alpha",
-      "defaultBranch": "main",
-      "updatedAt": "2026-09-12T12:01:33Z",
-      "archived": false
-    },
-    {
       "name": "ObtaniumAndroid-OMEGA-FORK",
       "fullName": "Pierreg99/ObtaniumAndroid-OMEGA-FORK",
       "htmlUrl": "https://github.com/Pierreg99/ObtaniumAndroid-OMEGA-FORK",
@@ -343,7 +335,7 @@
       "fullName": "Pierreg99/Pierreg99-Pierreg99-Profile-Page",
       "htmlUrl": "https://github.com/Pierreg99/Pierreg99-Pierreg99-Profile-Page",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-30T14:11:25Z",
+      "updatedAt": "2026-09-30T23:11:08Z",
       "archived": false
     },
     {
@@ -367,7 +359,7 @@
       "fullName": "Pierreg99/progress",
       "htmlUrl": "https://github.com/Pierreg99/progress",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-30T13:45:26Z",
+      "updatedAt": "2026-09-30T19:20:23Z",
       "archived": false
     },
     {
@@ -375,7 +367,7 @@
       "fullName": "Pierreg99/ResidentLovely-Maximum-Hapiness-Game",
       "htmlUrl": "https://github.com/Pierreg99/ResidentLovely-Maximum-Hapiness-Game",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-22T09:04:38Z",
+      "updatedAt": "2026-09-30T23:18:11Z",
       "archived": false
     },
     {
@@ -480,14 +472,6 @@
       "htmlUrl": "https://github.com/Pierreg99/Streamflixrouge-OMEGA-FORK",
       "defaultBranch": "main",
       "updatedAt": "2026-09-14T16:29:49Z",
-      "archived": false
-    },
-    {
-      "name": "Synapse-omega-forge-neuro-shoot-NoAI",
-      "fullName": "Pierreg99/Synapse-omega-forge-neuro-shoot-NoAI",
-      "htmlUrl": "https://github.com/Pierreg99/Synapse-omega-forge-neuro-shoot-NoAI",
-      "defaultBranch": "main",
-      "updatedAt": "2026-09-29T21:24:02Z",
       "archived": false
     },
     {
