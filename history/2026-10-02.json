@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-02",
+  "entries": [
+    {
+      "at": "2026-10-02T22:26:43+02:00",
+      "track": "board",
+      "event": "room sync: overall stayed 96; NEXUS-CORE-81 stayed 96; CIPHER-ARC-15 stayed 10",
+      "percent": 96
+    }
+  ],
+  "events": [
+    {
+      "at": "2026-10-02T22:26:43+02:00",
+      "track": "NEXUS-SPIRE-42",
+      "summary": "/health timed out 2026-10-02 22:26 CEST; tip unchanged since 2026-09-08",
+      "percent": 100
+    },
+    {
+      "at": "2026-10-02T22:26:43+02:00",
+      "track": "CryAIPulse public viz",
+      "summary": "live.json still d1f372d (2026-09-30); token totals unchanged and sources include demo",
+      "percent": 100
+    },
+    {
+      "at": "2026-10-02T22:26:43+02:00",
+      "track": "NEXUS-CORE-81",
+      "summary": "botult IDE 0.5.0 still unmerged; percent stays 96",
+      "percent": 96
+    }
+  ]
+}

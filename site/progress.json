@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T19:52:13+02:00",
+  "updatedAt": "2026-10-02T22:26:43+02:00",
   "timezone": "Europe/Berlin",
   "overallPercent": 96,
   "orgRepo": "Pierreg99/progress",
@@ -12,7 +12,7 @@
       "codename": "NEXUS-SPIRE-42",
       "percent": 100,
       "status": "live",
-      "notes": "OAuth redirect live; /health UNREACHABLE from box (tls_eof) 2026-09-29; prior ship intact (codename only)."
+      "notes": "OAuth redirect previously live; /health timed out from the box 2026-10-02 22:26 CEST; repo tip unchanged since 2026-09-08; prior ship intact (codename only)."
     },
     {
       "id": "agentic-snapshot",
@@ -36,14 +36,14 @@
       "codename": "POLAR-BLADE-62",
       "percent": 100,
       "status": "live",
-      "notes": "19/24 enabled automations live; 5 paused (autosync, docs-changelog, pipeline, vps-auto-update, pack-extras); MANIFEST snapshot still 21; mesh documented (codename only)."
+      "notes": "19/24 enabled; 5 paused (autosync, docs-changelog, pipeline, vps-auto-update, pack-extras). Weekday runs 2026-10-02 failed (activity task failed). MANIFEST snapshot still 21 (codename only)."
     },
     {
       "id": "cryaipulse",
       "name": "CryAIPulse public viz",
       "percent": 100,
       "status": "live",
-      "notes": "v1.1.0 Playground+live.json; weekday live publisher ok 2026-09-29 (live.json 2026-09-29T15:53:37.216Z)"
+      "notes": "v1.1.0 Playground+live.json; tip d1f372d 2026-09-30; tokens still 28000/21500/49500 and sources include demo."
     },
     {
       "id": "agent-memory",
@@ -186,7 +186,7 @@
     "boardTool": "scripts/sync_board.py",
     "pages": "site/",
     "catalogModels": 460,
-    "catchUp": "2026-09-29 progress-percent-auto",
+    "catchUp": "2026-10-02 room sync; percents unchanged",
     "fanBundleVersion": "1.0.8",
     "manifestFilesTotal": 1567,
     "agentsLive": 15,
