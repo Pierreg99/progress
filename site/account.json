@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "owner": "Pierreg99",
-  "updatedAt": "2026-10-02T20:44:51+00:00",
+  "updatedAt": "2026-10-03T00:30:09+00:00",
   "timezone": "Europe/Berlin",
   "source": "GitHub public user API + preserved private count",
   "completeAccountSync": false,
@@ -155,11 +155,11 @@
       "archived": false
     },
     {
-      "name": "Cyberdash-Rhythm-Platformer",
-      "fullName": "Pierreg99/Cyberdash-Rhythm-Platformer",
-      "htmlUrl": "https://github.com/Pierreg99/Cyberdash-Rhythm-Platformer",
+      "name": "Cyberdash-Rhythm-Platformer-GAME",
+      "fullName": "Pierreg99/Cyberdash-Rhythm-Platformer-GAME",
+      "htmlUrl": "https://github.com/Pierreg99/Cyberdash-Rhythm-Platformer-GAME",
       "defaultBranch": "master",
-      "updatedAt": "2026-09-29T05:13:37Z",
+      "updatedAt": "2026-10-02T22:04:07Z",
       "archived": false
     },
     {
@@ -359,7 +359,7 @@
       "fullName": "Pierreg99/progress",
       "htmlUrl": "https://github.com/Pierreg99/progress",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-02T20:38:16Z",
+      "updatedAt": "2026-10-02T20:44:57Z",
       "archived": false
     },
     {
