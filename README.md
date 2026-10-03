@@ -2,7 +2,7 @@
 
 Public automatic progress + quality audits for Cryofreee / Cryo Omega.
 
-**Overall: 96%** · Updated: `2026-10-02T22:38:11+02:00` · Timezone: Europe/Berlin
+**Overall: 96%** · Updated: `2026-10-03T03:33:23+02:00` · Timezone: Europe/Berlin
 
 Synced after every material task (`sync-progress-after-task` skill) plus weekday catch-up routine **Progress percent auto** (18:00 Berlin, Mon–Fri). Private tracks = **codename only**.
 
@@ -37,7 +37,7 @@ Synced after every material task (`sync-progress-after-task` skill) plus weekday
 ## Open
 
 - **CIPHER-ARC-15** — 10% (user_action) — Secret rotation still deferred (codename only).
-- **NEXUS-CORE-81** — 96% (active) — 0.4.1 lexical RAG + plugin sandbox; Episodic/deeper Semantic still open (codename only). botult not merged: IDE APK 0.5.0 versionCode 3 (a9c2813) plus pack/mesh-surface 160 files at 6db1a25 (plugins, skills, rules, routines, agents, mini LSP, local MCP). pytest 38 passed. language server, debugger, and git UI remain open.
+- **NEXUS-CORE-81** — 96% (active) — main and botult both at 61e3251, which includes 6db1a25. pytest 39 passed. Termux package matches 0.4.2. Night skin tokens copied from the IDE stylesheet; paper is a designed light set with the same keys. kotlin-lsp plugin points at upstream tag kotlin-lsp/v263.4702.0; that release had 0 assets, so the binary is not in the tree. Debugger, git UI, and a running language server remain open, so the percent stays 96. Duplicate automated patch PRs were not force-merged.
 
 ## Quality
 
