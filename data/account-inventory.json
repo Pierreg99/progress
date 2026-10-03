@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "owner": "Pierreg99",
-  "updatedAt": "2026-10-03T00:30:09+00:00",
+  "updatedAt": "2026-10-03T06:33:02+00:00",
   "timezone": "Europe/Berlin",
   "source": "GitHub public user API + preserved private count",
   "completeAccountSync": false,
-  "total": 132,
-  "public": 73,
+  "total": 135,
+  "public": 76,
   "private": 59,
   "privateNamesPublished": false,
   "repositories": [
@@ -40,6 +40,14 @@
       "htmlUrl": "https://github.com/Pierreg99/AdrenoToolsDrivers-OMEGA-FORK",
       "defaultBranch": "main",
       "updatedAt": "2026-09-14T00:39:05Z",
+      "archived": false
+    },
+    {
+      "name": "Aetherwild",
+      "fullName": "Pierreg99/Aetherwild",
+      "htmlUrl": "https://github.com/Pierreg99/Aetherwild",
+      "defaultBranch": "main",
+      "updatedAt": "2026-10-03T04:41:14Z",
       "archived": false
     },
     {
@@ -128,6 +136,14 @@
       "htmlUrl": "https://github.com/Pierreg99/CryAIPulse",
       "defaultBranch": "main",
       "updatedAt": "2026-09-30T07:27:53Z",
+      "archived": false
+    },
+    {
+      "name": "cryo-omega-ultra",
+      "fullName": "Pierreg99/cryo-omega-ultra",
+      "htmlUrl": "https://github.com/Pierreg99/cryo-omega-ultra",
+      "defaultBranch": "main",
+      "updatedAt": "2026-10-03T03:13:39Z",
       "archived": false
     },
     {
@@ -323,6 +339,14 @@
       "archived": false
     },
     {
+      "name": "Nexo-Jarvis-AI-Futuristic-Assistant-Alpha",
+      "fullName": "Pierreg99/Nexo-Jarvis-AI-Futuristic-Assistant-Alpha",
+      "htmlUrl": "https://github.com/Pierreg99/Nexo-Jarvis-AI-Futuristic-Assistant-Alpha",
+      "defaultBranch": "main",
+      "updatedAt": "2026-10-03T03:53:58Z",
+      "archived": false
+    },
+    {
       "name": "ObtaniumAndroid-OMEGA-FORK",
       "fullName": "Pierreg99/ObtaniumAndroid-OMEGA-FORK",
       "htmlUrl": "https://github.com/Pierreg99/ObtaniumAndroid-OMEGA-FORK",
@@ -335,7 +359,7 @@
       "fullName": "Pierreg99/Pierreg99-Pierreg99-Profile-Page",
       "htmlUrl": "https://github.com/Pierreg99/Pierreg99-Pierreg99-Profile-Page",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-02T15:14:00Z",
+      "updatedAt": "2026-10-03T03:08:50Z",
       "archived": false
     },
     {
@@ -359,7 +383,7 @@
       "fullName": "Pierreg99/progress",
       "htmlUrl": "https://github.com/Pierreg99/progress",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-02T20:44:57Z",
+      "updatedAt": "2026-10-03T01:53:49Z",
       "archived": false
     },
     {
