@@ -14,6 +14,12 @@
       "track": "NEXUS-CORE-81",
       "summary": "main and botult at 61e3251; pytest 39 passed; percent stays 96 because debugger, git UI, and a running language server are still open",
       "percent": 96
+    },
+    {
+      "at": "2026-10-03T03:53:00+02:00",
+      "track": "NEXUS-CORE-81",
+      "summary": "main and botult at 4c0a0b4; pytest 52 passed; percent stays 96 because IDE debugger, git panel, and a live language server are still open",
+      "percent": 96
     }
   ]
 }
