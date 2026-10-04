@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "owner": "Pierreg99",
-  "updatedAt": "2026-10-04T19:37:40+00:00",
+  "updatedAt": "2026-10-04T23:10:29+00:00",
   "timezone": "Europe/Berlin",
   "source": "GitHub public user API + preserved private count",
   "completeAccountSync": false,
-  "total": 134,
-  "public": 75,
+  "total": 135,
+  "public": 76,
   "private": 59,
   "privateNamesPublished": false,
   "repositories": [
@@ -128,6 +128,14 @@
       "htmlUrl": "https://github.com/Pierreg99/codepair-OMEGA-FORK",
       "defaultBranch": "main",
       "updatedAt": "2026-09-14T20:47:37Z",
+      "archived": false
+    },
+    {
+      "name": "core-termux-OMEGAFORK",
+      "fullName": "Pierreg99/core-termux-OMEGAFORK",
+      "htmlUrl": "https://github.com/Pierreg99/core-termux-OMEGAFORK",
+      "defaultBranch": "main",
+      "updatedAt": "2026-10-04T20:14:53Z",
       "archived": false
     },
     {
@@ -351,7 +359,7 @@
       "fullName": "Pierreg99/Pierreg99-Pierreg99-Profile-Page",
       "htmlUrl": "https://github.com/Pierreg99/Pierreg99-Pierreg99-Profile-Page",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-04T15:28:39Z",
+      "updatedAt": "2026-10-04T22:28:20Z",
       "archived": false
     },
     {
@@ -375,7 +383,7 @@
       "fullName": "Pierreg99/progress",
       "htmlUrl": "https://github.com/Pierreg99/progress",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-04T15:22:41Z",
+      "updatedAt": "2026-10-04T19:37:44Z",
       "archived": false
     },
     {
