@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "owner": "Pierreg99",
-  "updatedAt": "2026-10-04T09:47:42+00:00",
+  "updatedAt": "2026-10-04T15:22:37+00:00",
   "timezone": "Europe/Berlin",
   "source": "GitHub public user API + preserved private count",
   "completeAccountSync": false,
-  "total": 135,
-  "public": 76,
+  "total": 134,
+  "public": 75,
   "private": 59,
   "privateNamesPublished": false,
   "repositories": [
@@ -136,14 +136,6 @@
       "htmlUrl": "https://github.com/Pierreg99/CryAIPulse",
       "defaultBranch": "main",
       "updatedAt": "2026-09-30T07:27:53Z",
-      "archived": false
-    },
-    {
-      "name": "cryo-omega-ultra",
-      "fullName": "Pierreg99/cryo-omega-ultra",
-      "htmlUrl": "https://github.com/Pierreg99/cryo-omega-ultra",
-      "defaultBranch": "main",
-      "updatedAt": "2026-10-03T03:13:39Z",
       "archived": false
     },
     {
@@ -383,7 +375,7 @@
       "fullName": "Pierreg99/progress",
       "htmlUrl": "https://github.com/Pierreg99/progress",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-04T02:39:30Z",
+      "updatedAt": "2026-10-04T09:47:46Z",
       "archived": false
     },
     {
