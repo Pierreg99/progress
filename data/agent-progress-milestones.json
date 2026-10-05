@@ -2,7 +2,7 @@
   "version": 1,
   "timezone": "Europe/Berlin",
   "stepPercent": 5,
-  "overall": 95,
+  "overall": 96,
   "overallBucket": 95,
   "tracks": {
     "agent-memory": {
@@ -38,8 +38,8 @@
       "bucket": 100
     },
     "nexus-core-81": {
-      "percent": 78,
-      "bucket": 75
+      "percent": 96,
+      "bucket": 95
     },
     "openrouter-pipeline": {
       "percent": 100,
@@ -65,8 +65,8 @@
   "agents": {
     "CryoCoder": {
       "id": "07aef9d1-9d37-45df-877a-9d08d6d5b708",
-      "avgPercent": 94.5,
-      "bucket": 90,
+      "avgPercent": 99.0,
+      "bucket": 95,
       "tracks": [
         "nexus-core-81",
         "cyberdash",
@@ -156,8 +156,8 @@
     },
     "AGI-3 · Build": {
       "id": "a619a685-3f37-43c9-8c11-3b21e4022ccd",
-      "avgPercent": 92.7,
-      "bucket": 90,
+      "avgPercent": 98.7,
+      "bucket": 95,
       "tracks": [
         "nexus-core-81",
         "cyberdash",
@@ -185,8 +185,8 @@
     },
     "Cryoomega": {
       "id": "c23c8a96-1981-4dd4-936b-afc814e0fe0b",
-      "avgPercent": 94.5,
-      "bucket": 90,
+      "avgPercent": 99.0,
+      "bucket": 95,
       "tracks": [
         "agentic-snapshot",
         "routines-mesh",
@@ -194,7 +194,7 @@
         "nexus-core-81"
       ]
     },
-    "Asa": {
+    "New Agent": {
       "id": "c9300be0-7d8d-45d2-bd19-43d59e211575",
       "avgPercent": 100.0,
       "bucket": 100,
@@ -204,8 +204,8 @@
     },
     "CryoArchitect": {
       "id": "efde43dc-4828-4f24-8966-ad36cdae2f23",
-      "avgPercent": 92.7,
-      "bucket": 90,
+      "avgPercent": 98.7,
+      "bucket": 95,
       "tracks": [
         "nexus-core-81",
         "agent-memory",
@@ -213,5 +213,5 @@
       ]
     }
   },
-  "updatedAt": "2026-09-29T18:16:31+02:00"
+  "updatedAt": "2026-10-05T18:19:31+02:00"
 }
