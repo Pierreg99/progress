@@ -1,10 +1,10 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-03T03:53:00+02:00",
+  "updatedAt": "2026-10-05T18:10:00+02:00",
   "timezone": "Europe/Berlin",
   "overallPercent": 96,
   "orgRepo": "Pierreg99/progress",
-  "syncPolicy": "after-every-task (sync-progress-after-task) + weekday catch-up (progress-percent-auto @ 18:00 Europe/Berlin) + validate CI",
+  "syncPolicy": "after-every-task (sync-progress-after-task skill) + weekday catch-up (progress-percent-auto @ 18:00 Europe/Berlin) + validate CI",
   "tracks": [
     {
       "id": "cryopg-bot",
@@ -12,7 +12,7 @@
       "codename": "NEXUS-SPIRE-42",
       "percent": 100,
       "status": "live",
-      "notes": "OAuth redirect previously live; /health timed out from the box 2026-10-02 22:26 CEST; repo tip unchanged since 2026-09-08; prior ship intact (codename only)."
+      "notes": "OAuth redirect previously live; /health and / unreachable from the box again 2026-10-05 18:05 CEST (curl 000 after 10s; benchmark probe same day reported a TLS wrong-version error); prior ship intact (codename only)."
     },
     {
       "id": "agentic-snapshot",
@@ -36,14 +36,14 @@
       "codename": "POLAR-BLADE-62",
       "percent": 100,
       "status": "live",
-      "notes": "19/24 enabled; 5 paused (autosync, docs-changelog, pipeline, vps-auto-update, pack-extras). Weekday runs 2026-10-02 failed (activity task failed). MANIFEST snapshot still 21 (codename only)."
+      "notes": "18/24 enabled; 6 paused (autosync, docs-changelog, pipeline, vps-auto-update, pack-extras, fan-bundle sync). 2026-10-05 runs of health, digest, catalog, auto-commit, SHA Proof, benchmark, quality analysis, pulse succeeded; several 2026-10-02 runs still show failed. MANIFEST snapshot still 21 (codename only)."
     },
     {
       "id": "cryaipulse",
       "name": "CryAIPulse public viz",
       "percent": 100,
       "status": "live",
-      "notes": "v1.1.0 Playground+live.json; tip d1f372d 2026-09-30; tokens still 28000/21500/49500 and sources include demo."
+      "notes": "v1.1.0 Playground+live.json; tip 4334d66 2026-10-05 17:49 CEST (live.json snapshot refresh); sources include demo."
     },
     {
       "id": "agent-memory",
@@ -174,25 +174,25 @@
       "codename": "NEXUS-CORE-81",
       "percent": 96,
       "status": "active",
-      "notes": "main and botult both at 4c0a0b4, which includes 61e3251. pytest 52 passed. CLI has an offline function debugger, a read-only git view (status, log, diff; push and force refused), and a language-server probe that launches only when kotlin-lsp is on PATH. Upstream tag kotlin-lsp/v263.4702.0 still has 0 assets, so the binary is not in the tree. No debugger or git panel in the IDE or APK, and no live language-server session, so the percent stays 96."
+      "notes": "main at 5297cea (README surfaces + OmniSurface CLI/TUI dispatcher, Termux:API catalog, skin registry, LSP host probe on top of 4c0a0b4); pytest 52 passed on 5297cea (2026-10-05). The botult branch no longer exists on the remote; 5 PRs open. Still no debugger or git panel in the IDE or APK and no live language-server session (kotlin-lsp binary not in the tree), so the percent stays 96."
     }
   ],
   "visibility": "public",
   "codenamePolicy": "Private repos: display name IS the secret codename only.",
   "meta": {
-    "routinesEnabled": 19,
+    "routinesEnabled": 18,
     "routinesTotal": 24,
     "castleFrames": 720,
     "boardTool": "scripts/sync_board.py",
     "pages": "site/",
     "catalogModels": 460,
-    "catchUp": "2026-10-02 botult pack; percent unchanged",
+    "catchUp": "2026-10-05 catch-up: NEXUS-CORE-81 main 5297cea pytest 52 passed; routines 18/24 enabled; percents unchanged",
     "fanBundleVersion": "1.0.8",
     "manifestFilesTotal": 1567,
     "agentsLive": 15,
     "cryopgHealth": false,
     "benchmarkWinner": "cryoomega_mesh",
-    "benchmarkDelta": 18,
+    "benchmarkDelta": 17,
     "openrouterPipelineEnabled": false,
     "manifestRoutines": 21
   }
