@@ -76,7 +76,7 @@
     "routines_enabled_last_run_failed": 9,
     "routines_enabled_never_run": 1,
     "routines_paused": [
-      "grok-bot-agentic-autosync",
+      "iron-seal-38-agentic-autosync",
       "cryopg-it-vps-auto-update",
       "openrouter-agentic-pipeline-sync",
       "docs-changelog-progress-plan",
