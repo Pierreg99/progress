@@ -2,7 +2,7 @@
 
 Public automatic progress + quality audits for Cryofreee / Cryo Omega.
 
-**Overall: 96%** · Updated: `2026-10-05T18:10:00+02:00` · Timezone: Europe/Berlin
+**Overall: 96%** · Updated: `2026-10-06T18:10:00+02:00` · Timezone: Europe/Berlin
 
 Synced after every material task (`sync-progress-after-task` skill) plus weekday catch-up routine **Progress percent auto** (18:00 Berlin, Mon–Fri). Private tracks = **codename only**.
 
@@ -37,7 +37,7 @@ Synced after every material task (`sync-progress-after-task` skill) plus weekday
 ## Open
 
 - **CIPHER-ARC-15** — 10% (user_action) — Secret rotation still deferred (codename only).
-- **NEXUS-CORE-81** — 96% (active) — main at 5297cea (README surfaces + OmniSurface CLI/TUI dispatcher, Termux:API catalog, skin registry, LSP host probe on top of 4c0a0b4); pytest 52 passed on 5297cea (2026-10-05). The botult branch no longer exists on the remote; 5 PRs open. Still no debugger or git panel in the IDE or APK and no live language-server session (kotlin-lsp binary not in the tree), so the percent stays 96.
+- **NEXUS-CORE-81** — 96% (active) — main at 5297cea (README surfaces + OmniSurface CLI/TUI dispatcher, Termux:API catalog, skin registry, LSP host probe on top of 4c0a0b4); pytest 52 passed on 5297cea (2026-10-05). The botult branch no longer exists on the remote; 7 PRs open (checked 2026-10-06, main unchanged). Still no debugger or git panel in the IDE or APK and no live language-server session (kotlin-lsp binary not in the tree), so the percent stays 96.
 
 ## Quality
 

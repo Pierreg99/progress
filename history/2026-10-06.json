@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-06",
+  "entries": [
+    {
+      "at": "2026-10-06T18:10:00+02:00",
+      "track": "board",
+      "event": "weekday catch-up: overall stayed 96; no track percent moved",
+      "percent": 96
+    }
+  ],
+  "events": [
+    {
+      "at": "2026-10-06T18:10:00+02:00",
+      "track": "NEXUS-CORE-81",
+      "summary": "main still at 5297cea; open PRs 5 to 7; percent stays 96 because IDE debugger, git panel, and a live language server are still open",
+      "percent": 96
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-05T18:10:00+02:00",
+  "updatedAt": "2026-10-06T18:10:00+02:00",
   "timezone": "Europe/Berlin",
   "overallPercent": 96,
   "orgRepo": "Pierreg99/progress",
@@ -174,7 +174,7 @@
       "codename": "NEXUS-CORE-81",
       "percent": 96,
       "status": "active",
-      "notes": "main at 5297cea (README surfaces + OmniSurface CLI/TUI dispatcher, Termux:API catalog, skin registry, LSP host probe on top of 4c0a0b4); pytest 52 passed on 5297cea (2026-10-05). The botult branch no longer exists on the remote; 5 PRs open. Still no debugger or git panel in the IDE or APK and no live language-server session (kotlin-lsp binary not in the tree), so the percent stays 96."
+      "notes": "main at 5297cea (README surfaces + OmniSurface CLI/TUI dispatcher, Termux:API catalog, skin registry, LSP host probe on top of 4c0a0b4); pytest 52 passed on 5297cea (2026-10-05). The botult branch no longer exists on the remote; 7 PRs open (checked 2026-10-06, main unchanged). Still no debugger or git panel in the IDE or APK and no live language-server session (kotlin-lsp binary not in the tree), so the percent stays 96."
     }
   ],
   "visibility": "public",
@@ -186,7 +186,7 @@
     "boardTool": "scripts/sync_board.py",
     "pages": "site/",
     "catalogModels": 460,
-    "catchUp": "2026-10-05 catch-up: NEXUS-CORE-81 main 5297cea pytest 52 passed; routines 18/24 enabled; percents unchanged",
+    "catchUp": "2026-10-06 catch-up: NEXUS-CORE-81 main still 5297cea, 7 PRs open; routines 18/24 enabled; cryopg health probe failed (TLS error); percents unchanged",
     "fanBundleVersion": "1.0.8",
     "manifestFilesTotal": 1567,
     "agentsLive": 15,
