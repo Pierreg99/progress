@@ -79,62 +79,203 @@ def render_progress_md(data: dict) -> str:
     return "\n".join(lines)
 
 
+def _badge(label: str, msg: str, color: str) -> str:
+    from urllib.parse import quote
+
+    def e(x: str) -> str:
+        return quote(x.replace("-", "--").replace("_", "__"), safe="")
+
+    return (
+        f'<img alt="{label}: {msg}" '
+        f'src="https://img.shields.io/badge/{e(label)}-{e(msg)}-{color}?style=for-the-badge">'
+    )
+
+
 def render_readme(data: dict) -> str:
     overall = data["overallPercent"]
     iso = data.get("updatedAt") or ""
+    tracks = data["tracks"]
+    done = sum(1 for t in tracks if float(t.get("percent", 0)) >= 100)
     rows = []
     for t in sorted(
-        data["tracks"], key=lambda x: (-float(x.get("percent", 0)), x.get("name", ""))
+        tracks, key=lambda x: (-float(x.get("percent", 0)), x.get("name", ""))
     ):
         rows.append(
             f"| {t.get('percent')}% | `{t.get('name')}` | {t.get('status', '')} |"
         )
-    below = [t for t in data["tracks"] if float(t.get("percent", 0)) < 100]
-    blockers = ""
+    below = [t for t in tracks if float(t.get("percent", 0)) < 100]
+    open_md = ""
     if below:
-        blockers = (
-            "\n## Open\n\n"
+        open_md = (
+            "\n## Offen\n\n"
             + "\n".join(
-                f"- **{t.get('name')}** — {t.get('percent')}% ({t.get('status')})"
-                + (f" — {t.get('notes')}" if t.get("notes") else "")
+                f"- **{t.get('name')}**: {t.get('percent')}% ({t.get('status')})"
+                + (f", {t.get('notes')}" if t.get("notes") else "")
                 for t in sorted(below, key=lambda x: float(x.get("percent", 0)))
             )
             + "\n"
         )
-    return f"""# Cryo Progress ({overall}%)
+    color = "2E7D32" if overall >= 90 else ("F59F00" if overall >= 60 else "C92A2A")
+    badges = "\n".join(
+        [
+            _badge("Gesamt", f"{overall}%", color),
+            _badge("Tracks", f"{done}/{len(tracks)} fertig", "0B7285"),
+            _badge("Python", "3.12", "3776AB"),
+            _badge("Lizenz", "MIT", "495057"),
+        ]
+    )
+    wf = "\n".join(
+        f'<a href="https://github.com/Pierreg99/progress/actions/workflows/{w}">'
+        f'<img alt="{w}" src="https://github.com/Pierreg99/progress/actions/workflows/{w}/badge.svg"></a>'
+        for w in ("validate.yml", "pages.yml", "account-sync.yml")
+    )
+    mermaid = "\n".join(
+        [
+            "```mermaid",
+            "flowchart LR",
+            '    J[("progress.json")] --> S["scripts/sync_board.py"]',
+            '    S --> R["README.md"]',
+            '    S --> P["PROGRESS.md"]',
+            '    S --> W["site/"]',
+            '    S --> C{"Leak-Policy und --check"}',
+            '    C --> V[["validate.yml"]]',
+            '    W --> G[["pages.yml"]]',
+            "```",
+        ]
+    )
+    return f"""<div align="center">
 
-Public automatic progress + quality audits for Cryofreee / Cryo Omega.
+<img src="./assets/readme-banner.svg" alt="progress" width="100%">
 
-**Overall: {overall}%** · Updated: `{iso}` · Timezone: Europe/Berlin
+# Cryo Progress ({overall}%)
 
-Synced after every material task (`sync-progress-after-task` skill) plus weekday catch-up routine **Progress percent auto** (18:00 Berlin, Mon–Fri). Private tracks = **codename only**.
+<p><strong>Öffentlicher Fortschritts- und Qualitätsstand von Cryo Omega, private Projekte nur unter Codenamen.</strong></p>
+
+<p>
+{badges}
+</p>
+<p>
+{wf}
+</p>
+
+<p><a href="#tracks">Tracks</a> · <a href="#schnellstart">Schnellstart</a> · <a href="#english-summary">English</a></p>
+
+</div>
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### Bestand
+
+Public Cryo Omega progress % + quality audits (private projects by secret codename only)
+
+Der Default-Branch `main` ist die Fläche, die zählt. Was nicht in diesem Baum liegt, ist kein Feature dieses Repos.
+
+</td>
+<td width="42%" valign="top">
+
+### Fakten
+
+| Feld | Wert |
+| --- | --- |
+| Owner | Pierreg99 |
+| Branch | `main` |
+| Sichtbarkeit | öffentlich |
+| Sprache | HTML |
+| Archiv | nein |
+
+</td>
+</tr>
+</table>
+
+---
+
+## Inhaltsverzeichnis
+
+- [Bestand und Fakten](#bestand)
+- [Überblick](#überblick)
+- [Features](#features)
+- [Tracks](#tracks)
+- [Schnellstart](#schnellstart)
+- [Architektur](#architektur)
+- [Projektstruktur](#projektstruktur)
+- [Richtlinien](#richtlinien)
+- [Dokumentation](#dokumentation)
+- [English summary](#english-summary)
+
+## Überblick
+
+**Gesamt: {overall}%** · Stand: `{iso}` · Zeitzone: Europe/Berlin
+
+Synchronisiert nach jeder relevanten Aufgabe (Skill `sync-progress-after-task`) sowie werktags über die Routine **Progress percent auto** (18:00 Berlin, Mo–Fr). Private Tracks erscheinen ausschließlich unter ihrem **Codenamen**.
+
+## Features
+
+- Eine Datenquelle: `progress.json` enthält alle Tracks; der Gesamtwert ist der Mittelwert aller Track-Prozente.
+- `scripts/sync_board.py` erzeugt `README.md`, `PROGRESS.md` und die Seiten unter `site/`.
+- Eingebaute Leak-Prüfung: Inhalte werden vor dem Schreiben auf private Repository-Namen geprüft.
+- `--check` erkennt veraltete Artefakte; `validate.yml` prüft jeden Pull Request.
+- Historie unter `history/`, Qualitäts-Audits unter `quality/audits/`, Benchmarks unter `benchmarks/`.
+- Live-Board über GitHub Pages (`pages.yml`).
 
 ## Tracks
 
 | % | Name | Status |
 |---|------|--------|
 {chr(10).join(rows)}
-
-{blockers}
-## Quality
-
-See [`quality/QUALITY.md`](./quality/QUALITY.md).
-
-## Sync
+{open_md}
+## Schnellstart
 
 ```bash
+git clone https://github.com/Pierreg99/progress.git
+cd progress
 python3 scripts/sync_board.py          # regenerate PROGRESS.md + README.md + site/
 python3 scripts/sync_board.py --check  # CI / pre-push policy check
 ```
 
-## Policy
+## Architektur
 
-- Never commit private codename maps or real private repo names into content files.
-- Public aliases live in [`codenames/PUBLIC_ALIASES.json`](./codenames/PUBLIC_ALIASES.json).
-- History snapshots: [`history/`](./history/).
-- Live board (GitHub Pages): `site/index.html`
+{mermaid}
+
+## Projektstruktur
+
+```text
+progress/
+├── .github/workflows/   account-sync.yml, pages.yml, validate.yml
+├── benchmarks/          Benchmark-Snapshots
+├── codenames/           Öffentliche Aliase
+├── data/                Account-Inventar und Meilensteine
+├── docs/                Audits und Dokumentationsstandard
+├── history/             Tägliche Fortschritts-Snapshots
+├── quality/             QUALITY.md und Audits
+├── scripts/             sync_board.py, sync_account_inventory.py
+├── site/                Live-Board (GitHub Pages)
+├── progress.json        Datenquelle
+├── PROGRESS.md          Generierte Übersicht
+├── README.de.md / README.en.md
+└── LICENSE
+```
+
+## Richtlinien
+
+- Niemals private Codename-Zuordnungen oder echte private Repository-Namen in Inhaltsdateien committen.
+- Öffentliche Aliase liegen in [`codenames/PUBLIC_ALIASES.json`](./codenames/PUBLIC_ALIASES.json).
+- Historien-Snapshots: [`history/`](./history/).
+- Live-Board (GitHub Pages): `site/index.html`
+
+## Dokumentation
+
+- [README.de.md](./README.de.md) · [README.en.md](./README.en.md)
+- [PROGRESS.md](./PROGRESS.md)
+- [Qualität: quality/QUALITY.md](./quality/QUALITY.md)
+- [Benchmarks: benchmarks/LATEST.md](./benchmarks/LATEST.md)
+- [docs/](./docs/)
+
+## English summary
+
+Public Cryo Omega progress and quality audits. Overall progress is **{overall}%** across {len(tracks)} tracks ({done} complete); private tracks appear by codename only. Everything is generated from `progress.json` by `scripts/sync_board.py`, which also enforces the private-name leak policy and powers the GitHub Pages board.
 """
-
 
 def iter_content_files():
     for name in CONTENT_FILES:
