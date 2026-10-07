@@ -1,3 +1,60 @@
+<div align="center">
+
+<img src="./assets/readme-banner.svg" alt="progress" width="100%">
+
+# progress
+
+Public Cryo Omega progress % + quality audits (private projects by secret codename only)
+
+[![branch](https://img.shields.io/badge/branch-main-7EB8C9?style=flat-square)](https://github.com/Pierreg99/progress)
+[![sichtbarkeit](https://img.shields.io/badge/sichtbarkeit-öffentlich-141414?style=flat-square&labelColor=0A0A0A)](https://github.com/Pierreg99/progress)
+[![sprache](https://img.shields.io/badge/sprache-HTML-2A2A28?style=flat-square&labelColor=0A0A0A)](https://github.com/Pierreg99/progress)
+
+</div>
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### Bestand
+
+Public Cryo Omega progress % + quality audits (private projects by secret codename only)
+
+Der Default-Branch `main` ist die Fläche, die zählt. Was nicht in diesem Baum liegt, ist kein Feature dieses Repos.
+
+</td>
+<td width="42%" valign="top">
+
+### Fakten
+
+| Feld | Wert |
+| --- | --- |
+| Owner | Pierreg99 |
+| Branch | `main` |
+| Sichtbarkeit | öffentlich |
+| Sprache | HTML |
+| Archiv | nein |
+
+</td>
+</tr>
+</table>
+
+## Lesen
+
+1. Default-Branch öffnen.
+2. Nur Dateien in diesem Baum als Beleg nehmen.
+3. Issues und Diskussionen nur nutzen, wenn sie im Repo eingeschaltet sind.
+
+## Grenze
+
+Keine Qualitätszahl, kein Paketstand und keine Runtime, die nicht als Datei in diesem Repo steht.
+
+<p align="center"><sub>Fläche nach Cryo Core Lite v1.5 · Tokens #0A0A0A / #141414 / #7EB8C9</sub></p>
+
+
+<details>
+<summary>Bisheriger README-Text</summary>
+
 # Cryo Progress (96%)
 
 Public automatic progress + quality audits for Cryofreee / Cryo Omega.
@@ -56,3 +113,5 @@ python3 scripts/sync_board.py --check  # CI / pre-push policy check
 - Public aliases live in [`codenames/PUBLIC_ALIASES.json`](./codenames/PUBLIC_ALIASES.json).
 - History snapshots: [`history/`](./history/).
 - Live board (GitHub Pages): `site/index.html`
+
+</details>
