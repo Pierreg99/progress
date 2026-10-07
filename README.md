@@ -1,10 +1,53 @@
+<div align="center">
+
 # Cryo Progress (96%)
 
-Public automatic progress + quality audits for Cryofreee / Cryo Omega.
+<p><strong>Öffentlicher Fortschritts- und Qualitätsstand von Cryo Omega, private Projekte nur unter Codenamen.</strong></p>
 
-**Overall: 96%** · Updated: `2026-10-06T18:10:00+02:00` · Timezone: Europe/Berlin
+<p>
+<img alt="Gesamt: 96%" src="https://img.shields.io/badge/Gesamt-96%25-2E7D32?style=for-the-badge">
+<img alt="Tracks: 20/22 fertig" src="https://img.shields.io/badge/Tracks-20%2F22%20fertig-0B7285?style=for-the-badge">
+<img alt="Python: 3.12" src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge">
+<img alt="Lizenz: MIT" src="https://img.shields.io/badge/Lizenz-MIT-495057?style=for-the-badge">
+</p>
+<p>
+<a href="https://github.com/Pierreg99/progress/actions/workflows/validate.yml"><img alt="validate.yml" src="https://github.com/Pierreg99/progress/actions/workflows/validate.yml/badge.svg"></a>
+<a href="https://github.com/Pierreg99/progress/actions/workflows/pages.yml"><img alt="pages.yml" src="https://github.com/Pierreg99/progress/actions/workflows/pages.yml/badge.svg"></a>
+<a href="https://github.com/Pierreg99/progress/actions/workflows/account-sync.yml"><img alt="account-sync.yml" src="https://github.com/Pierreg99/progress/actions/workflows/account-sync.yml/badge.svg"></a>
+</p>
 
-Synced after every material task (`sync-progress-after-task` skill) plus weekday catch-up routine **Progress percent auto** (18:00 Berlin, Mon–Fri). Private tracks = **codename only**.
+<p><a href="#tracks">Tracks</a> · <a href="#schnellstart">Schnellstart</a> · <a href="#english-summary">English</a></p>
+
+</div>
+
+---
+
+## Inhaltsverzeichnis
+
+- [Überblick](#überblick)
+- [Features](#features)
+- [Tracks](#tracks)
+- [Schnellstart](#schnellstart)
+- [Architektur](#architektur)
+- [Projektstruktur](#projektstruktur)
+- [Richtlinien](#richtlinien)
+- [Dokumentation](#dokumentation)
+- [English summary](#english-summary)
+
+## Überblick
+
+**Gesamt: 96%** · Stand: `2026-10-06T18:10:00+02:00` · Zeitzone: Europe/Berlin
+
+Synchronisiert nach jeder relevanten Aufgabe (Skill `sync-progress-after-task`) sowie werktags über die Routine **Progress percent auto** (18:00 Berlin, Mo–Fr). Private Tracks erscheinen ausschließlich unter ihrem **Codenamen**.
+
+## Features
+
+- Eine Datenquelle: `progress.json` enthält alle Tracks; der Gesamtwert ist der Mittelwert aller Track-Prozente.
+- `scripts/sync_board.py` erzeugt `README.md`, `PROGRESS.md` und die Seiten unter `site/`.
+- Eingebaute Leak-Prüfung: Inhalte werden vor dem Schreiben auf private Repository-Namen geprüft.
+- `--check` erkennt veraltete Artefakte; `validate.yml` prüft jeden Pull Request.
+- Historie unter `history/`, Qualitäts-Audits unter `quality/audits/`, Benchmarks unter `benchmarks/`.
+- Live-Board über GitHub Pages (`pages.yml`).
 
 ## Tracks
 
@@ -33,26 +76,67 @@ Synced after every material task (`sync-progress-after-task` skill) plus weekday
 | 96% | `NEXUS-CORE-81` | active |
 | 10% | `CIPHER-ARC-15` | user_action |
 
+## Offen
 
-## Open
+- **CIPHER-ARC-15**: 10% (user_action), Secret rotation still deferred (codename only).
+- **NEXUS-CORE-81**: 96% (active), main at 5297cea (README surfaces + OmniSurface CLI/TUI dispatcher, Termux:API catalog, skin registry, LSP host probe on top of 4c0a0b4); pytest 52 passed on 5297cea (2026-10-05). The botult branch no longer exists on the remote; 7 PRs open (checked 2026-10-06, main unchanged). Still no debugger or git panel in the IDE or APK and no live language-server session (kotlin-lsp binary not in the tree), so the percent stays 96.
 
-- **CIPHER-ARC-15** — 10% (user_action) — Secret rotation still deferred (codename only).
-- **NEXUS-CORE-81** — 96% (active) — main at 5297cea (README surfaces + OmniSurface CLI/TUI dispatcher, Termux:API catalog, skin registry, LSP host probe on top of 4c0a0b4); pytest 52 passed on 5297cea (2026-10-05). The botult branch no longer exists on the remote; 7 PRs open (checked 2026-10-06, main unchanged). Still no debugger or git panel in the IDE or APK and no live language-server session (kotlin-lsp binary not in the tree), so the percent stays 96.
-
-## Quality
-
-See [`quality/QUALITY.md`](./quality/QUALITY.md).
-
-## Sync
+## Schnellstart
 
 ```bash
+git clone https://github.com/Pierreg99/progress.git
+cd progress
 python3 scripts/sync_board.py          # regenerate PROGRESS.md + README.md + site/
 python3 scripts/sync_board.py --check  # CI / pre-push policy check
 ```
 
-## Policy
+## Architektur
 
-- Never commit private codename maps or real private repo names into content files.
-- Public aliases live in [`codenames/PUBLIC_ALIASES.json`](./codenames/PUBLIC_ALIASES.json).
-- History snapshots: [`history/`](./history/).
-- Live board (GitHub Pages): `site/index.html`
+```mermaid
+flowchart LR
+    J[("progress.json")] --> S["scripts/sync_board.py"]
+    S --> R["README.md"]
+    S --> P["PROGRESS.md"]
+    S --> W["site/"]
+    S --> C{"Leak-Policy und --check"}
+    C --> V[["validate.yml"]]
+    W --> G[["pages.yml"]]
+```
+
+## Projektstruktur
+
+```text
+progress/
+├── .github/workflows/   account-sync.yml, pages.yml, validate.yml
+├── benchmarks/          Benchmark-Snapshots
+├── codenames/           Öffentliche Aliase
+├── data/                Account-Inventar und Meilensteine
+├── docs/                Audits und Dokumentationsstandard
+├── history/             Tägliche Fortschritts-Snapshots
+├── quality/             QUALITY.md und Audits
+├── scripts/             sync_board.py, sync_account_inventory.py
+├── site/                Live-Board (GitHub Pages)
+├── progress.json        Datenquelle
+├── PROGRESS.md          Generierte Übersicht
+├── README.de.md / README.en.md
+└── LICENSE
+```
+
+## Richtlinien
+
+- Niemals private Codename-Zuordnungen oder echte private Repository-Namen in Inhaltsdateien committen.
+- Öffentliche Aliase liegen in [`codenames/PUBLIC_ALIASES.json`](./codenames/PUBLIC_ALIASES.json).
+- Historien-Snapshots: [`history/`](./history/).
+- Live-Board (GitHub Pages): `site/index.html`
+
+## Dokumentation
+
+- [README.de.md](./README.de.md) · [README.en.md](./README.en.md)
+- [PROGRESS.md](./PROGRESS.md)
+- [Qualität: quality/QUALITY.md](./quality/QUALITY.md)
+- [Benchmarks: benchmarks/LATEST.md](./benchmarks/LATEST.md)
+- [docs/](./docs/)
+
+## English summary
+
+Public Cryo Omega progress and quality audits. Overall progress is **96%** across 22 tracks (20 complete); private tracks appear by codename only. Everything is generated from `progress.json` by `scripts/sync_board.py`, which also enforces the private-name leak policy and powers the GitHub Pages board.
