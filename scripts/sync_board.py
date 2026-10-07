@@ -145,6 +145,8 @@ def render_readme(data: dict) -> str:
     )
     return f"""<div align="center">
 
+<img src="./assets/readme-banner.svg" alt="progress" width="100%">
+
 # Cryo Progress ({overall}%)
 
 <p><strong>Öffentlicher Fortschritts- und Qualitätsstand von Cryo Omega, private Projekte nur unter Codenamen.</strong></p>
@@ -160,10 +162,38 @@ def render_readme(data: dict) -> str:
 
 </div>
 
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### Bestand
+
+Public Cryo Omega progress % + quality audits (private projects by secret codename only)
+
+Der Default-Branch `main` ist die Fläche, die zählt. Was nicht in diesem Baum liegt, ist kein Feature dieses Repos.
+
+</td>
+<td width="42%" valign="top">
+
+### Fakten
+
+| Feld | Wert |
+| --- | --- |
+| Owner | Pierreg99 |
+| Branch | `main` |
+| Sichtbarkeit | öffentlich |
+| Sprache | HTML |
+| Archiv | nein |
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## Inhaltsverzeichnis
 
+- [Bestand und Fakten](#bestand)
 - [Überblick](#überblick)
 - [Features](#features)
 - [Tracks](#tracks)
