@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "owner": "Pierreg99",
-  "updatedAt": "2026-10-09T02:09:57+00:00",
+  "updatedAt": "2026-10-09T09:04:16+00:00",
   "timezone": "Europe/Berlin",
   "source": "GitHub public user API + preserved private count",
   "completeAccountSync": false,
-  "total": 135,
-  "public": 76,
+  "total": 123,
+  "public": 64,
   "private": 59,
   "privateNamesPublished": false,
   "repositories": [
@@ -16,14 +16,6 @@
       "htmlUrl": "https://github.com/Pierreg99/7xx-Drivers-OMEGA-FORKS",
       "defaultBranch": "main",
       "updatedAt": "2026-10-07T06:06:27Z",
-      "archived": false
-    },
-    {
-      "name": "Ab-download-Manager-OMEGA-FORK",
-      "fullName": "Pierreg99/Ab-download-Manager-OMEGA-FORK",
-      "htmlUrl": "https://github.com/Pierreg99/Ab-download-Manager-OMEGA-FORK",
-      "defaultBranch": "master",
-      "updatedAt": "2026-09-14T00:34:25Z",
       "archived": false
     },
     {
@@ -56,30 +48,6 @@
       "htmlUrl": "https://github.com/Pierreg99/AI-FOR-Everyone-Learn-Docs",
       "defaultBranch": "main",
       "updatedAt": "2026-10-07T07:26:27Z",
-      "archived": false
-    },
-    {
-      "name": "AnymeX-OMEGA-FORK",
-      "fullName": "Pierreg99/AnymeX-OMEGA-FORK",
-      "htmlUrl": "https://github.com/Pierreg99/AnymeX-OMEGA-FORK",
-      "defaultBranch": "main",
-      "updatedAt": "2026-10-07T06:08:06Z",
-      "archived": false
-    },
-    {
-      "name": "AnymeXExtensionRuntimeBridge-OMEGA-FORK",
-      "fullName": "Pierreg99/AnymeXExtensionRuntimeBridge-OMEGA-FORK",
-      "htmlUrl": "https://github.com/Pierreg99/AnymeXExtensionRuntimeBridge-OMEGA-FORK",
-      "defaultBranch": "main",
-      "updatedAt": "2026-10-07T06:08:21Z",
-      "archived": false
-    },
-    {
-      "name": "awesome-ai-video-generation-list-OMEGA-FORK",
-      "fullName": "Pierreg99/awesome-ai-video-generation-list-OMEGA-FORK",
-      "htmlUrl": "https://github.com/Pierreg99/awesome-ai-video-generation-list-OMEGA-FORK",
-      "defaultBranch": "main",
-      "updatedAt": "2026-10-07T06:08:52Z",
       "archived": false
     },
     {
@@ -163,6 +131,22 @@
       "archived": false
     },
     {
+      "name": "CryoSecOPS-RTASE",
+      "fullName": "Pierreg99/CryoSecOPS-RTASE",
+      "htmlUrl": "https://github.com/Pierreg99/CryoSecOPS-RTASE",
+      "defaultBranch": "main",
+      "updatedAt": "2026-10-09T05:16:48Z",
+      "archived": false
+    },
+    {
+      "name": "CryOVSeries-MarketingOfficial",
+      "fullName": "Pierreg99/CryOVSeries-MarketingOfficial",
+      "htmlUrl": "https://github.com/Pierreg99/CryOVSeries-MarketingOfficial",
+      "defaultBranch": "main",
+      "updatedAt": "2026-10-09T03:40:58Z",
+      "archived": false
+    },
+    {
       "name": "Cyberdash-Rhythm-Platformer-GAME",
       "fullName": "Pierreg99/Cyberdash-Rhythm-Platformer-GAME",
       "htmlUrl": "https://github.com/Pierreg99/Cyberdash-Rhythm-Platformer-GAME",
@@ -176,22 +160,6 @@
       "htmlUrl": "https://github.com/Pierreg99/Dartotsu-Downloader-OMEGA-FORK",
       "defaultBranch": "main",
       "updatedAt": "2026-09-14T16:33:12Z",
-      "archived": false
-    },
-    {
-      "name": "Dartotsu-OMEGA-FORK",
-      "fullName": "Pierreg99/Dartotsu-OMEGA-FORK",
-      "htmlUrl": "https://github.com/Pierreg99/Dartotsu-OMEGA-FORK",
-      "defaultBranch": "main",
-      "updatedAt": "2026-09-14T16:33:28Z",
-      "archived": false
-    },
-    {
-      "name": "DartotsuExtensionBridge-OMEGA-FORK",
-      "fullName": "Pierreg99/DartotsuExtensionBridge-OMEGA-FORK",
-      "htmlUrl": "https://github.com/Pierreg99/DartotsuExtensionBridge-OMEGA-FORK",
-      "defaultBranch": "master",
-      "updatedAt": "2026-09-14T16:32:40Z",
       "archived": false
     },
     {
@@ -267,14 +235,6 @@
       "archived": false
     },
     {
-      "name": "KiBlox-VoxelGame",
-      "fullName": "Pierreg99/KiBlox-VoxelGame",
-      "htmlUrl": "https://github.com/Pierreg99/KiBlox-VoxelGame",
-      "defaultBranch": "main",
-      "updatedAt": "2026-10-07T06:01:26Z",
-      "archived": false
-    },
-    {
       "name": "Lazymux-OMEGA-FORK",
       "fullName": "Pierreg99/Lazymux-OMEGA-FORK",
       "htmlUrl": "https://github.com/Pierreg99/Lazymux-OMEGA-FORK",
@@ -331,35 +291,19 @@
       "archived": false
     },
     {
-      "name": "NEXUS-AI-SENSORIC",
-      "fullName": "Pierreg99/NEXUS-AI-SENSORIC",
-      "htmlUrl": "https://github.com/Pierreg99/NEXUS-AI-SENSORIC",
+      "name": "Pierreg99-GPAI-CommunityPresent-P-Series",
+      "fullName": "Pierreg99/Pierreg99-GPAI-CommunityPresent-P-Series",
+      "htmlUrl": "https://github.com/Pierreg99/Pierreg99-GPAI-CommunityPresent-P-Series",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-08T23:31:22Z",
+      "updatedAt": "2026-10-09T02:44:50Z",
       "archived": false
     },
     {
-      "name": "Nexus-Lunas-GPAI-Fan-Present",
-      "fullName": "Pierreg99/Nexus-Lunas-GPAI-Fan-Present",
-      "htmlUrl": "https://github.com/Pierreg99/Nexus-Lunas-GPAI-Fan-Present",
+      "name": "Pierreg99-Profile-Page",
+      "fullName": "Pierreg99/Pierreg99-Profile-Page",
+      "htmlUrl": "https://github.com/Pierreg99/Pierreg99-Profile-Page",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-07T12:19:56Z",
-      "archived": false
-    },
-    {
-      "name": "ObtaniumAndroid-OMEGA-FORK",
-      "fullName": "Pierreg99/ObtaniumAndroid-OMEGA-FORK",
-      "htmlUrl": "https://github.com/Pierreg99/ObtaniumAndroid-OMEGA-FORK",
-      "defaultBranch": "main",
-      "updatedAt": "2026-09-14T16:36:33Z",
-      "archived": false
-    },
-    {
-      "name": "Pierreg99-Pierreg99-Profile-Page",
-      "fullName": "Pierreg99/Pierreg99-Pierreg99-Profile-Page",
-      "htmlUrl": "https://github.com/Pierreg99/Pierreg99-Pierreg99-Profile-Page",
-      "defaultBranch": "main",
-      "updatedAt": "2026-10-08T16:50:57Z",
+      "updatedAt": "2026-10-09T03:43:31Z",
       "archived": false
     },
     {
@@ -383,15 +327,7 @@
       "fullName": "Pierreg99/progress",
       "htmlUrl": "https://github.com/Pierreg99/progress",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-08T21:20:22Z",
-      "archived": false
-    },
-    {
-      "name": "ResidentLovely-Maximum-Hapiness-Game",
-      "fullName": "Pierreg99/ResidentLovely-Maximum-Hapiness-Game",
-      "htmlUrl": "https://github.com/Pierreg99/ResidentLovely-Maximum-Hapiness-Game",
-      "defaultBranch": "main",
-      "updatedAt": "2026-10-07T05:56:07Z",
+      "updatedAt": "2026-10-09T03:43:29Z",
       "archived": false
     },
     {
@@ -439,7 +375,7 @@
       "fullName": "Pierreg99/spotiflac-cli-OMEGA-FORK",
       "htmlUrl": "https://github.com/Pierreg99/spotiflac-cli-OMEGA-FORK",
       "defaultBranch": "main",
-      "updatedAt": "2026-09-12T11:04:39Z",
+      "updatedAt": "2026-10-09T03:58:22Z",
       "archived": false
     },
     {
@@ -515,14 +451,6 @@
       "archived": false
     },
     {
-      "name": "termux-ai-suite-OMEGA-FORK",
-      "fullName": "Pierreg99/termux-ai-suite-OMEGA-FORK",
-      "htmlUrl": "https://github.com/Pierreg99/termux-ai-suite-OMEGA-FORK",
-      "defaultBranch": "master",
-      "updatedAt": "2026-09-12T16:14:38Z",
-      "archived": false
-    },
-    {
       "name": "termux-api-OMEGA-FORK",
       "fullName": "Pierreg99/termux-api-OMEGA-FORK",
       "htmlUrl": "https://github.com/Pierreg99/termux-api-OMEGA-FORK",
@@ -547,27 +475,11 @@
       "archived": false
     },
     {
-      "name": "termux-desktop-OMEGA-FORK",
-      "fullName": "Pierreg99/termux-desktop-OMEGA-FORK",
-      "htmlUrl": "https://github.com/Pierreg99/termux-desktop-OMEGA-FORK",
-      "defaultBranch": "main",
-      "updatedAt": "2026-09-12T11:08:48Z",
-      "archived": false
-    },
-    {
       "name": "termux-packages-OMEGA-FORK",
       "fullName": "Pierreg99/termux-packages-OMEGA-FORK",
       "htmlUrl": "https://github.com/Pierreg99/termux-packages-OMEGA-FORK",
       "defaultBranch": "master",
       "updatedAt": "2026-09-12T11:08:14Z",
-      "archived": false
-    },
-    {
-      "name": "termux-x11-OMEGA-FORK",
-      "fullName": "Pierreg99/termux-x11-OMEGA-FORK",
-      "htmlUrl": "https://github.com/Pierreg99/termux-x11-OMEGA-FORK",
-      "defaultBranch": "master",
-      "updatedAt": "2026-09-12T11:10:24Z",
       "archived": false
     },
     {
@@ -592,14 +504,6 @@
       "htmlUrl": "https://github.com/Pierreg99/windows_xiaomi_platforms-OMEGA-FORK",
       "defaultBranch": "main",
       "updatedAt": "2026-09-14T03:04:58Z",
-      "archived": false
-    },
-    {
-      "name": "YT-Music-SpotiFLAC-OMEGA-FORK",
-      "fullName": "Pierreg99/YT-Music-SpotiFLAC-OMEGA-FORK",
-      "htmlUrl": "https://github.com/Pierreg99/YT-Music-SpotiFLAC-OMEGA-FORK",
-      "defaultBranch": "main",
-      "updatedAt": "2026-09-12T11:05:56Z",
       "archived": false
     },
     {
