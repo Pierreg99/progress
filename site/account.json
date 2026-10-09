@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "owner": "Pierreg99",
-  "updatedAt": "2026-10-09T09:04:16+00:00",
+  "updatedAt": "2026-10-09T16:12:42+00:00",
   "timezone": "Europe/Berlin",
   "source": "GitHub public user API + preserved private count",
   "completeAccountSync": false,
-  "total": 123,
-  "public": 64,
+  "total": 124,
+  "public": 65,
   "private": 59,
   "privateNamesPublished": false,
   "repositories": [
@@ -107,6 +107,14 @@
       "archived": false
     },
     {
+      "name": "CryoNexis-Lunar-Eclispe",
+      "fullName": "Pierreg99/CryoNexis-Lunar-Eclispe",
+      "htmlUrl": "https://github.com/Pierreg99/CryoNexis-Lunar-Eclispe",
+      "defaultBranch": "main",
+      "updatedAt": "2026-10-09T14:11:00Z",
+      "archived": false
+    },
+    {
       "name": "CRYOPATRAE-OMEGA-",
       "fullName": "Pierreg99/CRYOPATRAE-OMEGA-",
       "htmlUrl": "https://github.com/Pierreg99/CRYOPATRAE-OMEGA-",
@@ -135,7 +143,7 @@
       "fullName": "Pierreg99/CryoSecOPS-RTASE",
       "htmlUrl": "https://github.com/Pierreg99/CryoSecOPS-RTASE",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-09T05:16:48Z",
+      "updatedAt": "2026-10-09T13:45:31Z",
       "archived": false
     },
     {
@@ -303,7 +311,7 @@
       "fullName": "Pierreg99/Pierreg99-Profile-Page",
       "htmlUrl": "https://github.com/Pierreg99/Pierreg99-Profile-Page",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-09T03:43:31Z",
+      "updatedAt": "2026-10-09T09:32:26Z",
       "archived": false
     },
     {
@@ -327,7 +335,7 @@
       "fullName": "Pierreg99/progress",
       "htmlUrl": "https://github.com/Pierreg99/progress",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-09T03:43:29Z",
+      "updatedAt": "2026-10-09T09:04:21Z",
       "archived": false
     },
     {
@@ -375,7 +383,7 @@
       "fullName": "Pierreg99/spotiflac-cli-OMEGA-FORK",
       "htmlUrl": "https://github.com/Pierreg99/spotiflac-cli-OMEGA-FORK",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-09T03:58:22Z",
+      "updatedAt": "2026-10-09T13:41:47Z",
       "archived": false
     },
     {
