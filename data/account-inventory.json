@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "owner": "Pierreg99",
-  "updatedAt": "2026-10-10T07:07:07+00:00",
+  "updatedAt": "2026-10-10T13:41:37+00:00",
   "timezone": "Europe/Berlin",
   "source": "GitHub public user API + preserved private count",
   "completeAccountSync": false,
-  "total": 124,
-  "public": 65,
+  "total": 123,
+  "public": 64,
   "private": 59,
   "privateNamesPublished": false,
   "repositories": [
@@ -136,14 +136,6 @@
       "htmlUrl": "https://github.com/Pierreg99/cryos-launcher",
       "defaultBranch": "main",
       "updatedAt": "2026-10-07T06:00:11Z",
-      "archived": false
-    },
-    {
-      "name": "CryoSecOPS-RTASE",
-      "fullName": "Pierreg99/CryoSecOPS-RTASE",
-      "htmlUrl": "https://github.com/Pierreg99/CryoSecOPS-RTASE",
-      "defaultBranch": "main",
-      "updatedAt": "2026-10-09T22:15:25Z",
       "archived": false
     },
     {
@@ -335,7 +327,7 @@
       "fullName": "Pierreg99/progress",
       "htmlUrl": "https://github.com/Pierreg99/progress",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-10T00:51:08Z",
+      "updatedAt": "2026-10-10T07:07:11Z",
       "archived": false
     },
     {
