@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "owner": "Pierreg99",
-  "updatedAt": "2026-10-10T22:31:43+00:00",
+  "updatedAt": "2026-10-11T01:53:28+00:00",
   "timezone": "Europe/Berlin",
   "source": "GitHub public user API + preserved private count",
   "completeAccountSync": false,
-  "total": 123,
-  "public": 64,
+  "total": 122,
+  "public": 63,
   "private": 59,
   "privateNamesPublished": false,
   "repositories": [
@@ -111,7 +111,7 @@
       "fullName": "Pierreg99/CryoNexis-Lunar-Eclispe",
       "htmlUrl": "https://github.com/Pierreg99/CryoNexis-Lunar-Eclispe",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-10T21:16:09Z",
+      "updatedAt": "2026-10-11T01:32:12Z",
       "archived": false
     },
     {
@@ -327,7 +327,7 @@
       "fullName": "Pierreg99/progress",
       "htmlUrl": "https://github.com/Pierreg99/progress",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-10T18:35:58Z",
+      "updatedAt": "2026-10-10T22:31:47Z",
       "archived": false
     },
     {
@@ -352,14 +352,6 @@
       "htmlUrl": "https://github.com/Pierreg99/SharpEmuPSV-OMEGA-FORK",
       "defaultBranch": "main",
       "updatedAt": "2026-09-14T16:38:50Z",
-      "archived": false
-    },
-    {
-      "name": "ShuShuzinhuu-SpotiFLAC-Extractor-Daemon-OMEGA-FORK",
-      "fullName": "Pierreg99/ShuShuzinhuu-SpotiFLAC-Extractor-Daemon-OMEGA-FORK",
-      "htmlUrl": "https://github.com/Pierreg99/ShuShuzinhuu-SpotiFLAC-Extractor-Daemon-OMEGA-FORK",
-      "defaultBranch": "main",
-      "updatedAt": "2026-09-12T11:05:36Z",
       "archived": false
     },
     {
