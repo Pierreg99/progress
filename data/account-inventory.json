@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "owner": "Pierreg99",
-  "updatedAt": "2026-10-11T01:53:28+00:00",
+  "updatedAt": "2026-10-11T08:50:46+00:00",
   "timezone": "Europe/Berlin",
   "source": "GitHub public user API + preserved private count",
   "completeAccountSync": false,
-  "total": 122,
-  "public": 63,
+  "total": 119,
+  "public": 60,
   "private": 59,
   "privateNamesPublished": false,
   "repositories": [
@@ -187,14 +187,6 @@
       "archived": false
     },
     {
-      "name": "Freedify-OMEGA-FORK",
-      "fullName": "Pierreg99/Freedify-OMEGA-FORK",
-      "htmlUrl": "https://github.com/Pierreg99/Freedify-OMEGA-FORK",
-      "defaultBranch": "main",
-      "updatedAt": "2026-09-12T11:04:57Z",
-      "archived": false
-    },
-    {
       "name": "futuristic-call-of-shooty",
       "fullName": "Pierreg99/futuristic-call-of-shooty",
       "htmlUrl": "https://github.com/Pierreg99/futuristic-call-of-shooty",
@@ -224,14 +216,6 @@
       "htmlUrl": "https://github.com/Pierreg99/Kai-Release-Stream-OMEGA-FORK",
       "defaultBranch": "main",
       "updatedAt": "2026-09-14T16:27:10Z",
-      "archived": false
-    },
-    {
-      "name": "KAIOVER9000-OMEGA-FORK",
-      "fullName": "Pierreg99/KAIOVER9000-OMEGA-FORK",
-      "htmlUrl": "https://github.com/Pierreg99/KAIOVER9000-OMEGA-FORK",
-      "defaultBranch": "main",
-      "updatedAt": "2026-09-14T16:27:47Z",
       "archived": false
     },
     {
@@ -275,14 +259,6 @@
       "archived": false
     },
     {
-      "name": "mixplorer-releases-OMEGA-FORK",
-      "fullName": "Pierreg99/mixplorer-releases-OMEGA-FORK",
-      "htmlUrl": "https://github.com/Pierreg99/mixplorer-releases-OMEGA-FORK",
-      "defaultBranch": "main",
-      "updatedAt": "2026-09-14T16:35:52Z",
-      "archived": false
-    },
-    {
       "name": "Nexo-Jarvis-AI-Futuristic-Assistant-Alpha",
       "fullName": "Pierreg99/Nexo-Jarvis-AI-Futuristic-Assistant-Alpha",
       "htmlUrl": "https://github.com/Pierreg99/Nexo-Jarvis-AI-Futuristic-Assistant-Alpha",
@@ -303,7 +279,7 @@
       "fullName": "Pierreg99/Pierreg99-Profile-Page",
       "htmlUrl": "https://github.com/Pierreg99/Pierreg99-Profile-Page",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-10T14:39:33Z",
+      "updatedAt": "2026-10-11T02:07:06Z",
       "archived": false
     },
     {
@@ -327,7 +303,7 @@
       "fullName": "Pierreg99/progress",
       "htmlUrl": "https://github.com/Pierreg99/progress",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-10T22:31:47Z",
+      "updatedAt": "2026-10-11T01:53:32Z",
       "archived": false
     },
     {
