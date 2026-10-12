@@ -1,24 +1,24 @@
 {
   "version": 1,
-  "auditedAt": "2026-10-06T18:40:00+02:00",
+  "auditedAt": "2026-10-12T18:52:57+02:00",
   "timezone": "Europe/Berlin",
   "overallScore": 90,
-  "previousOverallScore": 89,
-  "previousAuditedAt": "2026-10-05T18:38:52+02:00",
+  "previousOverallScore": 90,
+  "previousAuditedAt": "2026-10-06T18:40:00+02:00",
   "gradeDropped": false,
   "gradeDrops": [],
   "grades": {
     "security": "A-",
     "docs": "B",
     "automation": "A-",
-    "parity": "A-",
+    "parity": "A",
     "secretsHygiene": "A-"
   },
   "componentScores": {
     "security": 90,
     "docs": 86,
     "automation": 90,
-    "parity": 93,
+    "parity": 94,
     "secretsHygiene": 91
   },
   "scoreMethod": "rubric judgment by the audit run, same scale as prior audits; overall = round(mean of components)",
@@ -36,7 +36,7 @@
     {
       "id": "codenames_no_real_repos",
       "pass": true,
-      "detail": "0 private real-name leaks in the working tree (37 private names, case-insensitive substring scan of all non-.git files); only known false positives: the public NEXUS-SPIRE-42 host in URL/health contexts and the GLACIER-FLARE-55 substring inside a public launcher repo name and an agent name"
+      "detail": "0 private real-name leaks in the working tree after scrub (38 private names, case-insensitive scan of 65 non-.git files); scrubbed 2 this run; known false positives: public NEXUS-SPIRE-42 host URL/health and GLACIER-FLARE-55 substring inside public launcher repo name"
     },
     {
       "id": "private_map_absent",
@@ -56,12 +56,12 @@
     {
       "id": "benchmark_present",
       "pass": true,
-      "detail": "benchmarks/latest.json present (2026-10-06 run uses codename IRON-SEAL-38 for the routine slug)"
+      "detail": "benchmarks/latest.json present (paused routine slug scrubbed to IRON-SEAL-38-agentic-autosync)"
     },
     {
       "id": "history_daily",
       "pass": true,
-      "detail": "12 history snapshots, latest history/2026-10-06.json"
+      "detail": "13 history snapshots, latest history/2026-10-12.json"
     },
     {
       "id": "public_aliases",
@@ -81,15 +81,41 @@
     {
       "id": "account_inventory_private_names",
       "pass": true,
-      "detail": "data/account-inventory.json lists 76 public repos only; private count 59 published, privateNamesPublished=false"
+      "detail": "data/account-inventory.json lists 60 public repos only; private count 59 published, privateNamesPublished=false"
     }
   ],
-  "scrubbed": [],
+  "scrubbed": [
+    {
+      "path": "benchmarks/latest.json",
+      "from": "grok-bot-agentic-autosync",
+      "to": "IRON-SEAL-38-agentic-autosync",
+      "reason": "routine slug embeds private repo name grok-bot"
+    },
+    {
+      "path": "benchmarks/history/2026-10-12.json",
+      "from": "grok-bot-agentic-autosync",
+      "to": "IRON-SEAL-38-agentic-autosync",
+      "reason": "routine slug embeds private repo name grok-bot"
+    }
+  ],
   "leakScan": {
     "pass": true,
     "remaining": [],
-    "foundThisRun": [],
-    "note": "Case-insensitive substring match against the private map over every non-.git file; URL/host contexts of the public domain and a public launcher repo name and an agent name containing the GLACIER-FLARE-55 substring are false positives. Earlier leaks remain in git history."
+    "foundThisRun": [
+      {
+        "path": "benchmarks/latest.json",
+        "name": "grok-bot",
+        "via": "grok-bot-agentic-autosync",
+        "scrubbedTo": "IRON-SEAL-38-agentic-autosync"
+      },
+      {
+        "path": "benchmarks/history/2026-10-12.json",
+        "name": "grok-bot",
+        "via": "grok-bot-agentic-autosync",
+        "scrubbedTo": "IRON-SEAL-38-agentic-autosync"
+      }
+    ],
+    "note": "Case-insensitive scan against the private map over every non-.git file; URL/host contexts of the public domain and a public launcher repo name containing the GLACIER-FLARE-55 substring are false positives. Earlier leaks remain in git history."
   },
   "syncBoardCheck": {
     "pass": true,
@@ -102,6 +128,10 @@
   "findings": [
     {
       "severity": "medium",
+      "msg": "Benchmark paused-routines list reintroduced private repo name via routine slug grok-bot-agentic-autosync in benchmarks/latest.json and benchmarks/history/2026-10-12.json; scrubbed to IRON-SEAL-38-agentic-autosync"
+    },
+    {
+      "severity": "medium",
       "msg": "Strings leaked before 2026-10-05 (IRON-SEAL-38, DRIFT-DEPTH-70) still exist in public git history; removal would need a history rewrite and force-push (not done)"
     },
     {
@@ -110,15 +140,15 @@
     },
     {
       "severity": "info",
-      "msg": "Benchmark writer no longer emits the real routine slug: 2026-10-06 benchmark files use the codename (prior high finding resolved)"
-    },
-    {
-      "severity": "info",
       "msg": "account inventory completeAccountSync=false (public API + preserved private count)"
     },
     {
       "severity": "info",
       "msg": "sync_board --check PASS; version=3 overall=96 mean=95.73 tracks=22 (rounding=round(mean)); required id/name/percent/status present on all tracks; codename present on all 12 codenamed (private) tracks"
+    },
+    {
+      "severity": "info",
+      "msg": "Catch-up after failed 2026-10-09 routine run; prior published audit was 2026-10-06"
     }
   ]
 }
