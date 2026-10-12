@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T18:10:00+02:00",
+  "updatedAt": "2026-10-12T18:20:00+02:00",
   "timezone": "Europe/Berlin",
   "overallPercent": 96,
   "orgRepo": "Pierreg99/progress",
@@ -12,7 +12,7 @@
       "codename": "NEXUS-SPIRE-42",
       "percent": 100,
       "status": "live",
-      "notes": "OAuth redirect previously live; /health and / unreachable from the box again 2026-10-05 18:05 CEST (curl 000 after 10s; benchmark probe same day reported a TLS wrong-version error); prior ship intact (codename only)."
+      "notes": "OAuth redirect previously live; /health unreachable from the box again 2026-10-12 18:13 CEST (curl connect timeout after 10s; benchmark probe same day reported tls_eof); prior ship intact (codename only)."
     },
     {
       "id": "agentic-snapshot",
@@ -20,7 +20,7 @@
       "codename": "POLAR-BLADE-62",
       "percent": 100,
       "status": "live",
-      "notes": "Snapshot/routines/docs SHIP_STATUS + QUALITY; MANIFEST files_total 1567 agents_live 15 cryo_llm_models 460 (codename only)."
+      "notes": "Snapshot/routines/docs SHIP_STATUS + QUALITY; MANIFEST files_total 1602 agents_live 15; live cryo-llm catalog 465 models (MANIFEST snapshot still lists 458) (codename only)."
     },
     {
       "id": "openrouter-pipeline",
@@ -28,7 +28,7 @@
       "codename": "IRON-SEAL-38",
       "percent": 100,
       "status": "live",
-      "notes": "Flash Fin defaults + catalog 460 live; pipeline routine paused; OpenRouter live complete user_not_found hold (codename only)."
+      "notes": "Flash Fin base id in catalog 465; pipeline routine paused; OpenRouter live complete still user_not_found; MiniMax live complete PONG 2026-10-12 (codename only)."
     },
     {
       "id": "routines-mesh",
@@ -36,7 +36,7 @@
       "codename": "POLAR-BLADE-62",
       "percent": 100,
       "status": "live",
-      "notes": "18/24 enabled; 6 paused (autosync, docs-changelog, pipeline, vps-auto-update, pack-extras, fan-bundle sync). 2026-10-05 runs of health, digest, catalog, auto-commit, SHA Proof, benchmark, quality analysis, pulse succeeded; several 2026-10-02 runs still show failed. MANIFEST snapshot still 21 (codename only)."
+      "notes": "19/25 enabled; 6 paused (autosync, docs-changelog, pipeline, vps-auto-update, pack-extras, fan-bundle sync). 2026-10-12 runs of health, digest, catalog, canonical auto-commit, SHA Proof, benchmark, quality analysis, pulse, token history, live.json, auto-commit, Telegram poll succeeded; the 2026-10-09 evening progress/audit/notify/ledger runs show failed; SHA Proof webhook never run. MANIFEST snapshot still 21 (codename only)."
     },
     {
       "id": "cryaipulse",
@@ -174,25 +174,25 @@
       "codename": "NEXUS-CORE-81",
       "percent": 96,
       "status": "active",
-      "notes": "main at 5297cea (README surfaces + OmniSurface CLI/TUI dispatcher, Termux:API catalog, skin registry, LSP host probe on top of 4c0a0b4); pytest 52 passed on 5297cea (2026-10-05). The botult branch no longer exists on the remote; 7 PRs open (checked 2026-10-06, main unchanged). Still no debugger or git panel in the IDE or APK and no live language-server session (kotlin-lsp binary not in the tree), so the percent stays 96."
+      "notes": "main at 03f8474 (2026-10-09 01:21 CEST; +11 commits since 5297cea: OmniSurface max dispatcher for CLI/TUI/GUI, omega-max CLI entry, max IDE surface command table, README/OG/favicon/mark visuals, Termux skin preview); pytest 52 passed on 03f8474 (2026-10-12), no new tests; 12 PRs open. Offline function debugger and kotlin-lsp client exist on the CLI side, but the IDE surface still has no debugger or git panel and there is no live language-server session, so the percent stays 96."
     }
   ],
   "visibility": "public",
   "codenamePolicy": "Private repos: display name IS the secret codename only.",
   "meta": {
-    "routinesEnabled": 18,
-    "routinesTotal": 24,
+    "routinesEnabled": 19,
+    "routinesTotal": 25,
     "castleFrames": 720,
     "boardTool": "scripts/sync_board.py",
     "pages": "site/",
-    "catalogModels": 460,
-    "catchUp": "2026-10-06 catch-up: NEXUS-CORE-81 main still 5297cea, 7 PRs open; routines 18/24 enabled; cryopg health probe failed (TLS error); percents unchanged",
+    "catalogModels": 465,
+    "catchUp": "2026-10-12 catch-up (first since 2026-10-06; 10-07..10-09 runs failed): NEXUS-CORE-81 main 5297cea->03f8474 (+11 commits, visual/OmniSurface max dispatcher), 12 PRs open, pytest 52 passed; routines 19/25 enabled; cryopg health timeout; percents unchanged",
     "fanBundleVersion": "1.0.8",
-    "manifestFilesTotal": 1567,
+    "manifestFilesTotal": 1602,
     "agentsLive": 15,
     "cryopgHealth": false,
     "benchmarkWinner": "cryoomega_mesh",
-    "benchmarkDelta": 17,
+    "benchmarkDelta": 15,
     "openrouterPipelineEnabled": false,
     "manifestRoutines": 21
   }

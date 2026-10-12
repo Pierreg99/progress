@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-12",
+  "entries": [
+    {
+      "at": "2026-10-12T18:20:00+02:00",
+      "track": "board",
+      "event": "weekday catch-up: overall stayed 96; no track percent moved",
+      "percent": 96
+    }
+  ],
+  "events": [
+    {
+      "at": "2026-10-12T18:20:00+02:00",
+      "track": "NEXUS-CORE-81",
+      "summary": "main 5297cea -> 03f8474 (+11 commits); pytest 52 passed; 12 PRs open; percent stays 96 because IDE debugger, git panel, and a live language server are still open",
+      "percent": 96
+    },
+    {
+      "at": "2026-10-12T18:20:00+02:00",
+      "track": "routines-mesh",
+      "summary": "routines 19/25 enabled (was 18/24)",
+      "percent": 100
+    }
+  ]
+}
