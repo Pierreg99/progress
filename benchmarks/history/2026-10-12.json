@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "benchmark": "cryoomega_mesh_vs_grok_bot_solo",
+  "yardstick": "YS-AGI3-003",
+  "updatedAt": "2026-10-12T12:17:06.672166+00:00",
+  "mode": "live",
+  "confidence": 0.78,
+  "note": "Live probes 2026-10-12: 103 profiles (S1-S8 roster, 0 parse failures), 14 agent profiles on disk incl. AGI-3 Build/Sense channels (was 15), 18 workflow skills (was 17; +build-with-minimax). Routines (wake snapshot + disk): 19 enabled / 25 total with 9 last-run succeeded, 9 failed (many Oct 9), 1 never-run (SHA Proof webhook); 6 paused. On-disk runs.json still dominated by Sept usage_limit errors and is stale vs wake. cryopg.it/health UNREACHABLE (tls_eof). cryo-llm catalog has inclusionai/ling-3.0-flash-fin (465 models) but not the :free suffix id; OpenRouter complete failed (User not found); MiniMax-M3.1-Flash-Preview live complete succeeded (PONG). Scores vs 2026-10-06: mesh ops 77->73 (routine success 16/18->9/19, partial offset from live LLM); solo F 62->63 and ops 52->54 for shared LLM live complete. Overall mesh 78->77, delta 17->15. Mode live (LLM ran). Confidence 0.78.",
+  "arms": {
+    "cryoomega_mesh": {
+      "label": "Cryoomega + Grok Bot (mesh)",
+      "scores": {
+        "F": 80,
+        "C": 84,
+        "O": 72,
+        "ops": 73,
+        "overall": 77
+      },
+      "probes": {
+        "profiles_103": true,
+        "live_mesh_agents": true,
+        "routines_enabled": true,
+        "cryo_llm_flash_fin": true,
+        "llm_live_complete": true,
+        "vps_bot_live": null,
+        "recursive_brain": true
+      },
+      "rationale": "Credits mesh: 103-profile roster, 14 agent profiles incl. Build/Sense, 19 enabled routines (9 succeeded / 9 failed / 1 never on last run per wake). Ops -4 vs 2026-10-06: routine success rate dropped hard; partial offset from Flash Fin base id in catalog + MiniMax live complete. Remaining drag: VPS tls_eof, OpenRouter Flash Fin :free complete failed (User not found), 9 failed routines, 1 never-run webhook."
+    },
+    "grok_bot_solo": {
+      "label": "Grok Bot alone (no mesh)",
+      "scores": {
+        "F": 63,
+        "C": 69,
+        "O": 60,
+        "ops": 54,
+        "overall": 62
+      },
+      "probes": {
+        "profiles_103": false,
+        "live_mesh_agents": false,
+        "routines_enabled": false,
+        "cryo_llm_flash_fin": true,
+        "llm_live_complete": true,
+        "vps_bot_live": null,
+        "recursive_brain": false
+      },
+      "rationale": "Solo arm denies mesh/profiles/routines/VPS/recursive-brain credit. Shared infra LLM probes moved: Flash Fin base id present in catalog and MiniMax live complete succeeded, so small F/ops bump (62/52 -> 63/54). OpenRouter Flash Fin still failing; no VPS credit."
+    }
+  },
+  "deltaOverall": 15,
+  "deltaOverallVsPrevious": {
+    "previous": 17,
+    "previousDate": "2026-10-06",
+    "change": -2
+  },
+  "winner": "cryoomega_mesh",
+  "evidence": {
+    "profile_count": 103,
+    "roster_per_spektrum": {
+      "S1": 8,
+      "S2": 8,
+      "S3": 13,
+      "S4": 11,
+      "S5": 10,
+      "S6": 14,
+      "S7": 20,
+      "S8": 19
+    },
+    "agent_profiles_on_disk": 14,
+    "mesh_channels_present": 2,
+    "skills": 18,
+    "routines_enabled": 19,
+    "routines_total": 25,
+    "routines_enabled_last_run_succeeded": 9,
+    "routines_enabled_last_run_failed": 9,
+    "routines_enabled_never_run": 1,
+    "routines_paused": [
+      "grok-bot-agentic-autosync",
+      "cryopg-it-vps-auto-update",
+      "openrouter-agentic-pipeline-sync",
+      "docs-changelog-progress-plan",
+      "master-prompts-fan-bundle-sync",
+      "pack-extras-autonomous-learn-12h"
+    ],
+    "llm_probe": true,
+    "llm_probe_error_class": null,
+    "llm_models_tried": [
+      "inclusionai/ling-3.0-flash-fin:free",
+      "inclusionai/ling-3.0-flash-fin",
+      "MiniMax-M3.1-Flash-Preview"
+    ],
+    "cryo_llm_default": "inclusionai/ling-3.0-flash-fin:free",
+    "cryo_llm_default_in_catalog": false,
+    "cryo_llm_flash_fin_base_in_catalog": true,
+    "catalog_models": 465,
+    "vps": {
+      "ok": false,
+      "url": "https://cryopg.it/health",
+      "agents": null,
+      "skills": null,
+      "error_class": "tls_eof"
+    },
+    "recursive_brain": true,
+    "recursive_brain_episodes": 1,
+    "mirror_pierreg99_grok_bot": "retired (404), skipped"
+  }
+}
