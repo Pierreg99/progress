@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "owner": "Pierreg99",
-  "updatedAt": "2026-10-15T07:26:42+00:00",
+  "updatedAt": "2026-10-15T13:26:06+00:00",
   "timezone": "Europe/Berlin",
   "source": "GitHub public user API + preserved private count",
   "completeAccountSync": false,
-  "total": 120,
-  "public": 61,
+  "total": 121,
+  "public": 62,
   "private": 59,
   "privateNamesPublished": false,
   "repositories": [
@@ -112,6 +112,14 @@
       "htmlUrl": "https://github.com/Pierreg99/core-termux-OMEGAFORK",
       "defaultBranch": "main",
       "updatedAt": "2026-10-07T06:10:49Z",
+      "archived": false
+    },
+    {
+      "name": "CRTW",
+      "fullName": "Pierreg99/CRTW",
+      "htmlUrl": "https://github.com/Pierreg99/CRTW",
+      "defaultBranch": "main",
+      "updatedAt": "2026-10-15T09:02:25Z",
       "archived": false
     },
     {
@@ -271,7 +279,7 @@
       "fullName": "Pierreg99/Nexo-Jarvis-AI-Futuristic-Assistant-Alpha",
       "htmlUrl": "https://github.com/Pierreg99/Nexo-Jarvis-AI-Futuristic-Assistant-Alpha",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-15T02:07:20Z",
+      "updatedAt": "2026-10-15T10:49:35Z",
       "archived": false
     },
     {
@@ -287,7 +295,7 @@
       "fullName": "Pierreg99/Pierreg99-Profile-Page",
       "htmlUrl": "https://github.com/Pierreg99/Pierreg99-Profile-Page",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-14T07:58:02Z",
+      "updatedAt": "2026-10-15T11:59:24Z",
       "archived": false
     },
     {
@@ -311,7 +319,7 @@
       "fullName": "Pierreg99/progress",
       "htmlUrl": "https://github.com/Pierreg99/progress",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-15T01:30:41Z",
+      "updatedAt": "2026-10-15T07:26:47Z",
       "archived": false
     },
     {
