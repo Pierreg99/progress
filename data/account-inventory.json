@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "owner": "Pierreg99",
-  "updatedAt": "2026-10-19T14:40:26+00:00",
+  "updatedAt": "2026-10-19T20:35:00+00:00",
   "timezone": "Europe/Berlin",
   "source": "GitHub public user API + preserved private count",
   "completeAccountSync": false,
-  "total": 114,
-  "public": 55,
+  "total": 116,
+  "public": 57,
   "private": 59,
   "privateNamesPublished": false,
   "repositories": [
@@ -104,6 +104,22 @@
       "htmlUrl": "https://github.com/Pierreg99/CRTW",
       "defaultBranch": "main",
       "updatedAt": "2026-10-15T09:02:25Z",
+      "archived": false
+    },
+    {
+      "name": "Cryo-Card-Summoner",
+      "fullName": "Pierreg99/Cryo-Card-Summoner",
+      "htmlUrl": "https://github.com/Pierreg99/Cryo-Card-Summoner",
+      "defaultBranch": "main",
+      "updatedAt": "2026-10-19T20:31:52Z",
+      "archived": false
+    },
+    {
+      "name": "CryoGPTCHATFREEBIE",
+      "fullName": "Pierreg99/CryoGPTCHATFREEBIE",
+      "htmlUrl": "https://github.com/Pierreg99/CryoGPTCHATFREEBIE",
+      "defaultBranch": "main",
+      "updatedAt": "2026-10-19T19:44:42Z",
       "archived": false
     },
     {
@@ -287,7 +303,7 @@
       "fullName": "Pierreg99/progress",
       "htmlUrl": "https://github.com/Pierreg99/progress",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-19T06:17:36Z",
+      "updatedAt": "2026-10-19T14:40:33Z",
       "archived": false
     },
     {
