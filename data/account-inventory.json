@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "owner": "Pierreg99",
-  "updatedAt": "2026-10-19T01:16:41+00:00",
+  "updatedAt": "2026-10-19T06:17:32+00:00",
   "timezone": "Europe/Berlin",
   "source": "GitHub public user API + preserved private count",
   "completeAccountSync": false,
-  "total": 113,
-  "public": 54,
+  "total": 114,
+  "public": 55,
   "private": 59,
   "privateNamesPublished": false,
   "repositories": [
@@ -127,7 +127,7 @@
       "fullName": "Pierreg99/Cryoplane-Polygonal-Flight",
       "htmlUrl": "https://github.com/Pierreg99/Cryoplane-Polygonal-Flight",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-07T06:01:22Z",
+      "updatedAt": "2026-10-19T02:53:07Z",
       "archived": false
     },
     {
@@ -136,6 +136,14 @@
       "htmlUrl": "https://github.com/Pierreg99/cryos-launcher",
       "defaultBranch": "main",
       "updatedAt": "2026-10-19T01:02:33Z",
+      "archived": false
+    },
+    {
+      "name": "CryoVoxelArchitectAISTUDIO",
+      "fullName": "Pierreg99/CryoVoxelArchitectAISTUDIO",
+      "htmlUrl": "https://github.com/Pierreg99/CryoVoxelArchitectAISTUDIO",
+      "defaultBranch": "main",
+      "updatedAt": "2026-10-19T02:36:37Z",
       "archived": false
     },
     {
@@ -263,7 +271,7 @@
       "fullName": "Pierreg99/Pierreg99-Profile-Page",
       "htmlUrl": "https://github.com/Pierreg99/Pierreg99-Profile-Page",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-18T18:05:49Z",
+      "updatedAt": "2026-10-19T05:11:33Z",
       "archived": false
     },
     {
@@ -279,7 +287,7 @@
       "fullName": "Pierreg99/progress",
       "htmlUrl": "https://github.com/Pierreg99/progress",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-18T23:12:16Z",
+      "updatedAt": "2026-10-19T01:16:46Z",
       "archived": false
     },
     {
