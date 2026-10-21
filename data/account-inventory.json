@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "owner": "Pierreg99",
-  "updatedAt": "2026-10-21T15:13:56+00:00",
+  "updatedAt": "2026-10-21T19:18:46+00:00",
   "timezone": "Europe/Berlin",
   "source": "GitHub public user API + preserved private count",
   "completeAccountSync": false,
-  "total": 116,
-  "public": 57,
+  "total": 117,
+  "public": 58,
   "private": 59,
   "privateNamesPublished": false,
   "repositories": [
@@ -107,6 +107,14 @@
       "archived": false
     },
     {
+      "name": "CryNexAgentOfficiceVisualizedFreebie",
+      "fullName": "Pierreg99/CryNexAgentOfficiceVisualizedFreebie",
+      "htmlUrl": "https://github.com/Pierreg99/CryNexAgentOfficiceVisualizedFreebie",
+      "defaultBranch": "main",
+      "updatedAt": "2026-10-21T19:00:13Z",
+      "archived": false
+    },
+    {
       "name": "Cryo-Card-Summoner",
       "fullName": "Pierreg99/Cryo-Card-Summoner",
       "htmlUrl": "https://github.com/Pierreg99/Cryo-Card-Summoner",
@@ -119,7 +127,7 @@
       "fullName": "Pierreg99/CryoGPTCHATFREEBIE",
       "htmlUrl": "https://github.com/Pierreg99/CryoGPTCHATFREEBIE",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-21T06:56:06Z",
+      "updatedAt": "2026-10-21T18:41:32Z",
       "archived": false
     },
     {
@@ -303,7 +311,7 @@
       "fullName": "Pierreg99/progress",
       "htmlUrl": "https://github.com/Pierreg99/progress",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-21T10:08:22Z",
+      "updatedAt": "2026-10-21T15:14:03Z",
       "archived": false
     },
     {
