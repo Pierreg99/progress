@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "owner": "Pierreg99",
-  "updatedAt": "2026-10-22T15:16:31+00:00",
+  "updatedAt": "2026-10-22T19:14:52+00:00",
   "timezone": "Europe/Berlin",
   "source": "GitHub public user API + preserved private count",
   "completeAccountSync": false,
-  "total": 108,
-  "public": 49,
+  "total": 107,
+  "public": 48,
   "private": 59,
   "privateNamesPublished": false,
   "repositories": [
@@ -63,7 +63,7 @@
       "fullName": "Pierreg99/CRYNEX-MCP-LAB",
       "htmlUrl": "https://github.com/Pierreg99/CRYNEX-MCP-LAB",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-21T23:18:27Z",
+      "updatedAt": "2026-10-22T18:36:29Z",
       "archived": false
     },
     {
@@ -72,14 +72,6 @@
       "htmlUrl": "https://github.com/Pierreg99/CryNexLunaToolkit",
       "defaultBranch": "main",
       "updatedAt": "2026-10-22T07:48:42Z",
-      "archived": false
-    },
-    {
-      "name": "CryNexStudio3D-Office",
-      "fullName": "Pierreg99/CryNexStudio3D-Office",
-      "htmlUrl": "https://github.com/Pierreg99/CryNexStudio3D-Office",
-      "defaultBranch": "main",
-      "updatedAt": "2026-10-21T19:25:31Z",
       "archived": false
     },
     {
@@ -135,7 +127,7 @@
       "fullName": "Pierreg99/Cyberdash-Rhythm-Platformer-GAME",
       "htmlUrl": "https://github.com/Pierreg99/Cyberdash-Rhythm-Platformer-GAME",
       "defaultBranch": "master",
-      "updatedAt": "2026-10-19T01:01:29Z",
+      "updatedAt": "2026-10-22T18:03:28Z",
       "archived": false
     },
     {
@@ -231,7 +223,7 @@
       "fullName": "Pierreg99/Pierreg99-Profile-Page",
       "htmlUrl": "https://github.com/Pierreg99/Pierreg99-Profile-Page",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-22T14:19:12Z",
+      "updatedAt": "2026-10-22T18:44:55Z",
       "archived": false
     },
     {
@@ -247,7 +239,7 @@
       "fullName": "Pierreg99/progress",
       "htmlUrl": "https://github.com/Pierreg99/progress",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-22T10:10:41Z",
+      "updatedAt": "2026-10-22T15:16:41Z",
       "archived": false
     },
     {
