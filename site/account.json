@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "owner": "Pierreg99",
-  "updatedAt": "2026-10-22T10:10:36+00:00",
+  "updatedAt": "2026-10-22T15:16:31+00:00",
   "timezone": "Europe/Berlin",
   "source": "GitHub public user API + preserved private count",
   "completeAccountSync": false,
-  "total": 109,
-  "public": 50,
+  "total": 108,
+  "public": 49,
   "private": 59,
   "privateNamesPublished": false,
   "repositories": [
@@ -40,14 +40,6 @@
       "htmlUrl": "https://github.com/Pierreg99/call-of-groky",
       "defaultBranch": "main",
       "updatedAt": "2026-10-07T06:00:39Z",
-      "archived": false
-    },
-    {
-      "name": "CRTW",
-      "fullName": "Pierreg99/CRTW",
-      "htmlUrl": "https://github.com/Pierreg99/CRTW",
-      "defaultBranch": "main",
-      "updatedAt": "2026-10-15T09:02:25Z",
       "archived": false
     },
     {
@@ -239,7 +231,7 @@
       "fullName": "Pierreg99/Pierreg99-Profile-Page",
       "htmlUrl": "https://github.com/Pierreg99/Pierreg99-Profile-Page",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-22T05:09:27Z",
+      "updatedAt": "2026-10-22T14:19:12Z",
       "archived": false
     },
     {
@@ -255,7 +247,7 @@
       "fullName": "Pierreg99/progress",
       "htmlUrl": "https://github.com/Pierreg99/progress",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-22T04:45:00Z",
+      "updatedAt": "2026-10-22T10:10:41Z",
       "archived": false
     },
     {
