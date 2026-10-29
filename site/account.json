@@ -1,31 +1,15 @@
 {
   "schemaVersion": 1,
   "owner": "Pierreg99",
-  "updatedAt": "2026-10-29T07:05:14+00:00",
+  "updatedAt": "2026-10-29T14:19:02+00:00",
   "timezone": "Europe/Berlin",
   "source": "GitHub public user API + preserved private count",
   "completeAccountSync": false,
-  "total": 101,
-  "public": 42,
+  "total": 95,
+  "public": 36,
   "private": 59,
   "privateNamesPublished": false,
   "repositories": [
-    {
-      "name": "7xx-Drivers-OMEGA-FORKS",
-      "fullName": "Pierreg99/7xx-Drivers-OMEGA-FORKS",
-      "htmlUrl": "https://github.com/Pierreg99/7xx-Drivers-OMEGA-FORKS",
-      "defaultBranch": "main",
-      "updatedAt": "2026-10-07T06:06:27Z",
-      "archived": false
-    },
-    {
-      "name": "AdrenoGpuDriver-Omega-Fork",
-      "fullName": "Pierreg99/AdrenoGpuDriver-Omega-Fork",
-      "htmlUrl": "https://github.com/Pierreg99/AdrenoGpuDriver-Omega-Fork",
-      "defaultBranch": "main",
-      "updatedAt": "2026-10-07T06:07:30Z",
-      "archived": false
-    },
     {
       "name": "Aetherwild-Game",
       "fullName": "Pierreg99/Aetherwild-Game",
@@ -155,14 +139,6 @@
       "archived": false
     },
     {
-      "name": "mangayomi-anime-extensions-OMEGA-FORK",
-      "fullName": "Pierreg99/mangayomi-anime-extensions-OMEGA-FORK",
-      "htmlUrl": "https://github.com/Pierreg99/mangayomi-anime-extensions-OMEGA-FORK",
-      "defaultBranch": "main",
-      "updatedAt": "2026-09-14T16:35:00Z",
-      "archived": false
-    },
-    {
       "name": "Nexo-Jarvis-AI-Futuristic-Assistant-Alpha",
       "fullName": "Pierreg99/Nexo-Jarvis-AI-Futuristic-Assistant-Alpha",
       "htmlUrl": "https://github.com/Pierreg99/Nexo-Jarvis-AI-Futuristic-Assistant-Alpha",
@@ -175,7 +151,7 @@
       "fullName": "Pierreg99/Pierreg99-Profile-Page",
       "htmlUrl": "https://github.com/Pierreg99/Pierreg99-Profile-Page",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-27T05:29:40Z",
+      "updatedAt": "2026-10-29T13:37:04Z",
       "archived": false
     },
     {
@@ -191,7 +167,7 @@
       "fullName": "Pierreg99/progress",
       "htmlUrl": "https://github.com/Pierreg99/progress",
       "defaultBranch": "main",
-      "updatedAt": "2026-10-29T00:56:23Z",
+      "updatedAt": "2026-10-29T07:05:18Z",
       "archived": false
     },
     {
@@ -299,35 +275,11 @@
       "archived": false
     },
     {
-      "name": "termux-packages-OMEGA-FORK",
-      "fullName": "Pierreg99/termux-packages-OMEGA-FORK",
-      "htmlUrl": "https://github.com/Pierreg99/termux-packages-OMEGA-FORK",
-      "defaultBranch": "master",
-      "updatedAt": "2026-09-12T11:08:14Z",
-      "archived": false
-    },
-    {
       "name": "TermuxArch-OMEGA-FORK",
       "fullName": "Pierreg99/TermuxArch-OMEGA-FORK",
       "htmlUrl": "https://github.com/Pierreg99/TermuxArch-OMEGA-FORK",
       "defaultBranch": "master",
       "updatedAt": "2026-09-12T11:09:21Z",
-      "archived": false
-    },
-    {
-      "name": "TermuxBlack-OMEGA-FORK",
-      "fullName": "Pierreg99/TermuxBlack-OMEGA-FORK",
-      "htmlUrl": "https://github.com/Pierreg99/TermuxBlack-OMEGA-FORK",
-      "defaultBranch": "master",
-      "updatedAt": "2026-09-12T11:09:07Z",
-      "archived": false
-    },
-    {
-      "name": "zapstore-OMEGA-FORK",
-      "fullName": "Pierreg99/zapstore-OMEGA-FORK",
-      "htmlUrl": "https://github.com/Pierreg99/zapstore-OMEGA-FORK",
-      "defaultBranch": "master",
-      "updatedAt": "2026-09-16T06:47:33Z",
       "archived": false
     },
     {
